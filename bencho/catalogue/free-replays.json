@@ -1,0 +1,1071 @@
+{
+  "checked_at_utc": "2026-11-17T09:34:57.827932+00:00",
+  "items": [
+    {
+      "slug": "action-node",
+      "url": "https://bencho.dev/blocks/action-node",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "action-node-0.jpg",
+          "text": "Node 07\n\nReads the thread, writes a summary, and posts it back to the channel it came from.\n\n+3"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "action-node-1.jpg",
+          "text": "Node 07\n\nReads the thread, writes a summary, and posts it back to the channel it came from.\n\n+3"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "action-node-2.jpg",
+          "text": "Node 07\n\nReads the thread, writes a summary, and posts it back to the channel it came from.\n\n+3"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "ascii-wake",
+      "url": "https://bencho.dev/blocks/ascii-wake",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "ascii-wake-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "ascii-wake-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "ascii-wake-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "aspect",
+      "url": "https://bencho.dev/blocks/aspect",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "aspect-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "aspect-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "aspect-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "asset-swap",
+      "url": "https://bencho.dev/blocks/asset-swap",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "asset-swap-0.jpg",
+          "text": "You pay\n0.05\n$4,885.00\nBTC\nYou receive\n127.496\n$4,870.35\nHYPE"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "asset-swap-1.jpg",
+          "text": "You receive\n0.03898\n$3,808.54\nBTC\nYou pay\n100\n$3,820.00\nHYPE"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "asset-swap-2.jpg",
+          "text": "You pay\n0.05\n$4,885.00\nBTC\nYou receive\n127.496\n$4,870.35\nHYPE\nYou receive\nBTC\nBitcoin\nETH\nEthereum\nHYPE\nHyperliquid\nZEC\nZcash\nQNT\nQuant"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "card-stack",
+      "url": "https://bencho.dev/blocks/card-stack",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "card-stack-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "card-stack-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "card-stack-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "card-swap",
+      "url": "https://bencho.dev/blocks/card-swap",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "card-swap-0.jpg",
+          "text": "Mountain\nBloom\nPeak\nWings"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "card-swap-1.jpg",
+          "text": "Mountain\nBloom\nPeak\nWings"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "card-swap-2.jpg",
+          "text": "Mountain\nBloom\nPeak\nWings"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "carousel",
+      "url": "https://bencho.dev/blocks/carousel",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "carousel-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "carousel-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "carousel-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "checklist",
+      "url": "https://bencho.dev/blocks/checklist",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "checklist-0.jpg",
+          "text": "Book the studio\nSend the estimate\nPick a typeface\nAdd new task"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "checklist-1.jpg",
+          "text": "Book the studio\nSend the estimate\nPick a typeface\nAdd new task"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "checklist-2.jpg",
+          "text": "Book the studio\nSend the estimate\nPick a typeface\nAdd new task"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "context-meter",
+      "url": "https://bencho.dev/blocks/context-meter",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "context-meter-0.jpg",
+          "text": "Context\nCompact\n12.8K\n1\n2\n.\n8\nK\nTools\nChat\nFiles\nTools\nSystem\nMemory"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "context-meter-1.jpg",
+          "text": "Context\nCompact\n4.2K\n4\n.\n2\nK\nSystem\nChat\nFiles\nTools\nSystem\nMemory"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "context-meter-2.jpg",
+          "text": "Context\nCompact\n175.6K\n1\n7\n5\n.\n6\nK\nof 200K\nChat\nFiles\nTools\nSystem\nMemory"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "dock",
+      "url": "https://bencho.dev/blocks/dock",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "dock-0.jpg",
+          "text": "Home"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "dock-1.jpg",
+          "text": "Files"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "dock-2.jpg",
+          "text": "Files"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "drag-ball",
+      "url": "https://bencho.dev/blocks/drag-ball",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "drag-ball-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "drag-ball-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "drag-ball-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "dynamic-island",
+      "url": "https://bencho.dev/blocks/dynamic-island",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "dynamic-island-0.jpg",
+          "text": "Timer\n4:58"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "dynamic-island-1.jpg",
+          "text": "4:57"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "dynamic-island-2.jpg",
+          "text": "Timer\n4:54"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "emoji-reactions",
+      "url": "https://bencho.dev/blocks/emoji-reactions",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "emoji-reactions-0.jpg",
+          "text": "Shipped the new onboarding flow\n🚀\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n🔥\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "emoji-reactions-1.jpg",
+          "text": "Shipped the new onboarding flow\n👍\n🎉\n👀\n✅\n🚀\n🔥\nDone\n🚀\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n🔥\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "emoji-reactions-2.jpg",
+          "text": "Shipped the new onboarding flow\n🚀\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n🔥\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "escape",
+      "url": "https://bencho.dev/blocks/escape",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "escape-0.jpg",
+          "text": "Touch me"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "escape-1.jpg",
+          "text": "Touch me"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "escape-2.jpg",
+          "text": "Touch me"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "eye-tracker",
+      "url": "https://bencho.dev/blocks/eye-tracker",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "eye-tracker-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "eye-tracker-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "eye-tracker-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "folding-bill",
+      "url": "https://bencho.dev/blocks/folding-bill",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "folding-bill-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "folding-bill-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "folding-bill-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "generate",
+      "url": "https://bencho.dev/blocks/generate",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "generate-0.jpg",
+          "text": "Generate\n0%"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "generate-1.jpg",
+          "text": "Generate\n68%"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "generate-2.jpg",
+          "text": "Generate\n99%"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "glass-bubble",
+      "url": "https://bencho.dev/blocks/glass-bubble",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "glass-bubble-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "glass-bubble-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "glass-bubble-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "heat-word",
+      "url": "https://bencho.dev/blocks/heat-word",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "heat-word-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "heat-word-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "heat-word-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "image-accordion",
+      "url": "https://bencho.dev/blocks/image-accordion",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "image-accordion-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "image-accordion-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "image-accordion-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "image-compare",
+      "url": "https://bencho.dev/blocks/image-compare",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "image-compare-0.jpg",
+          "text": "Before\nAfter"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "image-compare-1.jpg",
+          "text": "Before\nAfter"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "image-compare-2.jpg",
+          "text": "Before\nAfter"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "label-input",
+      "url": "https://bencho.dev/blocks/label-input",
+      "frames": [],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "no-guided-replay-control",
+      "observation": "No Show me how control was available in this panel. Direct focus/type/blur/clear checks passed; see gesture-checks.json."
+    },
+    {
+      "slug": "like",
+      "url": "https://bencho.dev/blocks/like",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "like-0.jpg",
+          "text": "1\n,\n3\n0\n0"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "like-1.jpg",
+          "text": "1\n,\n3\n0\n1"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "like-2.jpg",
+          "text": "1\n,\n3\n0\n0"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "liq-create",
+      "url": "https://bencho.dev/blocks/liq-create",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "liq-create-0.jpg",
+          "text": "Create\nDocument\nSpreadsheet\nBoard\nFolder"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "liq-create-1.jpg",
+          "text": "Create\nDocument\nSpreadsheet\nBoard\nFolder"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "liq-create-2.jpg",
+          "text": "Create\nDocument\nSpreadsheet\nBoard\nFolder"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "liq-toggle",
+      "url": "https://bencho.dev/blocks/liq-toggle",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "liq-toggle-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "liq-toggle-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "liq-toggle-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "magnet-select",
+      "url": "https://bencho.dev/blocks/magnet-select",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "magnet-select-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "magnet-select-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "magnet-select-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "one-time-code",
+      "url": "https://bencho.dev/blocks/one-time-code",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "one-time-code-0.jpg",
+          "text": "Verified"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "one-time-code-1.jpg",
+          "text": "Verified"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "one-time-code-2.jpg",
+          "text": "Verified"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "palette",
+      "url": "https://bencho.dev/blocks/palette",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "palette-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "palette-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "palette-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "particles",
+      "url": "https://bencho.dev/blocks/particles",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "particles-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "particles-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "particles-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "picker",
+      "url": "https://bencho.dev/blocks/picker",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "picker-0.jpg",
+          "text": "Adam Marsh\nDesign\nPriya Raman\nResearch\nNora Wilder\nEngineering\nMarco Bellini\nProduct"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "picker-1.jpg",
+          "text": "Adam Marsh\nDesign\nPriya Raman\nResearch\nNora Wilder\nEngineering\nMarco Bellini\nProduct"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "picker-2.jpg",
+          "text": "Adam Marsh\nDesign\nPriya Raman\nResearch\nNora Wilder\nEngineering\nMarco Bellini\nProduct"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "pull",
+      "url": "https://bencho.dev/blocks/pull",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "pull-0.jpg",
+          "text": "$58,666.68\n\n+1,036.53 · 1.8%\n16:11\n\n1H\n4H\n1D"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "pull-1.jpg",
+          "text": "$58,417.45\n\n+787.30 · 1.4%\n14:14\n\n1H\n4H\n1D"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "pull-2.jpg",
+          "text": "$59,102.40\n\n+267.65 · 0.5%\ntoday\n\n1H\n4H\n1D"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "rolling-counter",
+      "url": "https://bencho.dev/blocks/rolling-counter",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "rolling-counter-0.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n,\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "rolling-counter-1.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n,\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "rolling-counter-2.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n,\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "seek",
+      "url": "https://bencho.dev/blocks/seek",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "seek-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "seek-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "seek-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "signature",
+      "url": "https://bencho.dev/blocks/signature",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "signature-0.jpg",
+          "text": "Sign here\nClear"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "signature-1.jpg",
+          "text": "Sign here\nClear"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "signature-2.jpg",
+          "text": "Sign here\nClear\nSigned"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "slide-confirm",
+      "url": "https://bencho.dev/blocks/slide-confirm",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "slide-confirm-0.jpg",
+          "text": "Slide to confirm\nConfirmed"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "slide-confirm-1.jpg",
+          "text": "Slide to confirm\nConfirmed"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "slide-confirm-2.jpg",
+          "text": "Slide to confirm\nConfirmed"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "slingshot",
+      "url": "https://bencho.dev/blocks/slingshot",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "slingshot-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "slingshot-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "slingshot-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "slosh",
+      "url": "https://bencho.dev/blocks/slosh",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "slosh-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "slosh-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "slosh-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "sound",
+      "url": "https://bencho.dev/blocks/sound",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "sound-0.jpg",
+          "text": "Cabra Field\nSide B\n0:52\n−2:42"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "sound-1.jpg",
+          "text": "Cabra Field\nSide B\n0:52\n−2:42"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "sound-2.jpg",
+          "text": "Cabra Field\nSide B\n0:55\n−2:39"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "stacked-bars",
+      "url": "https://bencho.dev/blocks/stacked-bars",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "stacked-bars-0.jpg",
+          "text": "Traffic\nLast 20 days\nDay\nWeek\n24,182\nvisits\nSep 24\n1,213\nDirect\n508\nSearch\n270\nBounced\n6\nSep 22\nOct 11"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "stacked-bars-1.jpg",
+          "text": "Traffic\nLast 20 days\nDay\nWeek\n24,182\nvisits\nOct 2\n1,116\nEmail\n337\nDirect\n321\nBounced\n8\nSep 22\nOct 11"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "stacked-bars-2.jpg",
+          "text": "Traffic\nLast 20 weeks\nDay\nWeek\n146,206\nvisits\nMay 25\nOct 5"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "step-player",
+      "url": "https://bencho.dev/blocks/step-player",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "step-player-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "step-player-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "step-player-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "tilt",
+      "url": "https://bencho.dev/blocks/tilt",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "tilt-0.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "tilt-1.jpg",
+          "text": ""
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "tilt-2.jpg",
+          "text": ""
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "time-scrubber",
+      "url": "https://bencho.dev/blocks/time-scrubber",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "time-scrubber-0.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAM\n9 AM\n10 AM"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "time-scrubber-1.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAM\n10 AM\n11 AM"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "time-scrubber-2.jpg",
+          "text": "0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n:\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\nAM\n9 AM\n10 AM"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "toast-stack",
+      "url": "https://bencho.dev/blocks/toast-stack",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "toast-stack-0.jpg",
+          "text": "Payment declined\nTry another card.\nRetry\nKai joined your bench\nThey can comment and copy.\nbrand-kit.zip uploaded\nSaved to Launch week."
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "toast-stack-1.jpg",
+          "text": "Payment declined\nTry another card.\nRetry\nKai joined your bench\nThey can comment and copy.\nbrand-kit.zip uploaded\nSaved to Launch week."
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "toast-stack-2.jpg",
+          "text": "Payment declined\nTry another card.\nRetry\nKai joined your bench\nThey can comment and copy.\nbrand-kit.zip uploaded\nSaved to Launch week."
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "todo-tower",
+      "url": "https://bencho.dev/blocks/todo-tower",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "todo-tower-0.jpg",
+          "text": "Reply to Nadia\nRenew the domain\nBook the flights\nExport the icons\nPay the invoice\nCall the landlord"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "todo-tower-1.jpg",
+          "text": "Reply to Nadia\nRenew the domain\nExport the icons\nPay the invoice\nCall the landlord"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "todo-tower-2.jpg",
+          "text": "Renew the domain\nExport the icons\nPay the invoice\nCall the landlord"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "upload-dropzone",
+      "url": "https://bencho.dev/blocks/upload-dropzone",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "upload-dropzone-0.jpg",
+          "text": "Drag a file here\nUp to 5 MB\nPNG\nmood.png\nMP4\ndemo.mp4"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "upload-dropzone-1.jpg",
+          "text": "PNG\nmood.png\n2.4 MB ·\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n%\nPNG\nmood.png\nMP4\ndemo.mp4"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "upload-dropzone-2.jpg",
+          "text": "Drag a file here\nUp to 5 MB\nPNG\nmood.png\nMP4\ndemo.mp4"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "voice-note",
+      "url": "https://bencho.dev/blocks/voice-note",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "voice-note-0.jpg",
+          "text": "0:00\n‹ Slide to cancel"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "voice-note-1.jpg",
+          "text": "0:02\n‹ Slide to cancel"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "voice-note-2.jpg",
+          "text": "0:02\n‹ Slide to cancel"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    },
+    {
+      "slug": "wake-slider",
+      "url": "https://bencho.dev/blocks/wake-slider",
+      "frames": [
+        {
+          "approx_ms": 0,
+          "local_file": "wake-slider-0.jpg",
+          "text": "50"
+        },
+        {
+          "approx_ms": 1500,
+          "local_file": "wake-slider-1.jpg",
+          "text": "93"
+        },
+        {
+          "approx_ms": 4000,
+          "local_file": "wake-slider-2.jpg",
+          "text": "50"
+        }
+      ],
+      "method": "Bencho Show me how replay, sampled at approximately 0, 1.5 and 4 seconds. Not exhaustive.",
+      "status": "replay-sampled"
+    }
+  ]
+}

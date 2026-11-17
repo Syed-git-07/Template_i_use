@@ -1,0 +1,2 @@
+# Keep the pinned upstream snapshot byte-identical on every checkout.
+bencho/upstream-free/** -text

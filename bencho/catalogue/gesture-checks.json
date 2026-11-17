@@ -1,0 +1,66 @@
+{
+  "checked_at_utc": "2026-11-17T09:46:14.024348+00:00",
+  "scope": "Selected public-demo interactions only; not real application integrations.",
+  "items": [
+    {
+      "slug": "card-swap",
+      "url": "https://bencho.dev/blocks/card-swap",
+      "action": "Click front card",
+      "before": "Mountain",
+      "after": "Bloom",
+      "status": "passed"
+    },
+    {
+      "slug": "liq-toggle",
+      "url": "https://bencho.dev/blocks/liq-toggle",
+      "action": "Click switch, then Space to reverse",
+      "before": "false",
+      "after": "true",
+      "keyboard_reverse": true,
+      "status": "passed"
+    },
+    {
+      "slug": "label-input",
+      "url": "https://bencho.dev/blocks/label-input",
+      "action": "Focus, type synthetic text, blur, clear",
+      "result": "Value retained on blur and cleared",
+      "status": "passed"
+    },
+    {
+      "slug": "like",
+      "url": "https://bencho.dev/blocks/like",
+      "action": "Click Like",
+      "before": "Like. 1,300 likes",
+      "after": "Like. 1,301 likes",
+      "status": "passed"
+    },
+    {
+      "slug": "step-player",
+      "url": "https://bencho.dev/blocks/step-player",
+      "action": "Play then pause",
+      "result": "Controls changed to Pause and back to Play",
+      "status": "passed"
+    },
+    {
+      "slug": "one-time-code",
+      "url": "https://bencho.dev/blocks/one-time-code",
+      "action": "Enter synthetic 1234 into default Accept demo",
+      "result": "1\n2\n3\n4\nVerified",
+      "status": "passed"
+    },
+    {
+      "slug": "liq-create",
+      "url": "https://bencho.dev/blocks/liq-create",
+      "action": "Open Create menu",
+      "result": "Document option visible",
+      "status": "passed"
+    },
+    {
+      "slug": "seek",
+      "url": "https://bencho.dev/blocks/seek",
+      "action": "Expand search and type synthetic query",
+      "result": "Expanded input accepts query; search backend not tested",
+      "status": "passed"
+    }
+  ]
+}
