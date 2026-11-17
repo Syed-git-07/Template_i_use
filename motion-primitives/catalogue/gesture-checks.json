@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-11-17T11:07:01.499935+00:00",
+  "scope": "Selected desktop public-demo actions; no real data deletion, submission or production guarantee.",
+  "items": [
+    {
+      "slug": "accordion",
+      "url": "https://motion-primitives.com/docs/accordion",
+      "assertions": [
+        "Accordion click changes expansion; Enter reverses it"
+      ],
+      "status": "passed"
+    }
+  ]
+}

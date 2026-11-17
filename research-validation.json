@@ -1,0 +1,42 @@
+{
+  "sites": [
+    {
+      "site": "viewport",
+      "indexed_pages": 625,
+      "verified_source_hashes": 0
+    },
+    {
+      "site": "60fps",
+      "indexed_pages": 3039,
+      "verified_source_hashes": 0
+    },
+    {
+      "site": "shadcn",
+      "indexed_pages": 405,
+      "verified_source_hashes": 2670
+    },
+    {
+      "site": "interior",
+      "indexed_pages": 56,
+      "verified_source_hashes": 147
+    },
+    {
+      "site": "motion-primitives",
+      "indexed_pages": 35,
+      "verified_source_hashes": 170
+    },
+    {
+      "site": "aceternity",
+      "indexed_pages": 531,
+      "verified_source_hashes": 123
+    },
+    {
+      "site": "cult",
+      "indexed_pages": 145,
+      "verified_source_hashes": 432
+    }
+  ],
+  "broken_local_links": 0,
+  "result": "passed",
+  "scope": "Hashes, catalogue/evidence consistency, local links and staged publication boundaries. Not exhaustive behavior certification."
+}

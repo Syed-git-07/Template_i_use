@@ -1,0 +1,4004 @@
+{
+  "items": [
+    {
+      "url": "https://ui.aceternity.com/blocks/backgrounds/background-grid-with-dots-and-animations",
+      "path": "/blocks/backgrounds/background-grid-with-dots-and-animations",
+      "name": "Background Grid with Dots and Animations",
+      "http_status": 200,
+      "heading": "Background Grid with Dots and Animations",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/illustrations/iphone-illustration",
+      "path": "/blocks/illustrations/iphone-illustration",
+      "name": "iPhone Illustration",
+      "http_status": 200,
+      "heading": "iPhone Illustration",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Invalid value used as weak map key"
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/illustrations/macbook-illustration",
+      "path": "/blocks/illustrations/macbook-illustration",
+      "name": "MacBook Illustration",
+      "http_status": 200,
+      "heading": "MacBook Illustration",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Invalid value used as weak map key"
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/login-and-signup-sections/registration-form-with-images",
+      "path": "/blocks/login-and-signup-sections/registration-form-with-images",
+      "name": "Registration Form With Images",
+      "http_status": 200,
+      "heading": "Registration Form With Images",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/navbars/navbar-classic",
+      "path": "/blocks/navbars/navbar-classic",
+      "name": "Navbar Classic",
+      "http_status": 200,
+      "heading": "Navbar Classic",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Toggle menu",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Get started",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #520; visit https://react.dev/errors/520 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/sidebars/grouped-sidebar",
+      "path": "/blocks/sidebars/grouped-sidebar",
+      "name": "Grouped Sidebar",
+      "http_status": 200,
+      "heading": "Grouped Sidebar",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy prompt (requires All Access)",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Content",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Team",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Settings",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Content",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Team",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Settings",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [
+        "Get All-Access"
+      ],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #520; visit https://react.dev/errors/520 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/stats-sections/stats-with-gradient",
+      "path": "/blocks/stats-sections/stats-with-gradient",
+      "name": "Stats With Gradient",
+      "status": "needs-review",
+      "error": "TimeoutError('Page.goto: Timeout 35000ms exceeded.\\nCall log:\\n  - navigating to \"https://ui.aceternity.com/blocks/stats-sections/stats-with-gradient\", waiting until \"domcontentloaded\"\\n')",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/blocks/stats-sections/stats-with-number-ticker",
+      "path": "/blocks/stats-sections/stats-with-number-ticker",
+      "name": "Stats With Number Ticker",
+      "status": "needs-review",
+      "error": "TimeoutError('Page.goto: Timeout 35000ms exceeded.\\nCall log:\\n  - navigating to \"https://ui.aceternity.com/blocks/stats-sections/stats-with-number-ticker\", waiting until \"domcontentloaded\"\\n')",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/3d-pin",
+      "path": "/components/3d-pin",
+      "name": "3D Animated Pin",
+      "http_status": 200,
+      "heading": "3D Animated Pin",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/container-text-flip",
+      "path": "/components/container-text-flip",
+      "name": "Container Text Flip",
+      "http_status": 200,
+      "heading": "Container Text Flip",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/encrypted-text",
+      "path": "/components/encrypted-text",
+      "name": "Encrypted Text",
+      "http_status": 200,
+      "heading": "Encrypted Text",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 2,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/glowing-effect",
+      "path": "/components/glowing-effect",
+      "name": "Glowing Effect",
+      "http_status": 200,
+      "heading": "Glowing Effect",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 2,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #520; visit https://react.dev/errors/520 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/gooey-input",
+      "path": "/components/gooey-input",
+      "name": "Gooey Input",
+      "http_status": 200,
+      "heading": "Gooey Input",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "search",
+          "label": "",
+          "disabled": true,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #520; visit https://react.dev/errors/520 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/keyboard",
+      "path": "/components/keyboard",
+      "name": "Keyboard",
+      "http_status": 200,
+      "heading": "Keyboard",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "esc",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F10",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F11",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F12",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "~\n`",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "!\n1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "@\n2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "#\n3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "$\n4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "%\n5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "^\n6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "&\n7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "*\n8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "(\n9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ")\n0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\u2014\n_",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "+\n=",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "delete",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "tab",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Q",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "W",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "E",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "R",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "T",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Y",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "U",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "I",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "O",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "P",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "{\n[",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "}\n]",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "|\n\\",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "caps lock",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "A",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "S",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "D",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "G",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "H",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "J",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "K",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "L",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ":\n;",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\"\n'",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "return",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Z",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "X",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "C",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "V",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "B",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "N",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "M",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "<\n,",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ">\n.",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "?\n/",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "fn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "control",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "esc",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F10",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F11",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F12",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "~\n`",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "!\n1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "@\n2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "#\n3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "$\n4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "%\n5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "^\n6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "&\n7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "*\n8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "(\n9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ")\n0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\u2014\n_",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "+\n=",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "delete",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "tab",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Q",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "W",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "E",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "R",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "T",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Y",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "U",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "I",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "O",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "P",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "{\n[",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "}\n]",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "|\n\\",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "caps lock",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "A",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "S",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "D",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "G",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "H",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "J",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "K",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "L",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ":\n;",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\"\n'",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "return",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Z",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "X",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "C",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "V",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "B",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "N",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "M",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "<\n,",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ">\n.",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "?\n/",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "fn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "control",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "esc",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F10",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F11",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F12",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "~\n`",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "!\n1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "@\n2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "#\n3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "$\n4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "%\n5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "^\n6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "&\n7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "*\n8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "(\n9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ")\n0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\u2014\n_",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "+\n=",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "delete",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "tab",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Q",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "W",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "E",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "R",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "T",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Y",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "U",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "I",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "O",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "P",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "{\n[",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "}\n]",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "|\n\\",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "caps lock",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "A",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "S",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "D",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "G",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "H",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "J",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "K",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "L",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ":\n;",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\"\n'",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "return",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Z",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "X",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "C",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "V",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "B",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "N",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "M",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "<\n,",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ">\n.",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "?\n/",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "fn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "control",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "esc",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F10",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F11",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F12",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "~\n`",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "!\n1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "@\n2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "#\n3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "$\n4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "%\n5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "^\n6",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "&\n7",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "*\n8",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "(\n9",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ")\n0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\u2014\n_",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "+\n=",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "delete",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "tab",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Q",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "W",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "E",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "R",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "T",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Y",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "U",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "I",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "O",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "P",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "{\n[",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "}\n]",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "|\n\\",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "caps lock",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "A",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "S",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "D",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "F",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "G",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "H",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "J",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "K",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "L",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ":\n;",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\"\n'",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "return",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Z",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "X",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "C",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "V",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "B",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "N",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "M",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "<\n,",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": ">\n.",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "?\n/",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "shift",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "fn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "control",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "option",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 4,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #520; visit https://react.dev/errors/520 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://ui.aceternity.com/components/tooltip-card",
+      "path": "/components/tooltip-card",
+      "name": "Tooltip Card",
+      "http_status": 200,
+      "heading": "Tooltip Card",
+      "typography": {
+        "heading": {
+          "font": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "__Local_x2wexs, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif"
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy npm install command",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select package manager",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy implementation guide",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Talk to us",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 1,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    }
+  ],
+  "note": "Previous observations retained before a targeted retry; not a claim of a component defect."
+}

@@ -1,0 +1,5155 @@
+{
+  "checked_at_utc": "2026-11-17T10:57:00.356211+00:00",
+  "items": [
+    {
+      "url": "https://motion-primitives.com/docs/accordion",
+      "path": "/docs/accordion",
+      "name": "Accordion",
+      "http_status": 200,
+      "heading": "Accordion",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Getting Started",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Animation Properties",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Advanced Usage",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Community and Support",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Getting Started",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Animation Properties",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Advanced Usage",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Community and Support",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "How do I start with Motion-Primitives?",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "What are the key animation properties?",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "How do I use advanced features?",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "How do I engage with the community?",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-background",
+      "path": "/docs/animated-background",
+      "name": "Animated Background",
+      "http_status": 200,
+      "heading": "Animated Background",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Home",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "About",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Services",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Contact",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Day view",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Week view",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Month view",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Year view",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-group",
+      "path": "/docs/animated-group",
+      "name": "Animated Group",
+      "http_status": 200,
+      "heading": "Animated Group",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-number",
+      "path": "/docs/animated-number",
+      "name": "Animated Number",
+      "http_status": 200,
+      "heading": "Animated Number",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Decrement",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Increment",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/border-trail",
+      "path": "/docs/border-trail",
+      "name": "Border Trail",
+      "http_status": 200,
+      "heading": "Border Trail",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Load",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "TEXTAREA",
+          "role": null,
+          "type": "textarea",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/carousel",
+      "path": "/docs/carousel",
+      "name": "Carousel",
+      "http_status": 200,
+      "heading": "Carousel",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Previous slide",
+          "disabled": true,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Next slide",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Previous slide",
+          "disabled": true,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Next slide",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Previous slide",
+          "disabled": true,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Next slide",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to slide 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to slide 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to slide 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to slide 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/cursor",
+      "path": "/docs/cursor",
+      "name": "Cursor",
+      "http_status": 200,
+      "heading": "Cursor",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/dialog",
+      "path": "/docs/dialog",
+      "name": "Dialog",
+      "http_status": 200,
+      "heading": "Dialog",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Join the waitlist",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open Dialog",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Join the waitlist",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Join the waitlist",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Join the waitlist",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/disclosure",
+      "path": "/docs/disclosure",
+      "name": "Disclosure",
+      "http_status": 200,
+      "heading": "Disclosure",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "button",
+          "type": "button",
+          "label": "Show more",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "button",
+          "type": "button",
+          "label": "lesothers.studio",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/dock",
+      "path": "/docs/dock",
+      "name": "Dock",
+      "http_status": 200,
+      "heading": "Dock",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/glow-effect",
+      "path": "/docs/glow-effect",
+      "name": "Glow Effect",
+      "http_status": 200,
+      "heading": "Glow Effect",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Explore",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Load",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/image-comparison",
+      "path": "/docs/image-comparison",
+      "name": "Image Comparison",
+      "http_status": 200,
+      "heading": "Image Comparison",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/in-view",
+      "path": "/docs/in-view",
+      "name": "In View",
+      "http_status": 200,
+      "heading": "In View",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/infinite-slider",
+      "path": "/docs/infinite-slider",
+      "name": "Infinite Slider",
+      "http_status": 200,
+      "heading": "Infinite Slider",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/installation",
+      "path": "/docs/installation",
+      "name": "Installation",
+      "http_status": 200,
+      "heading": "Installation",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/magnetic",
+      "path": "/docs/magnetic",
+      "name": "Magnetic",
+      "http_status": 200,
+      "heading": "Magnetic",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Submit",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Submit",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/morphing-dialog",
+      "path": "/docs/morphing-dialog",
+      "name": "Morphing Dialog",
+      "http_status": 200,
+      "heading": "Morphing Dialog",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Open dialog _r_7_",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open dialog",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Open dialog _r_d_",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Open dialog _r_j_",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/morphing-popover",
+      "path": "/docs/morphing-popover",
+      "name": "Morphing Popover",
+      "http_status": 200,
+      "heading": "Morphing Popover",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Open popover",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Open popover",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Add Note",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/progressive-blur",
+      "path": "/docs/progressive-blur",
+      "name": "Progressive blur",
+      "http_status": 200,
+      "heading": "Progressive blur",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/scroll-progress",
+      "path": "/docs/scroll-progress",
+      "name": "Scroll Progress",
+      "http_status": 200,
+      "heading": "Scroll Progress",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/sliding-number",
+      "path": "/docs/sliding-number",
+      "name": "Sliding Number",
+      "http_status": 200,
+      "heading": "Sliding Number",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "range",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/spinning-text",
+      "path": "/docs/spinning-text",
+      "name": "Spinning Text",
+      "http_status": 200,
+      "heading": "Spinning Text",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/spotlight",
+      "path": "/docs/spotlight",
+      "name": "Spotlight",
+      "http_status": 200,
+      "heading": "Spotlight",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-effect",
+      "path": "/docs/text-effect",
+      "name": "Text Effect",
+      "http_status": 200,
+      "heading": "Text Effect",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-loop",
+      "path": "/docs/text-loop",
+      "name": "Text Loop",
+      "http_status": 200,
+      "heading": "Text Loop",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-morph",
+      "path": "/docs/text-morph",
+      "name": "Text Morph",
+      "http_status": 200,
+      "heading": "Text Morph",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Continue",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-roll",
+      "path": "/docs/text-roll",
+      "name": "Text Roll",
+      "http_status": 200,
+      "heading": "Text Roll",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-scramble",
+      "path": "/docs/text-scramble",
+      "name": "Text Scramble",
+      "http_status": 200,
+      "heading": "Text Scramble",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-shimmer",
+      "path": "/docs/text-shimmer",
+      "name": "Text Shimmer",
+      "http_status": 200,
+      "heading": "Text Shimmer",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-shimmer-wave",
+      "path": "/docs/text-shimmer-wave",
+      "name": "Text Shimmer Wave",
+      "http_status": 200,
+      "heading": "Text Shimmer Wave",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/tilt",
+      "path": "/docs/tilt",
+      "name": "Tilt",
+      "http_status": 200,
+      "heading": "Tilt",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/toolbar-dynamic",
+      "path": "/docs/toolbar-dynamic",
+      "name": "Toolbar Dynamic",
+      "http_status": 200,
+      "heading": "Toolbar Dynamic",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "User profile",
+          "disabled": true,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Search notes",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/toolbar-expandable",
+      "path": "/docs/toolbar-expandable",
+      "name": "Toolbar Dynamic",
+      "http_status": 200,
+      "heading": "Toolbar Dynamic",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "User",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Messages",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Documents",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Wallet",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/transition-panel",
+      "path": "/docs/transition-panel",
+      "name": "Transition Panel",
+      "http_status": 200,
+      "heading": "Transition Panel",
+      "typography": {
+        "heading": {
+          "font": "Inter, \"Inter Fallback\"",
+          "size": "24px",
+          "weight": "600",
+          "spacing": "normal"
+        },
+        "body": "Inter, \"Inter Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Aesthetics",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Art",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Technique",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Open in v0",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Next",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "motion-primitives",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "shadcn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 0,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    }
+  ]
+}

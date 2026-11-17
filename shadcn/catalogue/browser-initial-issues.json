@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "url": "https://ui.shadcn.com/docs/components/aria/date-picker",
+      "path": "/docs/components/aria/date-picker",
+      "name": "Date Picker",
+      "http_status": 200,
+      "heading": "Date Picker",
+      "typography": {
+        "heading": {
+          "font": "Geist, \"Geist Fallback\"",
+          "size": "30px",
+          "weight": "600",
+          "spacing": "-0.75px"
+        },
+        "body": "Geist, \"Geist Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy Page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Pick a date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Pick a date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "January 20 \u2013 February 9, 2026",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "time",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Select date",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "combobox",
+          "type": "button",
+          "label": "Arabic (\u0627\u0644\u0639\u0631\u0628\u064a\u0629)",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Toggle",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "\u0627\u062e\u062a\u0631 \u062a\u0627\u0631\u064a\u062e\u064b\u0627",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "View Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Deploy Now",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 24,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    }
+  ],
+  "note": "Previous observations retained before a targeted retry; not a claim of a component defect."
+}

@@ -1,0 +1,991 @@
+{
+  "items": [
+    {
+      "slug": "agent-suggest-card-stack",
+      "guide": "components/agent-suggest-card-stack.md",
+      "variants": [
+        "apps/www/registry/default/ui/agent-suggest-card-stack.tsx"
+      ]
+    },
+    {
+      "slug": "ai-blob-warp",
+      "guide": "components/ai-blob-warp.md",
+      "variants": [
+        "apps/www/registry/default/ui/ai-blob-warp.tsx"
+      ]
+    },
+    {
+      "slug": "ai-instructions",
+      "guide": "components/ai-instructions.md",
+      "variants": [
+        "apps/www/registry/default/ui/ai-instructions.tsx"
+      ]
+    },
+    {
+      "slug": "analytics-chart",
+      "guide": "components/analytics-chart.md",
+      "variants": [
+        "apps/www/registry/default/ui/analytics-chart.tsx"
+      ]
+    },
+    {
+      "slug": "apple-iphone-17-pro",
+      "guide": "components/apple-iphone-17-pro.md",
+      "variants": [
+        "apps/www/registry/default/ui/apple-iphone-17-pro.tsx"
+      ]
+    },
+    {
+      "slug": "apple-keyboard",
+      "guide": "components/apple-keyboard.md",
+      "variants": [
+        "apps/www/registry/default/ui/apple-keyboard.tsx"
+      ]
+    },
+    {
+      "slug": "apple-pro-display-xdr",
+      "guide": "components/apple-pro-display-xdr.md",
+      "variants": [
+        "apps/www/registry/default/ui/apple-pro-display-xdr.tsx"
+      ]
+    },
+    {
+      "slug": "apple-watch-ultra",
+      "guide": "components/apple-watch-ultra.md",
+      "variants": [
+        "apps/www/registry/default/ui/apple-watch-ultra.tsx"
+      ]
+    },
+    {
+      "slug": "base-select",
+      "guide": "components/base-select.md",
+      "variants": [
+        "apps/www/registry/default/ui/base-select.tsx"
+      ]
+    },
+    {
+      "slug": "base-tooltip",
+      "guide": "components/base-tooltip.md",
+      "variants": [
+        "apps/www/registry/default/ui/base-tooltip.tsx"
+      ]
+    },
+    {
+      "slug": "bg-animate-button",
+      "guide": "components/bg-animate-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/bg-animate-button.tsx"
+      ]
+    },
+    {
+      "slug": "bg-animated-fractal-dot-grid",
+      "guide": "components/bg-animated-fractal-dot-grid.md",
+      "variants": [
+        "apps/www/registry/default/ui/bg-animated-fractal-dot-grid.tsx"
+      ]
+    },
+    {
+      "slug": "bg-animated-gradient",
+      "guide": "components/bg-animated-gradient.md",
+      "variants": [
+        "apps/www/registry/default/ui/bg-animated-gradient.tsx"
+      ]
+    },
+    {
+      "slug": "bg-image-texture",
+      "guide": "components/bg-image-texture.md",
+      "variants": [
+        "apps/www/registry/default/ui/bg-image-texture.tsx"
+      ]
+    },
+    {
+      "slug": "bg-media",
+      "guide": "components/bg-media.md",
+      "variants": [
+        "apps/www/registry/default/ui/bg-media.tsx"
+      ]
+    },
+    {
+      "slug": "border-beam-button",
+      "guide": "components/border-beam-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/border-beam-button.tsx"
+      ]
+    },
+    {
+      "slug": "border-beam-card",
+      "guide": "components/border-beam-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/border-beam-card.tsx"
+      ]
+    },
+    {
+      "slug": "border-beam-input",
+      "guide": "components/border-beam-input.md",
+      "variants": [
+        "apps/www/registry/default/ui/border-beam-input.tsx"
+      ]
+    },
+    {
+      "slug": "canvas-fractal-grid",
+      "guide": "components/canvas-fractal-grid.md",
+      "variants": [
+        "apps/www/registry/default/ui/canvas-fractal-grid.tsx"
+      ]
+    },
+    {
+      "slug": "choice-poll",
+      "guide": "components/choice-poll.md",
+      "variants": [
+        "apps/www/registry/default/ui/choice-poll.tsx"
+      ]
+    },
+    {
+      "slug": "circuit-board",
+      "guide": "components/circuit-board.md",
+      "variants": [
+        "apps/www/registry/default/ui/circuit-board.tsx"
+      ]
+    },
+    {
+      "slug": "code-block",
+      "guide": "components/code-block.md",
+      "variants": [
+        "apps/www/registry/default/ui/code-block.tsx"
+      ]
+    },
+    {
+      "slug": "collab-avatar",
+      "guide": "components/collab-avatar.md",
+      "variants": [
+        "apps/www/registry/default/ui/collab-avatar.tsx"
+      ]
+    },
+    {
+      "slug": "collab-toolbar",
+      "guide": "components/collab-toolbar.md",
+      "variants": [
+        "apps/www/registry/default/ui/collab-toolbar.tsx"
+      ]
+    },
+    {
+      "slug": "color-picker",
+      "guide": "components/color-picker.md",
+      "variants": [
+        "apps/www/registry/default/ui/color-picker.tsx"
+      ]
+    },
+    {
+      "slug": "copy-button",
+      "guide": "components/copy-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/copy-button.tsx"
+      ]
+    },
+    {
+      "slug": "cosmic-button",
+      "guide": "components/cosmic-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/cosmic-button.tsx"
+      ]
+    },
+    {
+      "slug": "cutout-card",
+      "guide": "components/cutout-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/cutout-card.tsx"
+      ]
+    },
+    {
+      "slug": "direction-aware-tabs",
+      "guide": "components/direction-aware-tabs.md",
+      "variants": [
+        "apps/www/registry/default/ui/direction-aware-tabs.tsx"
+      ]
+    },
+    {
+      "slug": "distorted-glass",
+      "guide": "components/distorted-glass.md",
+      "variants": [
+        "apps/www/registry/default/ui/distorted-glass.tsx"
+      ]
+    },
+    {
+      "slug": "dither-image",
+      "guide": "components/dither-image.md",
+      "variants": [
+        "apps/www/registry/default/ui/dither-image.tsx"
+      ]
+    },
+    {
+      "slug": "dock",
+      "guide": "components/dock.md",
+      "variants": [
+        "apps/www/registry/default/ui/dock.tsx"
+      ]
+    },
+    {
+      "slug": "dynamic-island",
+      "guide": "components/dynamic-island.md",
+      "variants": [
+        "apps/www/registry/default/ui/dynamic-island.tsx"
+      ]
+    },
+    {
+      "slug": "edge-blur",
+      "guide": "components/edge-blur.md",
+      "variants": [
+        "apps/www/registry/default/ui/edge-blur.tsx"
+      ]
+    },
+    {
+      "slug": "expandable",
+      "guide": "components/expandable.md",
+      "variants": [
+        "apps/www/registry/default/ui/expandable.tsx"
+      ]
+    },
+    {
+      "slug": "expandable-card",
+      "guide": "components/expandable-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/expandable-card.tsx"
+      ]
+    },
+    {
+      "slug": "expandable-screen",
+      "guide": "components/expandable-screen.md",
+      "variants": [
+        "apps/www/registry/default/ui/expandable-screen.tsx"
+      ]
+    },
+    {
+      "slug": "family-button",
+      "guide": "components/family-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/family-button.tsx"
+      ]
+    },
+    {
+      "slug": "family-drawer",
+      "guide": "components/family-drawer.md",
+      "variants": [
+        "apps/www/registry/default/ui/family-drawer.tsx"
+      ]
+    },
+    {
+      "slug": "feature-carousel",
+      "guide": "components/feature-carousel.md",
+      "variants": [
+        "apps/www/registry/default/ui/feature-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "feature-poll",
+      "guide": "components/feature-poll.md",
+      "variants": [
+        "apps/www/registry/default/ui/feature-poll.tsx"
+      ]
+    },
+    {
+      "slug": "feature-sticky-section",
+      "guide": "components/feature-sticky-section.md",
+      "variants": [
+        "apps/www/registry/default/ui/feature-sticky-section.tsx"
+      ]
+    },
+    {
+      "slug": "feature-voting",
+      "guide": "components/feature-voting.md",
+      "variants": [
+        "apps/www/registry/default/ui/feature-voting.tsx"
+      ]
+    },
+    {
+      "slug": "file-icons",
+      "guide": "components/file-icons.md",
+      "variants": [
+        "apps/www/registry/default/ui/file-icons.tsx"
+      ]
+    },
+    {
+      "slug": "floating-panel",
+      "guide": "components/floating-panel.md",
+      "variants": [
+        "apps/www/registry/default/ui/floating-panel.tsx"
+      ]
+    },
+    {
+      "slug": "fluid-ai-workloads",
+      "guide": "components/fluid-ai-workloads.md",
+      "variants": [
+        "apps/www/registry/default/ui/fluid-ai-workloads.tsx"
+      ]
+    },
+    {
+      "slug": "fluted-glass",
+      "guide": "components/fluted-glass.md",
+      "variants": [
+        "apps/www/registry/default/ui/fluted-glass.tsx"
+      ]
+    },
+    {
+      "slug": "folded-card",
+      "guide": "components/folded-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/folded-card.tsx"
+      ]
+    },
+    {
+      "slug": "gateway-endpoint-illustration",
+      "guide": "components/gateway-endpoint-illustration.md",
+      "variants": [
+        "apps/www/registry/default/ui/gateway-endpoint-illustration.tsx"
+      ]
+    },
+    {
+      "slug": "gateway-route-illustration",
+      "guide": "components/gateway-route-illustration.md",
+      "variants": [
+        "apps/www/registry/default/ui/gateway-route-illustration.tsx"
+      ]
+    },
+    {
+      "slug": "gateway-svg-illustration",
+      "guide": "components/gateway-svg-illustration.md",
+      "variants": [
+        "apps/www/registry/default/ui/gateway-svg-illustration.tsx"
+      ]
+    },
+    {
+      "slug": "globe",
+      "guide": "components/globe.md",
+      "variants": [
+        "apps/www/registry/default/ui/globe.tsx"
+      ]
+    },
+    {
+      "slug": "glow-button",
+      "guide": "components/glow-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/glow-button.tsx"
+      ]
+    },
+    {
+      "slug": "gradient-button-group",
+      "guide": "components/gradient-button-group.md",
+      "variants": [
+        "apps/www/registry/default/ui/gradient-button-group.tsx"
+      ]
+    },
+    {
+      "slug": "gradient-heading",
+      "guide": "components/gradient-heading.md",
+      "variants": [
+        "apps/www/registry/default/ui/gradient-heading.tsx"
+      ]
+    },
+    {
+      "slug": "grid-beam",
+      "guide": "components/grid-beam.md",
+      "variants": [
+        "apps/www/registry/default/ui/grid-beam.tsx"
+      ]
+    },
+    {
+      "slug": "halo-badge",
+      "guide": "components/halo-badge.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-badge.tsx"
+      ]
+    },
+    {
+      "slug": "halo-button",
+      "guide": "components/halo-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-button.tsx"
+      ]
+    },
+    {
+      "slug": "halo-card",
+      "guide": "components/halo-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-card.tsx"
+      ]
+    },
+    {
+      "slug": "halo-dropzone",
+      "guide": "components/halo-dropzone.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-dropzone.tsx"
+      ]
+    },
+    {
+      "slug": "halo-field",
+      "guide": "components/halo-field.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-field.tsx"
+      ]
+    },
+    {
+      "slug": "halo-input",
+      "guide": "components/halo-input.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-input.tsx"
+      ]
+    },
+    {
+      "slug": "halo-notification",
+      "guide": "components/halo-notification.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-notification.tsx"
+      ]
+    },
+    {
+      "slug": "halo-progress",
+      "guide": "components/halo-progress.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-progress.tsx"
+      ]
+    },
+    {
+      "slug": "halo-search",
+      "guide": "components/halo-search.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-search.tsx"
+      ]
+    },
+    {
+      "slug": "halo-segmented",
+      "guide": "components/halo-segmented.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-segmented.tsx"
+      ]
+    },
+    {
+      "slug": "halo-select",
+      "guide": "components/halo-select.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-select.tsx"
+      ]
+    },
+    {
+      "slug": "halo-switch",
+      "guide": "components/halo-switch.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-switch.tsx"
+      ]
+    },
+    {
+      "slug": "halo-tabs",
+      "guide": "components/halo-tabs.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-tabs.tsx"
+      ]
+    },
+    {
+      "slug": "halo-toast",
+      "guide": "components/halo-toast.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-toast.tsx"
+      ]
+    },
+    {
+      "slug": "halo-toggle-group",
+      "guide": "components/halo-toggle-group.md",
+      "variants": [
+        "apps/www/registry/default/ui/halo-toggle-group.tsx"
+      ]
+    },
+    {
+      "slug": "hero-color-panel",
+      "guide": "components/hero-color-panel.md",
+      "variants": [
+        "apps/www/registry/default/ui/hero-color-panel.tsx"
+      ]
+    },
+    {
+      "slug": "hero-dithering",
+      "guide": "components/hero-dithering.md",
+      "variants": [
+        "apps/www/registry/default/ui/hero-dithering.tsx"
+      ]
+    },
+    {
+      "slug": "hero-heatmap",
+      "guide": "components/hero-heatmap.md",
+      "variants": [
+        "apps/www/registry/default/ui/hero-heatmap.tsx"
+      ]
+    },
+    {
+      "slug": "hero-liquid-metal",
+      "guide": "components/hero-liquid-metal.md",
+      "variants": [
+        "apps/www/registry/default/ui/hero-liquid-metal.tsx"
+      ]
+    },
+    {
+      "slug": "hero-static-radial-gradient",
+      "guide": "components/hero-static-radial-gradient.md",
+      "variants": [
+        "apps/www/registry/default/ui/hero-static-radial-gradient.tsx"
+      ]
+    },
+    {
+      "slug": "hover-video-player",
+      "guide": "components/hover-video-player.md",
+      "variants": [
+        "apps/www/registry/default/ui/hover-video-player.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-card-grid",
+      "guide": "components/illustration-card-grid.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-card-grid.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-comment-bubble",
+      "guide": "components/illustration-comment-bubble.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-comment-bubble.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-cursor",
+      "guide": "components/illustration-cursor.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-cursor.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-fluid-rendering",
+      "guide": "components/illustration-fluid-rendering.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-fluid-rendering.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-globe-vercel",
+      "guide": "components/illustration-globe-vercel.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-globe-vercel.tsx"
+      ]
+    },
+    {
+      "slug": "illustration-graph",
+      "guide": "components/illustration-graph.md",
+      "variants": [
+        "apps/www/registry/default/ui/illustration-graph.tsx"
+      ]
+    },
+    {
+      "slug": "intro-disclosure",
+      "guide": "components/intro-disclosure.md",
+      "variants": [
+        "apps/www/registry/default/ui/intro-disclosure.tsx"
+      ]
+    },
+    {
+      "slug": "kanban-board",
+      "guide": "components/kanban-board.md",
+      "variants": [
+        "apps/www/registry/default/ui/kanban-board.tsx"
+      ]
+    },
+    {
+      "slug": "lightboard",
+      "guide": "components/lightboard.md",
+      "variants": [
+        "apps/www/registry/default/ui/lightboard.tsx"
+      ]
+    },
+    {
+      "slug": "loading-carousel",
+      "guide": "components/loading-carousel.md",
+      "variants": [
+        "apps/www/registry/default/ui/loading-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "logo-carousel",
+      "guide": "components/logo-carousel.md",
+      "variants": [
+        "apps/www/registry/default/ui/logo-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "mac-screen",
+      "guide": "components/mac-screen.md",
+      "variants": [
+        "apps/www/registry/default/ui/mac-screen.tsx"
+      ]
+    },
+    {
+      "slug": "marketing-feature-code",
+      "guide": "components/marketing-feature-code.md",
+      "variants": [
+        "apps/www/registry/default/ui/marketing-feature-code.tsx"
+      ]
+    },
+    {
+      "slug": "marketing-hero-analytics",
+      "guide": "components/marketing-hero-analytics.md",
+      "variants": [
+        "apps/www/registry/default/ui/marketing-hero-analytics.tsx"
+      ]
+    },
+    {
+      "slug": "merging-bubbles",
+      "guide": "components/merging-bubbles.md",
+      "variants": [
+        "apps/www/registry/default/ui/merging-bubbles.tsx"
+      ]
+    },
+    {
+      "slug": "metal-button",
+      "guide": "components/metal-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/metal-button.tsx"
+      ]
+    },
+    {
+      "slug": "minimal-card",
+      "guide": "components/minimal-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/minimal-card.tsx"
+      ]
+    },
+    {
+      "slug": "mock-browser-window",
+      "guide": "components/mock-browser-window.md",
+      "variants": [
+        "apps/www/registry/default/ui/mock-browser-window.tsx"
+      ]
+    },
+    {
+      "slug": "morph-surface",
+      "guide": "components/morph-surface.md",
+      "variants": [
+        "apps/www/registry/default/ui/morph-surface.tsx"
+      ]
+    },
+    {
+      "slug": "neumorph-button",
+      "guide": "components/neumorph-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/neumorph-button.tsx"
+      ]
+    },
+    {
+      "slug": "neumorph-eyebrow",
+      "guide": "components/neumorph-eyebrow.md",
+      "variants": [
+        "apps/www/registry/default/ui/neumorph-eyebrow.tsx"
+      ]
+    },
+    {
+      "slug": "onboarding",
+      "guide": "components/onboarding.md",
+      "variants": [
+        "apps/www/registry/default/ui/onboarding.tsx"
+      ]
+    },
+    {
+      "slug": "organic-button",
+      "guide": "components/organic-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/organic-button.tsx"
+      ]
+    },
+    {
+      "slug": "organic-card",
+      "guide": "components/organic-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/organic-card.tsx"
+      ]
+    },
+    {
+      "slug": "organic-card-small",
+      "guide": "components/organic-card-small.md",
+      "variants": [
+        "apps/www/registry/default/ui/organic-card-small.tsx"
+      ]
+    },
+    {
+      "slug": "pixel-heading-character",
+      "guide": "components/pixel-heading-character.md",
+      "variants": [
+        "apps/www/registry/default/ui/pixel-heading-character.tsx"
+      ]
+    },
+    {
+      "slug": "pixel-heading-word",
+      "guide": "components/pixel-heading-word.md",
+      "variants": [
+        "apps/www/registry/default/ui/pixel-heading-word.tsx"
+      ]
+    },
+    {
+      "slug": "pixel-paragraph-words",
+      "guide": "components/pixel-paragraph-words.md",
+      "variants": [
+        "apps/www/registry/default/ui/pixel-paragraph-words.tsx"
+      ]
+    },
+    {
+      "slug": "pixel-paragraph-words-inverse",
+      "guide": "components/pixel-paragraph-words-inverse.md",
+      "variants": [
+        "apps/www/registry/default/ui/pixel-paragraph-words-inverse.tsx"
+      ]
+    },
+    {
+      "slug": "poll-widget",
+      "guide": "components/poll-widget.md",
+      "variants": [
+        "apps/www/registry/default/ui/poll-widget.tsx"
+      ]
+    },
+    {
+      "slug": "popover",
+      "guide": "components/popover.md",
+      "variants": [
+        "apps/www/registry/default/ui/popover.tsx"
+      ]
+    },
+    {
+      "slug": "popover-form",
+      "guide": "components/popover-form.md",
+      "variants": [
+        "apps/www/registry/default/ui/popover-form.tsx"
+      ]
+    },
+    {
+      "slug": "prompt-composer",
+      "guide": "components/prompt-composer.md",
+      "variants": [
+        "apps/www/registry/default/ui/prompt-composer.tsx"
+      ]
+    },
+    {
+      "slug": "prompt-library",
+      "guide": "components/prompt-library.md",
+      "variants": [
+        "apps/www/registry/default/ui/prompt-library.tsx"
+      ]
+    },
+    {
+      "slug": "rolling-number",
+      "guide": "components/rolling-number.md",
+      "variants": [
+        "apps/www/registry/default/ui/rolling-number.tsx"
+      ]
+    },
+    {
+      "slug": "security-checkpoint",
+      "guide": "components/security-checkpoint.md",
+      "variants": [
+        "apps/www/registry/default/ui/security-checkpoint.tsx"
+      ]
+    },
+    {
+      "slug": "shader-lens-blur",
+      "guide": "components/shader-lens-blur.md",
+      "variants": [
+        "apps/www/registry/default/ui/shader-lens-blur.tsx"
+      ]
+    },
+    {
+      "slug": "shader-shape-lens-blur copy",
+      "guide": "components/shader-shape-lens-blur copy.md",
+      "variants": [
+        "apps/www/registry/default/ui/shader-shape-lens-blur copy.tsx"
+      ]
+    },
+    {
+      "slug": "shadow-card",
+      "guide": "components/shadow-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/shadow-card.tsx"
+      ]
+    },
+    {
+      "slug": "shift-card",
+      "guide": "components/shift-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/shift-card.tsx"
+      ]
+    },
+    {
+      "slug": "side-panel",
+      "guide": "components/side-panel.md",
+      "variants": [
+        "apps/www/registry/default/ui/side-panel.tsx"
+      ]
+    },
+    {
+      "slug": "sortable-list",
+      "guide": "components/sortable-list.md",
+      "variants": [
+        "apps/www/registry/default/ui/sortable-list.tsx"
+      ]
+    },
+    {
+      "slug": "speech-bubble",
+      "guide": "components/speech-bubble.md",
+      "variants": [
+        "apps/www/registry/default/ui/speech-bubble.tsx"
+      ]
+    },
+    {
+      "slug": "squiggle-arrow",
+      "guide": "components/squiggle-arrow.md",
+      "variants": [
+        "apps/www/registry/default/ui/squiggle-arrow.tsx"
+      ]
+    },
+    {
+      "slug": "stripe-bg-guides",
+      "guide": "components/stripe-bg-guides.md",
+      "variants": [
+        "apps/www/registry/default/ui/stripe-bg-guides.tsx"
+      ]
+    },
+    {
+      "slug": "svg-bands",
+      "guide": "components/svg-bands.md",
+      "variants": [
+        "apps/www/registry/default/ui/svg-bands.tsx"
+      ]
+    },
+    {
+      "slug": "svg-shapes",
+      "guide": "components/svg-shapes.md",
+      "variants": [
+        "apps/www/registry/default/ui/svg-shapes.tsx"
+      ]
+    },
+    {
+      "slug": "svg-shapes-animated",
+      "guide": "components/svg-shapes-animated.md",
+      "variants": [
+        "apps/www/registry/default/ui/svg-shapes-animated.tsx"
+      ]
+    },
+    {
+      "slug": "tabs-illustration-vercel",
+      "guide": "components/tabs-illustration-vercel.md",
+      "variants": [
+        "apps/www/registry/default/ui/tabs-illustration-vercel.tsx"
+      ]
+    },
+    {
+      "slug": "terminal-animation",
+      "guide": "components/terminal-animation.md",
+      "variants": [
+        "apps/www/registry/default/ui/terminal-animation.tsx"
+      ]
+    },
+    {
+      "slug": "text-animate",
+      "guide": "components/text-animate.md",
+      "variants": [
+        "apps/www/registry/default/ui/text-animate.tsx"
+      ]
+    },
+    {
+      "slug": "text-gif",
+      "guide": "components/text-gif.md",
+      "variants": [
+        "apps/www/registry/default/ui/text-gif.tsx"
+      ]
+    },
+    {
+      "slug": "texture-button",
+      "guide": "components/texture-button.md",
+      "variants": [
+        "apps/www/registry/default/ui/texture-button.tsx"
+      ]
+    },
+    {
+      "slug": "texture-card",
+      "guide": "components/texture-card.md",
+      "variants": [
+        "apps/www/registry/default/ui/texture-card.tsx"
+      ]
+    },
+    {
+      "slug": "texture-overlay",
+      "guide": "components/texture-overlay.md",
+      "variants": [
+        "apps/www/registry/default/ui/texture-overlay.tsx"
+      ]
+    },
+    {
+      "slug": "three-d-carousel",
+      "guide": "components/three-d-carousel.md",
+      "variants": [
+        "apps/www/registry/default/ui/three-d-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "timer",
+      "guide": "components/timer.md",
+      "variants": [
+        "apps/www/registry/default/ui/timer.tsx"
+      ]
+    },
+    {
+      "slug": "toolbar-expandable",
+      "guide": "components/toolbar-expandable.md",
+      "variants": [
+        "apps/www/registry/default/ui/toolbar-expandable.tsx"
+      ]
+    },
+    {
+      "slug": "tweet-grid",
+      "guide": "components/tweet-grid.md",
+      "variants": [
+        "apps/www/registry/default/ui/tweet-grid.tsx"
+      ]
+    },
+    {
+      "slug": "type-animate",
+      "guide": "components/type-animate.md",
+      "variants": [
+        "apps/www/registry/default/ui/type-animate.tsx"
+      ]
+    },
+    {
+      "slug": "typewriter",
+      "guide": "components/typewriter.md",
+      "variants": [
+        "apps/www/registry/default/ui/typewriter.tsx"
+      ]
+    },
+    {
+      "slug": "vote-tally",
+      "guide": "components/vote-tally.md",
+      "variants": [
+        "apps/www/registry/default/ui/vote-tally.tsx"
+      ]
+    },
+    {
+      "slug": "wizard-expandable",
+      "guide": "components/wizard-expandable.md",
+      "variants": [
+        "apps/www/registry/default/ui/wizard-expandable.tsx"
+      ]
+    },
+    {
+      "slug": "youtube-video-player",
+      "guide": "components/youtube-video-player.md",
+      "variants": [
+        "apps/www/registry/default/ui/youtube-video-player.tsx"
+      ]
+    }
+  ]
+}

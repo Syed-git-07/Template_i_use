@@ -1,0 +1,2046 @@
+{
+  "note": "Code remains in ignored local cache; no blanket redistribution license established. Parameters are literal source facts, not runtime measurements. Duplicate responsive code blocks deduplicated per page.",
+  "items": [
+    {
+      "name": "Bottom Sheet Detail Expansion Interaction",
+      "url": "https://60fps.design/snippets/bottom-sheet-detail-expansion-interaction",
+      "blocks": [
+        {
+          "local_file": "bottom-sheet-detail-expansion-interaction-0.swift",
+          "sha256": "01915d2ab7c263a81670164dc1cbaad93b76e82b78a2b2377a68dcd50d797cdf",
+          "lines": 27,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 18
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "bottom-sheet-detail-expansion-interaction-1.swift",
+          "sha256": "f304dbf7a003aea658a0ca010edb71e8578e760a88613dee144164705a8e8e12",
+          "lines": 200,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "response",
+              "value": 0.36,
+              "line": 56
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.94,
+              "line": 56
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 31
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bottom Tabs Active Tab Expansion Interaction",
+      "url": "https://60fps.design/snippets/bottom-tabs-active-tab-expansion-interaction",
+      "blocks": [
+        {
+          "local_file": "bottom-tabs-active-tab-expansion-interaction-0.swift",
+          "sha256": "ad022ef0bb0eab2f3e513f10fce96c41141b52ee3aa02dcf5018bb70ee0395e7",
+          "lines": 27,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "bottom-tabs-active-tab-expansion-interaction-1.swift",
+          "sha256": "7526fa64b7f1264ba5e55cb7b060670a0ffe33bbc77ce9ca27ace9521dbaeaf8",
+          "lines": 111,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 8.0,
+              "line": 77
+            },
+            {
+              "name": "duration",
+              "value": 0.22,
+              "line": 105
+            }
+          ],
+          "events": [
+            {
+              "name": "DragGesture",
+              "line": 77
+            },
+            {
+              "name": "onChanged",
+              "line": 78
+            },
+            {
+              "name": "onEnded",
+              "line": 84
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": true,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Button Border Stroke Pulse Animation",
+      "url": "https://60fps.design/snippets/button-border-stroke-pulse-animation",
+      "blocks": [
+        {
+          "local_file": "button-border-stroke-pulse-animation-0.swift",
+          "sha256": "92e336ae59558e072228047e927acdc4aa62770158e3fd10f156a45725d2722a",
+          "lines": 29,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onAppear",
+              "line": 22
+            },
+            {
+              "name": "onChange",
+              "line": 23
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "button-border-stroke-pulse-animation-1.swift",
+          "sha256": "8490998d7a356437244429a7e2698c52b5a0a31dcf52d9528a694257bb1611db",
+          "lines": 125,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onAppear",
+              "line": 33
+            },
+            {
+              "name": "onChange",
+              "line": 34
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cancel Button Expand to Confirm Interaction",
+      "url": "https://60fps.design/snippets/cancel-button-expand-to-confirm-interaction",
+      "blocks": [
+        {
+          "local_file": "cancel-button-expand-to-confirm-interaction-0.swift",
+          "sha256": "1e65e6ffafa15f78d9be2d269d5e2c5c9f0180dac02567c9e0c8cf64896c405a",
+          "lines": 28,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 17
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "cancel-button-expand-to-confirm-interaction-1.swift",
+          "sha256": "5eaa1e3e889ea316ac655a71420b4763482ab64d9b1e6f4bfd23e97e964a9d84",
+          "lines": 98,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 19
+            },
+            {
+              "name": "response",
+              "value": 0.35,
+              "line": 19
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.88,
+              "line": 19
+            },
+            {
+              "name": "duration",
+              "value": 0.1,
+              "line": 94
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 30
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Card 3D Flip Interaction",
+      "url": "https://60fps.design/snippets/card-3d-flip-interaction",
+      "blocks": [
+        {
+          "local_file": "card-3d-flip-interaction-0.swift",
+          "sha256": "ee0cd9507329e1bdcea403218a051ca2617b151d11388c049bd02decb3a3dbd8",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "card-3d-flip-interaction-1.swift",
+          "sha256": "3822a61969fff2073f93332e128171db34a29cd52d4921b5479fda5170168532",
+          "lines": 184,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 20.0,
+              "line": 61
+            },
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 149
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 60
+            },
+            {
+              "name": "DragGesture",
+              "line": 61
+            },
+            {
+              "name": "onEnded",
+              "line": 61
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Card Fire Burn Particle Effect Interaction",
+      "url": "https://60fps.design/snippets/card-fire-burn-particle-effect-interaction",
+      "blocks": [
+        {
+          "local_file": "card-fire-burn-particle-effect-interaction-0.swift",
+          "sha256": "a27a4039d165f5e257dbd32455c4a362591aba08d6b0e65d10c8414b308d1754",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 25
+            },
+            {
+              "name": "onChange",
+              "line": 28
+            },
+            {
+              "name": "onTapGesture",
+              "line": 35
+            },
+            {
+              "name": "onChange",
+              "line": 42
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "card-fire-burn-particle-effect-interaction-1.swift",
+          "sha256": "6280b67778df29c9a6d099d6b8c6147cd9cdcd456b36fb9d5589fa99b41c8895",
+          "lines": 392,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 36
+            },
+            {
+              "name": "onChange",
+              "line": 39
+            },
+            {
+              "name": "onTapGesture",
+              "line": 46
+            },
+            {
+              "name": "onChange",
+              "line": 53
+            },
+            {
+              "name": "onDisappear",
+              "line": 62
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Circle Progress Fill Interaction",
+      "url": "https://60fps.design/snippets/circle-progress-fill-interaction",
+      "blocks": [
+        {
+          "local_file": "circle-progress-fill-interaction-0.swift",
+          "sha256": "56720ca4edcec79739d5d511a0f072c9ac905cd29988c6d3c0434a73d92d77be",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 30
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "circle-progress-fill-interaction-1.swift",
+          "sha256": "25f20e127825a8da360ae2e7e9639397f78cdbf681bbf1eb05361f0596ff0d2b",
+          "lines": 171,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 41
+            },
+            {
+              "name": "onChange",
+              "line": 59
+            },
+            {
+              "name": "onChange",
+              "line": 63
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Comma Jump Number Input Interaction",
+      "url": "https://60fps.design/snippets/comma-jump-number-input-interaction",
+      "blocks": [
+        {
+          "local_file": "comma-jump-number-input-interaction-0.swift",
+          "sha256": "77d84406460cadd10d355f99a13eb98b7653c29b6b0e03718cb69457e2d11c03",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "response",
+              "value": 0.22,
+              "line": 12
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.88,
+              "line": 12
+            }
+          ],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 44
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": true
+          }
+        },
+        {
+          "local_file": "comma-jump-number-input-interaction-1.swift",
+          "sha256": "89ad9cd122f9ec33f73de56d50a3524caad8273a54721ade922c5555145247ce",
+          "lines": 190,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "response",
+              "value": 0.22,
+              "line": 19
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.88,
+              "line": 19
+            },
+            {
+              "name": "duration",
+              "value": 0.08,
+              "line": 146
+            },
+            {
+              "name": "duration",
+              "value": 0.14,
+              "line": 151
+            }
+          ],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 51
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Continue Button to Tick Animation",
+      "url": "https://60fps.design/snippets/continue-button-to-tick-animation",
+      "blocks": [
+        {
+          "local_file": "continue-button-to-tick-animation-0.swift",
+          "sha256": "a7920db2bc285829faddfb1c322eb3fc02d7702e79d488894f476e62143e3f63",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "continue-button-to-tick-animation-1.swift",
+          "sha256": "cc8360f45ba346babe958ad383ffe052810ff1c43b3873d7d4a1121f94868c26",
+          "lines": 169,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 59
+            },
+            {
+              "name": "onDisappear",
+              "line": 67
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Delete to Confirm Button Interaction",
+      "url": "https://60fps.design/snippets/delete-to-confirm-button-interaction",
+      "blocks": [
+        {
+          "local_file": "delete-to-confirm-button-interaction-0.swift",
+          "sha256": "2efa578bff5462100e0fa08424d9a33631a732a72f8e1506b7dcee323808de2d",
+          "lines": 39,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 20
+            },
+            {
+              "name": "onDisappear",
+              "line": 35
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "delete-to-confirm-button-interaction-1.swift",
+          "sha256": "e90b1d4e28afd219b62dfffbeca2383b5525788f32e969b8019284866d3739cf",
+          "lines": 139,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 102
+            },
+            {
+              "name": "response",
+              "value": 0.32,
+              "line": 102
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.92,
+              "line": 102
+            },
+            {
+              "name": "duration",
+              "value": 0.1,
+              "line": 122
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 30
+            },
+            {
+              "name": "onDisappear",
+              "line": 45
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Dropdown Menu Expand Morph Interaction",
+      "url": "https://60fps.design/snippets/dropdown-menu-expand-morph-interaction",
+      "blocks": [
+        {
+          "local_file": "dropdown-menu-expand-morph-interaction-0.swift",
+          "sha256": "1d9e4d5f44c4cb1c1bec8e97b675d0c8a5e583c5d24580ee73dd7b798198ddfb",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 31
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "dropdown-menu-expand-morph-interaction-1.swift",
+          "sha256": "07c54502dbb945a9987e3f0bfc9d8dc1655e9ca9cd29fd41f3b1c2f35c7287b4",
+          "lines": 295,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.06,
+              "line": 190
+            },
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 190
+            },
+            {
+              "name": "response",
+              "value": 0.25,
+              "line": 191
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.83,
+              "line": 191
+            },
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 219
+            },
+            {
+              "name": "response",
+              "value": 0.34,
+              "line": 219
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.88,
+              "line": 219
+            },
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 235
+            },
+            {
+              "name": "response",
+              "value": 0.27,
+              "line": 235
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.94,
+              "line": 235
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 43
+            },
+            {
+              "name": "onDisappear",
+              "line": 58
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Forward Toast Icon Animation",
+      "url": "https://60fps.design/snippets/forward-toast-icon-animation",
+      "blocks": [
+        {
+          "local_file": "forward-toast-icon-animation-0.swift",
+          "sha256": "d2d789ec21f5e5a2d46bb23d23bcab09abca3fa58c04860f5666409e3f229cfc",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "forward-toast-icon-animation-1.swift",
+          "sha256": "a079e1f2d96c0fc1a65a86e0dc025d137f9f7dd190db9cb58d50837b7e67ba1b",
+          "lines": 258,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 131
+            },
+            {
+              "name": "duration",
+              "value": 0.2,
+              "line": 135
+            }
+          ],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 63
+            },
+            {
+              "name": "onChange",
+              "line": 170
+            },
+            {
+              "name": "onChange",
+              "line": 173
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Free Trial Switch Amount Change Interaction",
+      "url": "https://60fps.design/snippets/free-trial-switch-amount-change-interaction",
+      "blocks": [
+        {
+          "local_file": "free-trial-switch-amount-change-interaction-0.swift",
+          "sha256": "00d94da5ad114eb5dbc90772b5bbfe3090de5f28129c367a37d94afd8074ae19",
+          "lines": 42,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "free-trial-switch-amount-change-interaction-1.swift",
+          "sha256": "84e3fe29481123341ef4532cb01cc8aed175074b60243d5ab6866987a5f06e70",
+          "lines": 208,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.1,
+              "line": 102
+            },
+            {
+              "name": "duration",
+              "value": 0.32,
+              "line": 103
+            },
+            {
+              "name": "duration",
+              "value": 0.48,
+              "line": 110
+            },
+            {
+              "name": "duration",
+              "value": 0.08,
+              "line": 114
+            },
+            {
+              "name": "duration",
+              "value": 0.3,
+              "line": 115
+            },
+            {
+              "name": "duration",
+              "value": 0.1,
+              "line": 116
+            },
+            {
+              "name": "response",
+              "value": 0.27,
+              "line": 155
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.72,
+              "line": 155
+            },
+            {
+              "name": "duration",
+              "value": 0.16,
+              "line": 199
+            }
+          ],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 63
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Graph Scrub Highlight Glow Interaction",
+      "url": "https://60fps.design/snippets/graph-scrub-highlight-glow-interaction",
+      "blocks": [
+        {
+          "local_file": "graph-scrub-highlight-glow-interaction-0.swift",
+          "sha256": "455f7a855c7a551962298a3ac116fc52c9e7234ce6d241c52df47d423b442680",
+          "lines": 44,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 38
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "graph-scrub-highlight-glow-interaction-1.swift",
+          "sha256": "1f61f04f51269020e5a7fab716dccc8e817f33d340963ca6408ce0055626127d",
+          "lines": 533,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 0.0,
+              "line": 98
+            },
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 164
+            },
+            {
+              "name": "duration",
+              "value": 0.16,
+              "line": 169
+            },
+            {
+              "name": "duration",
+              "value": 0.2,
+              "line": 175
+            }
+          ],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 68
+            },
+            {
+              "name": "DragGesture",
+              "line": 98
+            },
+            {
+              "name": "onChanged",
+              "line": 98
+            },
+            {
+              "name": "onEnded",
+              "line": 100
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Group Stage Table Timeline Tab Interaction",
+      "url": "https://60fps.design/snippets/group-stage-table-timeline-tab-interaction",
+      "blocks": [
+        {
+          "local_file": "group-stage-table-timeline-tab-interaction-0.swift",
+          "sha256": "b3af85c33525984ed01676c6b9d7e37fa8db9d83c8caff9d00f2df457ba9c70f",
+          "lines": 30,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.01,
+              "line": 27
+            },
+            {
+              "name": "stiffness",
+              "value": 330.0,
+              "line": 27
+            },
+            {
+              "name": "damping",
+              "value": 34.0,
+              "line": 27
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": true
+          }
+        },
+        {
+          "local_file": "group-stage-table-timeline-tab-interaction-1.swift",
+          "sha256": "97cdbae24cc682ba437a3ee0c0c04019a0b269a0b53fb823f09201ab021dc010",
+          "lines": 175,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 3.0,
+              "line": 68
+            },
+            {
+              "name": "minimumDistance",
+              "value": 0.0,
+              "line": 108
+            },
+            {
+              "name": "duration",
+              "value": 0.01,
+              "line": 140
+            },
+            {
+              "name": "stiffness",
+              "value": 330.0,
+              "line": 140
+            },
+            {
+              "name": "damping",
+              "value": 34.0,
+              "line": 140
+            }
+          ],
+          "events": [
+            {
+              "name": "DragGesture",
+              "line": 68
+            },
+            {
+              "name": "onChanged",
+              "line": 68
+            },
+            {
+              "name": "onEnded",
+              "line": 77
+            },
+            {
+              "name": "onEnded",
+              "line": 78
+            },
+            {
+              "name": "DragGesture",
+              "line": 108
+            },
+            {
+              "name": "onChanged",
+              "line": 108
+            },
+            {
+              "name": "onEnded",
+              "line": 124
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hide Sensitive Number Interaction",
+      "url": "https://60fps.design/snippets/hide-sensitive-number-interaction",
+      "blocks": [
+        {
+          "local_file": "hide-sensitive-number-interaction-0.swift",
+          "sha256": "95c66637eff296cc85823a11f2a4498b2ee016bcea96fc94776c12def3546413",
+          "lines": 20,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "hide-sensitive-number-interaction-1.swift",
+          "sha256": "d03fecd6eb8ddfdc13953aabc5afd39f44a7e7c3ed6bc0f91bdb04f09c0a4752",
+          "lines": 105,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.1,
+              "line": 71
+            },
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 71
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Hold to Commit Button Interaction",
+      "url": "https://60fps.design/snippets/hold-to-commit-button-interaction",
+      "blocks": [
+        {
+          "local_file": "hold-to-commit-button-interaction-0.swift",
+          "sha256": "877af307424cf29a94337940e32dd5b942b90861eb79261c0a8878f176bbe0d0",
+          "lines": 32,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 27
+            },
+            {
+              "name": "onDisappear",
+              "line": 28
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "hold-to-commit-button-interaction-1.swift",
+          "sha256": "68c853027904385243dcb602ebd5cac61d96b59c99397f3b112ebf5ba7b182bf",
+          "lines": 257,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 0.0,
+              "line": 77
+            },
+            {
+              "name": "duration",
+              "value": 0.18,
+              "line": 100
+            },
+            {
+              "name": "duration",
+              "value": 2.0,
+              "line": 103
+            },
+            {
+              "name": "duration",
+              "value": 0.18,
+              "line": 138
+            }
+          ],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 39
+            },
+            {
+              "name": "onDisappear",
+              "line": 40
+            },
+            {
+              "name": "DragGesture",
+              "line": 77
+            },
+            {
+              "name": "onChanged",
+              "line": 78
+            },
+            {
+              "name": "onEnded",
+              "line": 84
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Keyboard to Input Morph Interaction",
+      "url": "https://60fps.design/snippets/keyboard-to-input-morph-interaction",
+      "blocks": [
+        {
+          "local_file": "keyboard-to-input-morph-interaction-0.swift",
+          "sha256": "7d7985bda575665197a272a58053dd7d2697f479d10cb008d7c06b59492f087a",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 20
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "keyboard-to-input-morph-interaction-1.swift",
+          "sha256": "f261513d05fc454da1b416f7ebd179ae863edcec755a3990bd86a22150ff6315",
+          "lines": 169,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 25
+            },
+            {
+              "name": "response",
+              "value": 0.36,
+              "line": 25
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.92,
+              "line": 25
+            },
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 72
+            },
+            {
+              "name": "duration",
+              "value": 0.35,
+              "line": 72
+            },
+            {
+              "name": "minimumDistance",
+              "value": 24.0,
+              "line": 129
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 36
+            },
+            {
+              "name": "DragGesture",
+              "line": 129
+            },
+            {
+              "name": "onEnded",
+              "line": 129
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Line Graph Morph Interaction",
+      "url": "https://60fps.design/snippets/line-graph-morph-interaction",
+      "blocks": [
+        {
+          "local_file": "line-graph-morph-interaction-0.swift",
+          "sha256": "97adf16465ada2a898569ad0e2b6f03ad6983b51248c3534b98a727a05a5139c",
+          "lines": 27,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "line-graph-morph-interaction-1.swift",
+          "sha256": "97ec1621bd896d72c7237234db87fee9d6746b6710c74e4ae49148b76d752d85",
+          "lines": 156,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "response",
+              "value": 0.32,
+              "line": 64
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.82,
+              "line": 64
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "List Fade Up from Down Interaction",
+      "url": "https://60fps.design/snippets/list-fade-up-from-down-interaction",
+      "blocks": [
+        {
+          "local_file": "list-fade-up-from-down-interaction-0.swift",
+          "sha256": "f66d279a3278e6bcecd336a811a64bf832a0db227e0875db6701eda14bef9a9e",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 35
+            },
+            {
+              "name": "onAppear",
+              "line": 41
+            },
+            {
+              "name": "onChange",
+              "line": 42
+            },
+            {
+              "name": "onChange",
+              "line": 43
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "list-fade-up-from-down-interaction-1.swift",
+          "sha256": "0113afa96b27738de7604645c6a64dd2eda2f90553ca580d5fc77243c50960d4",
+          "lines": 114,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 55
+            },
+            {
+              "name": "onAppear",
+              "line": 61
+            },
+            {
+              "name": "onChange",
+              "line": 62
+            },
+            {
+              "name": "onChange",
+              "line": 63
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "List Item Accordion Expand Interaction",
+      "url": "https://60fps.design/snippets/list-item-accordion-expand-interaction",
+      "blocks": [
+        {
+          "local_file": "list-item-accordion-expand-interaction-0.swift",
+          "sha256": "ebfd20d649ca3671fede93df17056f4c987b20676be7e5f87ecde00e2b6b9394",
+          "lines": 35,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "list-item-accordion-expand-interaction-1.swift",
+          "sha256": "70502485a2ccee67630dbaff745a39c926517151b749dbf091550e92c35daf4f",
+          "lines": 190,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.01,
+              "line": 178
+            },
+            {
+              "name": "duration",
+              "value": 0.4,
+              "line": 178
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Mini Player Play and Scrub Interaction",
+      "url": "https://60fps.design/snippets/mini-player-play-and-scrub-interaction",
+      "blocks": [
+        {
+          "local_file": "mini-player-play-and-scrub-interaction-0.swift",
+          "sha256": "16774ad2310c9844fa6eb46a2104b9c009420128a7a19c8463d9b8094e37f210",
+          "lines": 43,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 36
+            },
+            {
+              "name": "onChange",
+              "line": 37
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "mini-player-play-and-scrub-interaction-1.swift",
+          "sha256": "36aec0dde856b5926e371d5ac36d35de406999e19599a90c9fb6b9134e1f78a9",
+          "lines": 180,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "minimumDistance",
+              "value": 0.0,
+              "line": 137
+            },
+            {
+              "name": "duration",
+              "value": 0.18,
+              "line": 144
+            },
+            {
+              "name": "duration",
+              "value": 0.18,
+              "line": 155
+            }
+          ],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 49
+            },
+            {
+              "name": "onChange",
+              "line": 50
+            },
+            {
+              "name": "DragGesture",
+              "line": 137
+            },
+            {
+              "name": "onChanged",
+              "line": 138
+            },
+            {
+              "name": "onEnded",
+              "line": 149
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Number Flip with Reflection Interaction",
+      "url": "https://60fps.design/snippets/number-flip-with-reflection-interaction",
+      "blocks": [
+        {
+          "local_file": "number-flip-with-reflection-interaction-0.swift",
+          "sha256": "6034576a99be92f27bd4b08249c888f60b55d56981b3a8218385300f954d1e3e",
+          "lines": 47,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 40
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "number-flip-with-reflection-interaction-1.swift",
+          "sha256": "0dbc7b3fc5937f5807ab2738c5e14306b6aa76befb47f4a20ce8c0bf351f0f38",
+          "lines": 99,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.3,
+              "line": 82
+            }
+          ],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 64
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "OTP Input Pulse Fill Success Interaction",
+      "url": "https://60fps.design/snippets/otp-input-pulse-fill-success-interaction",
+      "blocks": [
+        {
+          "local_file": "otp-input-pulse-fill-success-interaction-0.swift",
+          "sha256": "08336015da8f81e02b1e5e5c4b7f881bcf7a9b8e26511d3bd8b70170fc0c77c9",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 34
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "otp-input-pulse-fill-success-interaction-1.swift",
+          "sha256": "d5feb8aefee3bca73ee60ebc1034e85d56773c591de3293b1af75677fd6e4aad",
+          "lines": 213,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 48
+            },
+            {
+              "name": "onChange",
+              "line": 61
+            },
+            {
+              "name": "onAppear",
+              "line": 76
+            },
+            {
+              "name": "onDisappear",
+              "line": 77
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plan Switch Card Expand Interaction",
+      "url": "https://60fps.design/snippets/plan-switch-card-expand-interaction",
+      "blocks": [
+        {
+          "local_file": "plan-switch-card-expand-interaction-0.swift",
+          "sha256": "47cae92e9a204a975e91a367fec70d8e622560ec605c491ec9f06788efb8b137",
+          "lines": 23,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "plan-switch-card-expand-interaction-1.swift",
+          "sha256": "2be8c06917e1dd92295e7002c726c7e4fdfcfd2a28e757bb2416369e88374c31",
+          "lines": 128,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.12,
+              "line": 48
+            },
+            {
+              "name": "response",
+              "value": 0.42,
+              "line": 48
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.94,
+              "line": 48
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Plus to Tick Button Animation",
+      "url": "https://60fps.design/snippets/plus-to-tick-button-animation",
+      "blocks": [
+        {
+          "local_file": "plus-to-tick-button-animation-0.swift",
+          "sha256": "074b7f98c4266b62d8bf649c7bce9f39806b390ee426be81177badc75c801209",
+          "lines": 34,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 25
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "plus-to-tick-button-animation-1.swift",
+          "sha256": "d1afcd98cd45cf5cef32435e81e1062911396556d67480326cf6bbec9e497acd",
+          "lines": 121,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onDisappear",
+              "line": 35
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "See all Menu Expand Interaction",
+      "url": "https://60fps.design/snippets/see-all-menu-expand-interaction",
+      "blocks": [
+        {
+          "local_file": "see-all-menu-expand-interaction-0.swift",
+          "sha256": "776ea4850934200425147a7bbd04044d302fb13f36bb17fee8ea483cbfb208a6",
+          "lines": 25,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "see-all-menu-expand-interaction-1.swift",
+          "sha256": "1a79092660cb684d780773dd0e581b0f7e9cab5568349bb8cd4f3f819068f5bb",
+          "lines": 92,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "response",
+              "value": 0.36,
+              "line": 84
+            },
+            {
+              "name": "dampingFraction",
+              "value": 0.9,
+              "line": 84
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Selection to Illustration Animation",
+      "url": "https://60fps.design/snippets/selection-to-illustration-animation",
+      "blocks": [
+        {
+          "local_file": "selection-to-illustration-animation-0.swift",
+          "sha256": "b6ae849c0128840946c2970208ee31889d1440d5103b71444636a5a248b0e9e2",
+          "lines": 23,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "selection-to-illustration-animation-1.swift",
+          "sha256": "815278bd4a3d0794a11c383a02149a9843d610efc0bc5d71e925a4478a8edefa",
+          "lines": 153,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.4,
+              "line": 92
+            },
+            {
+              "name": "duration",
+              "value": 0.18,
+              "line": 101
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Spin to Circle Animation",
+      "url": "https://60fps.design/snippets/spin-to-circle-animation",
+      "blocks": [
+        {
+          "local_file": "spin-to-circle-animation-0.swift",
+          "sha256": "9f546678b067a49e8845076d2e7064d961a6727d50fd749b48b206a97ad8d4dd",
+          "lines": 38,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 21
+            },
+            {
+              "name": "onChange",
+              "line": 27
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "spin-to-circle-animation-1.swift",
+          "sha256": "88a08ce84006b6a770fa1e7c96eb405df406b1f594d4774819d0621123be871e",
+          "lines": 87,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onTapGesture",
+              "line": 33
+            },
+            {
+              "name": "onChange",
+              "line": 39
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Subscribe Button Change Interaction",
+      "url": "https://60fps.design/snippets/subscribe-button-change-interaction",
+      "blocks": [
+        {
+          "local_file": "subscribe-button-change-interaction-0.swift",
+          "sha256": "67409742e2c284eb5190619b95514f50de5f41c1f25bb5f4892d8d4d760566e0",
+          "lines": 47,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "subscribe-button-change-interaction-1.swift",
+          "sha256": "57ecdebe3cf989b840ea18e1eec8c1419057bb3b97df970aaed7504d8e4a8220",
+          "lines": 103,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.3,
+              "line": 64
+            }
+          ],
+          "events": [],
+          "signals": {
+            "reduced_motion": true,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tactile Button Interaction",
+      "url": "https://60fps.design/snippets/tactile-button-interaction",
+      "blocks": [
+        {
+          "local_file": "tactile-button-interaction-0.swift",
+          "sha256": "b260e2123c846cdc1059c894ca2de1b303bbb7ee09515a0bd6cc4a6f8ebaf74a",
+          "lines": 48,
+          "language": "swift",
+          "parameters": [],
+          "events": [],
+          "signals": {
+            "reduced_motion": false,
+            "async": false,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "tactile-button-interaction-1.swift",
+          "sha256": "c1c41b531d403ad54745823a0f1f3b5bf4c70182c42a494610f1608fa361d5f8",
+          "lines": 83,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 75
+            }
+          ],
+          "signals": {
+            "reduced_motion": false,
+            "async": false,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": true
+          }
+        }
+      ]
+    },
+    {
+      "name": "Tap to Hold Button Pulse Morph Interaction",
+      "url": "https://60fps.design/snippets/tap-to-hold-button-pulse-morph-interaction",
+      "blocks": [
+        {
+          "local_file": "tap-to-hold-button-pulse-morph-interaction-0.swift",
+          "sha256": "097f30962010918bdd10ff9e9733366ce21c5e11edd55bd4b49d045f8ecb44fb",
+          "lines": 47,
+          "language": "swift",
+          "parameters": [],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 41
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": false,
+            "shared_geometry": false,
+            "spring": false
+          }
+        },
+        {
+          "local_file": "tap-to-hold-button-pulse-morph-interaction-1.swift",
+          "sha256": "51142293352b498f30e37c68f98293dba98165e8bd3f76b098df9d161ba51be4",
+          "lines": 277,
+          "language": "swift",
+          "parameters": [
+            {
+              "name": "duration",
+              "value": 0.15,
+              "line": 149
+            },
+            {
+              "name": "duration",
+              "value": 0.27,
+              "line": 150
+            },
+            {
+              "name": "duration",
+              "value": 0.2,
+              "line": 151
+            },
+            {
+              "name": "minimumDistance",
+              "value": 0.0,
+              "line": 152
+            }
+          ],
+          "events": [
+            {
+              "name": "onChange",
+              "line": 57
+            },
+            {
+              "name": "DragGesture",
+              "line": 152
+            },
+            {
+              "name": "onChanged",
+              "line": 153
+            },
+            {
+              "name": "onEnded",
+              "line": 160
+            }
+          ],
+          "signals": {
+            "reduced_motion": true,
+            "async": true,
+            "haptic": true,
+            "shared_geometry": false,
+            "spring": false
+          }
+        }
+      ]
+    }
+  ]
+}

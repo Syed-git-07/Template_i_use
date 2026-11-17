@@ -23,6 +23,7 @@ Snapshot: 17 November 2026. This research serves all projects.
 - [Source hashes](catalogue/local-source-sha256.json): reproducible local source metadata.
 - [Browser records](catalogue/browser.json): observed knobs, API rows, preview controls, canvas counts and capture references.
 - [Gesture assertions](catalogue/gesture-checks.json): actual exercised states and recovery.
+- [Additional mobile/reduced-motion assertions](catalogue/additional-checks.json): four scenarios and five assertions passed for Option Wheel, Voice Pill, Stepper and Hold Button at 390×844 with touch emulation and reduced motion. This is browser emulation, not physical-device testing.
 - [Tool observations](catalogue/tools-browser.json): current public control labels and limits.
 - [Per-item ledger](catalogue/review-ledger.json): catalogue-to-source/browser mapping and remaining checks.
 

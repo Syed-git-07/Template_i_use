@@ -14,3 +14,5 @@ Initial possibilities, not finalized decisions:
 - Morphing menus, search and short transitions where they support actual actions.
 
 The mentioned Arnold portfolio has not been identified by URL. Ask for that reference and final content/structure when portfolio design begins. Do not infer that every Bencho example belongs in a single portfolio.
+
+Specific contact-form reference requested on 17 November 2026: [Viewport Skeuomorphic Contact Form](https://viewportui.com/posts/598-probably-the-best-contact-form-i-ve-ever-made), by @alimdesigner_. The user wants faithful synchronized letter writing and envelope sending behavior. [Research notes](../../viewport/INTERACTIONS.md) record the observed folding, insertion, closing, sealing, departure, confirmation and reset sequence. Actual email delivery, validation and failure recovery require implementation later. No portfolio background is selected by cataloguing this reference.

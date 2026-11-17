@@ -1,0 +1,235 @@
+{
+  "items": [
+    {
+      "slug": "accordion",
+      "guide": "components/accordion.md",
+      "variants": [
+        "components/core/accordion.tsx"
+      ]
+    },
+    {
+      "slug": "animated-background",
+      "guide": "components/animated-background.md",
+      "variants": [
+        "components/core/animated-background.tsx"
+      ]
+    },
+    {
+      "slug": "animated-group",
+      "guide": "components/animated-group.md",
+      "variants": [
+        "components/core/animated-group.tsx"
+      ]
+    },
+    {
+      "slug": "animated-number",
+      "guide": "components/animated-number.md",
+      "variants": [
+        "components/core/animated-number.tsx"
+      ]
+    },
+    {
+      "slug": "border-trail",
+      "guide": "components/border-trail.md",
+      "variants": [
+        "components/core/border-trail.tsx"
+      ]
+    },
+    {
+      "slug": "carousel",
+      "guide": "components/carousel.md",
+      "variants": [
+        "components/core/carousel.tsx"
+      ]
+    },
+    {
+      "slug": "cursor",
+      "guide": "components/cursor.md",
+      "variants": [
+        "components/core/cursor.tsx"
+      ]
+    },
+    {
+      "slug": "dialog",
+      "guide": "components/dialog.md",
+      "variants": [
+        "components/core/dialog.tsx"
+      ]
+    },
+    {
+      "slug": "disclosure",
+      "guide": "components/disclosure.md",
+      "variants": [
+        "components/core/disclosure.tsx"
+      ]
+    },
+    {
+      "slug": "dock",
+      "guide": "components/dock.md",
+      "variants": [
+        "components/core/dock.tsx"
+      ]
+    },
+    {
+      "slug": "glow-effect",
+      "guide": "components/glow-effect.md",
+      "variants": [
+        "components/core/glow-effect.tsx"
+      ]
+    },
+    {
+      "slug": "image-comparison",
+      "guide": "components/image-comparison.md",
+      "variants": [
+        "components/core/image-comparison.tsx"
+      ]
+    },
+    {
+      "slug": "in-view",
+      "guide": "components/in-view.md",
+      "variants": [
+        "components/core/in-view.tsx"
+      ]
+    },
+    {
+      "slug": "infinite-slider",
+      "guide": "components/infinite-slider.md",
+      "variants": [
+        "components/core/infinite-slider.tsx"
+      ]
+    },
+    {
+      "slug": "magnetic",
+      "guide": "components/magnetic.md",
+      "variants": [
+        "components/core/magnetic.tsx"
+      ]
+    },
+    {
+      "slug": "morphing-dialog",
+      "guide": "components/morphing-dialog.md",
+      "variants": [
+        "components/core/morphing-dialog.tsx"
+      ]
+    },
+    {
+      "slug": "morphing-popover",
+      "guide": "components/morphing-popover.md",
+      "variants": [
+        "components/core/morphing-popover.tsx"
+      ]
+    },
+    {
+      "slug": "progressive-blur",
+      "guide": "components/progressive-blur.md",
+      "variants": [
+        "components/core/progressive-blur.tsx"
+      ]
+    },
+    {
+      "slug": "scroll-progress",
+      "guide": "components/scroll-progress.md",
+      "variants": [
+        "components/core/scroll-progress.tsx"
+      ]
+    },
+    {
+      "slug": "sliding-number",
+      "guide": "components/sliding-number.md",
+      "variants": [
+        "components/core/sliding-number.tsx"
+      ]
+    },
+    {
+      "slug": "spinning-text",
+      "guide": "components/spinning-text.md",
+      "variants": [
+        "components/core/spinning-text.tsx"
+      ]
+    },
+    {
+      "slug": "spotlight",
+      "guide": "components/spotlight.md",
+      "variants": [
+        "components/core/spotlight.tsx"
+      ]
+    },
+    {
+      "slug": "text-effect",
+      "guide": "components/text-effect.md",
+      "variants": [
+        "components/core/text-effect.tsx"
+      ]
+    },
+    {
+      "slug": "text-loop",
+      "guide": "components/text-loop.md",
+      "variants": [
+        "components/core/text-loop.tsx"
+      ]
+    },
+    {
+      "slug": "text-morph",
+      "guide": "components/text-morph.md",
+      "variants": [
+        "components/core/text-morph.tsx"
+      ]
+    },
+    {
+      "slug": "text-roll",
+      "guide": "components/text-roll.md",
+      "variants": [
+        "components/core/text-roll.tsx"
+      ]
+    },
+    {
+      "slug": "text-scramble",
+      "guide": "components/text-scramble.md",
+      "variants": [
+        "components/core/text-scramble.tsx"
+      ]
+    },
+    {
+      "slug": "text-shimmer",
+      "guide": "components/text-shimmer.md",
+      "variants": [
+        "components/core/text-shimmer.tsx"
+      ]
+    },
+    {
+      "slug": "text-shimmer-wave",
+      "guide": "components/text-shimmer-wave.md",
+      "variants": [
+        "components/core/text-shimmer-wave.tsx"
+      ]
+    },
+    {
+      "slug": "tilt",
+      "guide": "components/tilt.md",
+      "variants": [
+        "components/core/tilt.tsx"
+      ]
+    },
+    {
+      "slug": "toolbar-dynamic",
+      "guide": "components/toolbar-dynamic.md",
+      "variants": [
+        "components/core/toolbar-dynamic.tsx"
+      ]
+    },
+    {
+      "slug": "toolbar-expandable",
+      "guide": "components/toolbar-expandable.md",
+      "variants": [
+        "components/core/toolbar-expandable.tsx"
+      ]
+    },
+    {
+      "slug": "transition-panel",
+      "guide": "components/transition-panel.md",
+      "variants": [
+        "components/core/transition-panel.tsx"
+      ]
+    }
+  ]
+}

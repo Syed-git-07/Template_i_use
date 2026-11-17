@@ -1,0 +1,1241 @@
+{
+  "items": [
+    {
+      "url": "https://www.cult-ui.com/docs/components/border-beam-button",
+      "path": "/docs/components/border-beam-button",
+      "name": "Border Beam Button",
+      "http_status": 200,
+      "heading": "Border Beam Button",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Continue",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Outline",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Secondary",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Ghost",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Colorful",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Ocean",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Sunset",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Mono",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "sm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "md",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "line",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Sparkles",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Zap",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Wand",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Get started",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Pause beam",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/border-beam-card",
+      "path": "/docs/components/border-beam-card",
+      "name": "Border Beam Card",
+      "http_status": 200,
+      "heading": "Border Beam Card",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/border-beam-input",
+      "path": "/docs/components/border-beam-input",
+      "name": "Border Beam Input",
+      "http_status": 200,
+      "heading": "Border Beam Input",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "text",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "search",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "type": "search",
+          "label": "",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/gradient-button-group",
+      "path": "/docs/components/gradient-button-group",
+      "name": "Gradient Button Group",
+      "http_status": 200,
+      "heading": "Gradient Button Group",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Dashboard",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Analytics",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Layers",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Storage",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Switch to dark mode",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/hero-liquid-metal",
+      "path": "/docs/components/hero-liquid-metal",
+      "name": "Hero Liquid Metal",
+      "http_status": 200,
+      "status": "needs-review",
+      "error": "TimeoutError('Locator.wait_for: Timeout 15000ms exceeded.\\nCall log:\\n  - waiting for locator(\"h1\").first to be visible\\n    - locator resolved to visible <h1 data-slot=\"section-title\" class=\"font-[450] tracking-[-0.06em] text-balance text-foreground scroll-m-28 text-3xl md:text-4xl lg:text-5xl\">Hero Liquid Metal</h1>\\n')",
+      "page_errors": [],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/loading-carousel",
+      "path": "/docs/components/loading-carousel",
+      "name": "Loading Carousel",
+      "http_status": 200,
+      "heading": "Loading Carousel",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Previous slide",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Next slide",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 1",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 2",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 3",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 4",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Go to tip 5",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=text&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    },
+    {
+      "url": "https://www.cult-ui.com/docs/components/typewriter",
+      "path": "/docs/components/typewriter",
+      "name": "Typewriter",
+      "http_status": 200,
+      "heading": "Typewriter",
+      "typography": {
+        "heading": {
+          "font": "GeistSans, \"GeistSans Fallback\"",
+          "size": "48px",
+          "weight": "450",
+          "spacing": "-2.88px"
+        },
+        "body": "GeistSans, \"GeistSans Fallback\""
+      },
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy page",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "More ways to use this page",
+          "disabled": false,
+          "expanded": "false"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Preview",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Code",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "CLI",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "tab",
+          "type": "button",
+          "label": "Manual",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "pnpm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "npm",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "yarn",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "bun",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "button",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "type": "submit",
+          "label": "Copy",
+          "disabled": false,
+          "expanded": null
+        }
+      ],
+      "iframes": [],
+      "canvasCount": 0,
+      "previewCount": 3,
+      "restrictionLabels": [],
+      "status": "page-observed",
+      "page_errors": [
+        "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ],
+      "limit": "Rendered desktop documentation and control inventory. Host typography is not necessarily component typography. No blanket clicking, account action or complete state certification."
+    }
+  ],
+  "note": "Previous observations retained before a targeted retry; not a claim of a component defect."
+}

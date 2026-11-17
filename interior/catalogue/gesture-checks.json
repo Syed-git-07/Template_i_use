@@ -1,0 +1,34 @@
+{
+  "checked_at_utc": "2026-11-17T11:11:38.994211+00:00",
+  "scope": "Selected desktop public-demo actions; no real data deletion, submission or production guarantee.",
+  "items": [
+    {
+      "slug": "hold-to-confirm",
+      "url": "https://www.interior.dev/docs/hold-to-confirm",
+      "assertions": [
+        "Short press does not confirm",
+        "Escape cancels incomplete keyboard hold",
+        "Full hold announces demo completion",
+        "Completion resets"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "tag-input",
+      "url": "https://www.interior.dev/docs/tag-input",
+      "assertions": [
+        "Enter adds the typed tag",
+        "First empty Backspace selects; second removes the tag"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "modal",
+      "url": "https://www.interior.dev/docs/modal",
+      "assertions": [
+        "Modal opens, Escape closes, focus returns to trigger; deletion not invoked"
+      ],
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "checked_at_utc": "2026-11-17T11:06:57.756074+00:00",
+  "scope": "Selected desktop public-demo actions; no real data deletion, submission or production guarantee.",
+  "items": [
+    {
+      "slug": "dialog",
+      "url": "https://ui.shadcn.com/docs/components/base/dialog",
+      "assertions": [
+        "Demo overlay opens and cancels/closes with focus restored"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "dropdown-menu",
+      "url": "https://ui.shadcn.com/docs/components/base/dropdown-menu",
+      "assertions": [
+        "Demo overlay opens and cancels/closes with focus restored"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "alert-dialog",
+      "url": "https://ui.shadcn.com/docs/components/base/alert-dialog",
+      "assertions": [
+        "Demo overlay opens and cancels/closes with focus restored"
+      ],
+      "status": "passed"
+    }
+  ]
+}

@@ -18,3 +18,6 @@ This repository serves all projects, not just the portfolio. The user explicitly
 - React Bits is approved across all projects. Include every category, not only the favorites. Backgrounds are catalogued but not selected for the portfolio.
 - React Bits uses MIT + Commons Clause. Keep its implementation under ignored `.local/`; publish authored notes, factual APIs and pinned source links, not a redistributed component/tool/sound library.
 - Start a cross-project handoff from `REUSE-PROMPT.md`; preserve the distinction between full inventory, source indexing, tested gestures and still-unverified states.
+- Use shadcn/ui as the user's baseline for clean, polished, restrained interfaces; minimal must still be complete and purposeful.
+- Viewport UI, 60fps, Interior, Motion Primitives, Aceternity and Cult UI are approved shared references. Consult `REFERENCE-MAP.md` by task even when the user does not remember the website name.
+- Preserve every category and source entry, not only named favorites. Gallery recordings are not exact source evidence. Aceternity restricted-source entries must remain explicitly marked.

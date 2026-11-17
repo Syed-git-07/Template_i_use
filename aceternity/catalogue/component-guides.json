@@ -1,0 +1,853 @@
+{
+  "items": [
+    {
+      "slug": "3d-card",
+      "guide": "components/3d-card.md",
+      "variants": [
+        "components/3d-card/components/ui/3d-card.tsx"
+      ]
+    },
+    {
+      "slug": "3d-globe",
+      "guide": "components/3d-globe.md",
+      "variants": [
+        "components/3d-globe/components/ui/3d-globe.tsx"
+      ]
+    },
+    {
+      "slug": "3d-marquee",
+      "guide": "components/3d-marquee.md",
+      "variants": [
+        "components/3d-marquee/components/ui/3d-marquee.tsx"
+      ]
+    },
+    {
+      "slug": "3d-pin",
+      "guide": "components/3d-pin.md",
+      "variants": [
+        "components/3d-pin/components/ui/3d-pin.tsx"
+      ]
+    },
+    {
+      "slug": "animated-modal",
+      "guide": "components/animated-modal.md",
+      "variants": [
+        "components/animated-modal/components/ui/animated-modal.tsx"
+      ]
+    },
+    {
+      "slug": "animated-testimonials",
+      "guide": "components/animated-testimonials.md",
+      "variants": [
+        "components/animated-testimonials/components/ui/animated-testimonials.tsx"
+      ]
+    },
+    {
+      "slug": "animated-tooltip",
+      "guide": "components/animated-tooltip.md",
+      "variants": [
+        "components/animated-tooltip/components/ui/animated-tooltip.tsx"
+      ]
+    },
+    {
+      "slug": "apple-cards-carousel",
+      "guide": "components/apple-cards-carousel.md",
+      "variants": [
+        "components/apple-cards-carousel/components/ui/apple-cards-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "ascii-art",
+      "guide": "components/ascii-art.md",
+      "variants": [
+        "components/ascii-art/components/ui/ascii-art.tsx"
+      ]
+    },
+    {
+      "slug": "aurora-background",
+      "guide": "components/aurora-background.md",
+      "variants": [
+        "components/aurora-background/components/ui/aurora-background.tsx"
+      ]
+    },
+    {
+      "slug": "background-beams",
+      "guide": "components/background-beams.md",
+      "variants": [
+        "components/background-beams/components/ui/background-beams.tsx"
+      ]
+    },
+    {
+      "slug": "background-beams-with-collision",
+      "guide": "components/background-beams-with-collision.md",
+      "variants": [
+        "components/background-beams-with-collision/components/ui/background-beams-with-collision.tsx"
+      ]
+    },
+    {
+      "slug": "background-boxes",
+      "guide": "components/background-boxes.md",
+      "variants": [
+        "components/background-boxes/components/ui/background-boxes.tsx"
+      ]
+    },
+    {
+      "slug": "background-cubes-grid",
+      "guide": "components/background-cubes-grid.md",
+      "variants": [
+        "components/background-cubes-grid/components/ui/background-cubes-grid.tsx"
+      ]
+    },
+    {
+      "slug": "background-gradient",
+      "guide": "components/background-gradient.md",
+      "variants": [
+        "components/background-gradient/components/ui/background-gradient.tsx"
+      ]
+    },
+    {
+      "slug": "background-gradient-animation",
+      "guide": "components/background-gradient-animation.md",
+      "variants": [
+        "components/background-gradient-animation/components/ui/background-gradient-animation.tsx"
+      ]
+    },
+    {
+      "slug": "background-lines",
+      "guide": "components/background-lines.md",
+      "variants": [
+        "components/background-lines/components/ui/background-lines.tsx"
+      ]
+    },
+    {
+      "slug": "background-ripple-effect",
+      "guide": "components/background-ripple-effect.md",
+      "variants": [
+        "components/background-ripple-effect/components/ui/background-ripple-effect.tsx"
+      ]
+    },
+    {
+      "slug": "bento-grid",
+      "guide": "components/bento-grid.md",
+      "variants": [
+        "components/bento-grid/components/ui/bento-grid.tsx"
+      ]
+    },
+    {
+      "slug": "canvas-reveal-effect",
+      "guide": "components/canvas-reveal-effect.md",
+      "variants": [
+        "components/canvas-reveal-effect/components/ui/canvas-reveal-effect.tsx",
+        "components/card-spotlight/components/ui/canvas-reveal-effect.tsx"
+      ]
+    },
+    {
+      "slug": "canvas-text",
+      "guide": "components/canvas-text.md",
+      "variants": [
+        "components/canvas-text/components/ui/canvas-text.tsx"
+      ]
+    },
+    {
+      "slug": "card-hover-effect",
+      "guide": "components/card-hover-effect.md",
+      "variants": [
+        "components/card-hover-effect/components/ui/card-hover-effect.tsx"
+      ]
+    },
+    {
+      "slug": "card-spotlight",
+      "guide": "components/card-spotlight.md",
+      "variants": [
+        "components/card-spotlight/components/ui/card-spotlight.tsx"
+      ]
+    },
+    {
+      "slug": "card-stack",
+      "guide": "components/card-stack.md",
+      "variants": [
+        "components/card-stack/components/ui/card-stack.tsx"
+      ]
+    },
+    {
+      "slug": "cards-demo-1",
+      "guide": "components/cards-demo-1.md",
+      "variants": [
+        "components/cards-demo-1/components/cards-demo-1.tsx"
+      ]
+    },
+    {
+      "slug": "cards-demo-2",
+      "guide": "components/cards-demo-2.md",
+      "variants": [
+        "components/cards-demo-2/components/cards-demo-2.tsx"
+      ]
+    },
+    {
+      "slug": "cards-demo-3",
+      "guide": "components/cards-demo-3.md",
+      "variants": [
+        "components/cards-demo-3/components/cards-demo-3.tsx"
+      ]
+    },
+    {
+      "slug": "carousel",
+      "guide": "components/carousel.md",
+      "variants": [
+        "components/carousel/components/ui/carousel.tsx"
+      ]
+    },
+    {
+      "slug": "chromatic-image",
+      "guide": "components/chromatic-image.md",
+      "variants": [
+        "components/chromatic-image/components/ui/chromatic-image.tsx"
+      ]
+    },
+    {
+      "slug": "cloud-shader",
+      "guide": "components/cloud-shader.md",
+      "variants": [
+        "components/cloud-shader/components/ui/cloud-shader.tsx"
+      ]
+    },
+    {
+      "slug": "code-block",
+      "guide": "components/code-block.md",
+      "variants": [
+        "components/code-block/components/ui/code-block.tsx"
+      ]
+    },
+    {
+      "slug": "colourful-text",
+      "guide": "components/colourful-text.md",
+      "variants": [
+        "components/colourful-text/components/ui/colourful-text.tsx"
+      ]
+    },
+    {
+      "slug": "comet-card",
+      "guide": "components/comet-card.md",
+      "variants": [
+        "components/comet-card/components/ui/comet-card.tsx"
+      ]
+    },
+    {
+      "slug": "compare",
+      "guide": "components/compare.md",
+      "variants": [
+        "components/compare/components/ui/compare.tsx"
+      ]
+    },
+    {
+      "slug": "container-scroll-animation",
+      "guide": "components/container-scroll-animation.md",
+      "variants": [
+        "components/container-scroll-animation/components/ui/container-scroll-animation.tsx"
+      ]
+    },
+    {
+      "slug": "container-text-flip",
+      "guide": "components/container-text-flip.md",
+      "variants": [
+        "components/container-text-flip/components/ui/container-text-flip.tsx"
+      ]
+    },
+    {
+      "slug": "cover",
+      "guide": "components/cover.md",
+      "variants": [
+        "components/cover/components/ui/cover.tsx"
+      ]
+    },
+    {
+      "slug": "direction-aware-hover",
+      "guide": "components/direction-aware-hover.md",
+      "variants": [
+        "components/direction-aware-hover/components/ui/direction-aware-hover.tsx"
+      ]
+    },
+    {
+      "slug": "dither-shader",
+      "guide": "components/dither-shader.md",
+      "variants": [
+        "components/dither-shader/components/ui/dither-shader.tsx"
+      ]
+    },
+    {
+      "slug": "dotted-glow-background",
+      "guide": "components/dotted-glow-background.md",
+      "variants": [
+        "components/dotted-glow-background/components/ui/dotted-glow-background.tsx"
+      ]
+    },
+    {
+      "slug": "draggable-card",
+      "guide": "components/draggable-card.md",
+      "variants": [
+        "components/draggable-card/components/ui/draggable-card.tsx"
+      ]
+    },
+    {
+      "slug": "encrypted-text",
+      "guide": "components/encrypted-text.md",
+      "variants": [
+        "components/encrypted-text/components/ui/encrypted-text.tsx"
+      ]
+    },
+    {
+      "slug": "evervault-card",
+      "guide": "components/evervault-card.md",
+      "variants": [
+        "components/evervault-card/components/ui/evervault-card.tsx"
+      ]
+    },
+    {
+      "slug": "features-section-demo-1",
+      "guide": "components/features-section-demo-1.md",
+      "variants": [
+        "components/features-section-demo-1/components/features-section-demo-1.tsx"
+      ]
+    },
+    {
+      "slug": "features-section-demo-2",
+      "guide": "components/features-section-demo-2.md",
+      "variants": [
+        "components/features-section-demo-2/components/features-section-demo-2.tsx"
+      ]
+    },
+    {
+      "slug": "features-section-demo-3",
+      "guide": "components/features-section-demo-3.md",
+      "variants": [
+        "components/features-section-demo-3/components/features-section-demo-3.tsx"
+      ]
+    },
+    {
+      "slug": "file-upload",
+      "guide": "components/file-upload.md",
+      "variants": [
+        "components/file-upload/components/ui/file-upload.tsx"
+      ]
+    },
+    {
+      "slug": "flip-words",
+      "guide": "components/flip-words.md",
+      "variants": [
+        "components/flip-words/components/ui/flip-words.tsx"
+      ]
+    },
+    {
+      "slug": "floating-dock",
+      "guide": "components/floating-dock.md",
+      "variants": [
+        "components/floating-dock/components/ui/floating-dock.tsx"
+      ]
+    },
+    {
+      "slug": "floating-navbar",
+      "guide": "components/floating-navbar.md",
+      "variants": [
+        "components/floating-navbar/components/ui/floating-navbar.tsx"
+      ]
+    },
+    {
+      "slug": "focus-cards",
+      "guide": "components/focus-cards.md",
+      "variants": [
+        "components/focus-cards/components/ui/focus-cards.tsx"
+      ]
+    },
+    {
+      "slug": "following-pointer",
+      "guide": "components/following-pointer.md",
+      "variants": [
+        "components/following-pointer/components/ui/following-pointer.tsx"
+      ]
+    },
+    {
+      "slug": "glare-card",
+      "guide": "components/glare-card.md",
+      "variants": [
+        "components/glare-card/components/ui/glare-card.tsx"
+      ]
+    },
+    {
+      "slug": "globe",
+      "guide": "components/globe.md",
+      "variants": [
+        "components/globe/components/ui/globe.tsx"
+      ]
+    },
+    {
+      "slug": "glowing-effect",
+      "guide": "components/glowing-effect.md",
+      "variants": [
+        "components/glowing-effect/components/ui/glowing-effect.tsx"
+      ]
+    },
+    {
+      "slug": "glowing-stars",
+      "guide": "components/glowing-stars.md",
+      "variants": [
+        "components/glowing-stars/components/ui/glowing-stars.tsx"
+      ]
+    },
+    {
+      "slug": "gooey-input",
+      "guide": "components/gooey-input.md",
+      "variants": [
+        "components/gooey-input/components/ui/gooey-input.tsx"
+      ]
+    },
+    {
+      "slug": "google-gemini-effect",
+      "guide": "components/google-gemini-effect.md",
+      "variants": [
+        "components/google-gemini-effect/components/ui/google-gemini-effect.tsx"
+      ]
+    },
+    {
+      "slug": "grid",
+      "guide": "components/grid.md",
+      "variants": [
+        "components/grid/components/ui/grid.tsx"
+      ]
+    },
+    {
+      "slug": "hero-highlight",
+      "guide": "components/hero-highlight.md",
+      "variants": [
+        "components/hero-highlight/components/ui/hero-highlight.tsx"
+      ]
+    },
+    {
+      "slug": "hero-parallax",
+      "guide": "components/hero-parallax.md",
+      "variants": [
+        "components/hero-parallax/components/ui/hero-parallax.tsx"
+      ]
+    },
+    {
+      "slug": "hover-border-gradient",
+      "guide": "components/hover-border-gradient.md",
+      "variants": [
+        "components/hover-border-gradient/components/ui/hover-border-gradient.tsx"
+      ]
+    },
+    {
+      "slug": "image-generation-loader",
+      "guide": "components/image-generation-loader.md",
+      "variants": [
+        "components/image-generation-loader/components/ui/image-generation-loader.tsx"
+      ]
+    },
+    {
+      "slug": "images-badge",
+      "guide": "components/images-badge.md",
+      "variants": [
+        "components/images-badge/components/ui/images-badge.tsx"
+      ]
+    },
+    {
+      "slug": "images-slider",
+      "guide": "components/images-slider.md",
+      "variants": [
+        "components/images-slider/components/ui/images-slider.tsx"
+      ]
+    },
+    {
+      "slug": "infinite-moving-cards",
+      "guide": "components/infinite-moving-cards.md",
+      "variants": [
+        "components/infinite-moving-cards/components/ui/infinite-moving-cards.tsx"
+      ]
+    },
+    {
+      "slug": "input",
+      "guide": "components/input.md",
+      "variants": [
+        "components/input/components/ui/input.tsx"
+      ]
+    },
+    {
+      "slug": "keyboard",
+      "guide": "components/keyboard.md",
+      "variants": [
+        "components/keyboard/components/ui/keyboard.tsx"
+      ]
+    },
+    {
+      "slug": "label",
+      "guide": "components/label.md",
+      "variants": [
+        "components/label/components/ui/label.tsx"
+      ]
+    },
+    {
+      "slug": "lamp",
+      "guide": "components/lamp.md",
+      "variants": [
+        "components/lamp/components/ui/lamp.tsx"
+      ]
+    },
+    {
+      "slug": "layout-grid",
+      "guide": "components/layout-grid.md",
+      "variants": [
+        "components/layout-grid/components/ui/layout-grid.tsx"
+      ]
+    },
+    {
+      "slug": "layout-text-flip",
+      "guide": "components/layout-text-flip.md",
+      "variants": [
+        "components/layout-text-flip/components/ui/layout-text-flip.tsx"
+      ]
+    },
+    {
+      "slug": "lens",
+      "guide": "components/lens.md",
+      "variants": [
+        "components/lens/components/ui/lens.tsx"
+      ]
+    },
+    {
+      "slug": "link-preview",
+      "guide": "components/link-preview.md",
+      "variants": [
+        "components/link-preview/components/ui/link-preview.tsx"
+      ]
+    },
+    {
+      "slug": "liquid-glass",
+      "guide": "components/liquid-glass.md",
+      "variants": [
+        "components/liquid-glass/components/ui/liquid-glass.tsx"
+      ]
+    },
+    {
+      "slug": "loader",
+      "guide": "components/loader.md",
+      "variants": [
+        "components/loader/components/ui/loader.tsx"
+      ]
+    },
+    {
+      "slug": "macbook-scroll",
+      "guide": "components/macbook-scroll.md",
+      "variants": [
+        "components/macbook-scroll/components/ui/macbook-scroll.tsx"
+      ]
+    },
+    {
+      "slug": "magnetic-button",
+      "guide": "components/magnetic-button.md",
+      "variants": [
+        "components/magnetic-button/components/ui/magnetic-button.tsx"
+      ]
+    },
+    {
+      "slug": "meteors",
+      "guide": "components/meteors.md",
+      "variants": [
+        "components/meteors/components/ui/meteors.tsx"
+      ]
+    },
+    {
+      "slug": "moving-border",
+      "guide": "components/moving-border.md",
+      "variants": [
+        "components/moving-border/components/ui/moving-border.tsx"
+      ]
+    },
+    {
+      "slug": "moving-line",
+      "guide": "components/moving-line.md",
+      "variants": [
+        "components/moving-line/components/ui/moving-line.tsx"
+      ]
+    },
+    {
+      "slug": "multi-step-loader",
+      "guide": "components/multi-step-loader.md",
+      "variants": [
+        "components/multi-step-loader/components/ui/multi-step-loader.tsx"
+      ]
+    },
+    {
+      "slug": "navbar-menu",
+      "guide": "components/navbar-menu.md",
+      "variants": [
+        "components/navbar-menu/components/ui/navbar-menu.tsx"
+      ]
+    },
+    {
+      "slug": "noise-background",
+      "guide": "components/noise-background.md",
+      "variants": [
+        "components/noise-background/components/ui/noise-background.tsx"
+      ]
+    },
+    {
+      "slug": "notch",
+      "guide": "components/notch.md",
+      "variants": [
+        "components/notch/components/ui/notch.tsx"
+      ]
+    },
+    {
+      "slug": "parallax-hero-images",
+      "guide": "components/parallax-hero-images.md",
+      "variants": [
+        "components/parallax-hero-images/components/ui/parallax-hero-images.tsx"
+      ]
+    },
+    {
+      "slug": "parallax-scroll",
+      "guide": "components/parallax-scroll.md",
+      "variants": [
+        "components/parallax-scroll/components/ui/parallax-scroll.tsx"
+      ]
+    },
+    {
+      "slug": "parallax-scroll-2",
+      "guide": "components/parallax-scroll-2.md",
+      "variants": [
+        "components/parallax-scroll-2/components/ui/parallax-scroll-2.tsx"
+      ]
+    },
+    {
+      "slug": "pixelated-canvas",
+      "guide": "components/pixelated-canvas.md",
+      "variants": [
+        "components/pixelated-canvas/components/ui/pixelated-canvas.tsx"
+      ]
+    },
+    {
+      "slug": "placeholders-and-vanish-input",
+      "guide": "components/placeholders-and-vanish-input.md",
+      "variants": [
+        "components/placeholders-and-vanish-input/components/ui/placeholders-and-vanish-input.tsx"
+      ]
+    },
+    {
+      "slug": "pointer-highlight",
+      "guide": "components/pointer-highlight.md",
+      "variants": [
+        "components/pointer-highlight/components/ui/pointer-highlight.tsx"
+      ]
+    },
+    {
+      "slug": "resizable-navbar",
+      "guide": "components/resizable-navbar.md",
+      "variants": [
+        "components/resizable-navbar/components/ui/resizable-navbar.tsx"
+      ]
+    },
+    {
+      "slug": "scales",
+      "guide": "components/scales.md",
+      "variants": [
+        "components/scales/components/ui/scales.tsx"
+      ]
+    },
+    {
+      "slug": "shooting-stars",
+      "guide": "components/shooting-stars.md",
+      "variants": [
+        "components/shooting-stars/components/ui/shooting-stars.tsx"
+      ]
+    },
+    {
+      "slug": "sidebar",
+      "guide": "components/sidebar.md",
+      "variants": [
+        "components/sidebar/components/ui/sidebar.tsx"
+      ]
+    },
+    {
+      "slug": "sparkles",
+      "guide": "components/sparkles.md",
+      "variants": [
+        "components/cover/components/ui/sparkles.tsx",
+        "components/sparkles/components/ui/sparkles.tsx"
+      ]
+    },
+    {
+      "slug": "spotlight",
+      "guide": "components/spotlight.md",
+      "variants": [
+        "components/spotlight/components/ui/spotlight.tsx"
+      ]
+    },
+    {
+      "slug": "spotlight-new",
+      "guide": "components/spotlight-new.md",
+      "variants": [
+        "components/spotlight-new/components/ui/spotlight-new.tsx"
+      ]
+    },
+    {
+      "slug": "squiggly-text",
+      "guide": "components/squiggly-text.md",
+      "variants": [
+        "components/squiggly-text/components/ui/squiggly-text.tsx"
+      ]
+    },
+    {
+      "slug": "stars-background",
+      "guide": "components/stars-background.md",
+      "variants": [
+        "components/stars-background/components/ui/stars-background.tsx"
+      ]
+    },
+    {
+      "slug": "stateful-button",
+      "guide": "components/stateful-button.md",
+      "variants": [
+        "components/stateful-button/components/ui/stateful-button.tsx"
+      ]
+    },
+    {
+      "slug": "sticky-banner",
+      "guide": "components/sticky-banner.md",
+      "variants": [
+        "components/sticky-banner/components/ui/sticky-banner.tsx"
+      ]
+    },
+    {
+      "slug": "sticky-scroll-reveal",
+      "guide": "components/sticky-scroll-reveal.md",
+      "variants": [
+        "components/sticky-scroll-reveal/components/ui/sticky-scroll-reveal.tsx"
+      ]
+    },
+    {
+      "slug": "svg-mask-effect",
+      "guide": "components/svg-mask-effect.md",
+      "variants": [
+        "components/svg-mask-effect/components/ui/svg-mask-effect.tsx"
+      ]
+    },
+    {
+      "slug": "tabs",
+      "guide": "components/tabs.md",
+      "variants": [
+        "components/tabs/components/ui/tabs.tsx"
+      ]
+    },
+    {
+      "slug": "tailwindcss-buttons",
+      "guide": "components/tailwindcss-buttons.md",
+      "variants": [
+        "components/tailwindcss-buttons/components/ui/tailwindcss-buttons.tsx"
+      ]
+    },
+    {
+      "slug": "terminal",
+      "guide": "components/terminal.md",
+      "variants": [
+        "components/terminal/components/ui/terminal.tsx"
+      ]
+    },
+    {
+      "slug": "text-flipping-board",
+      "guide": "components/text-flipping-board.md",
+      "variants": [
+        "components/text-flipping-board/components/ui/text-flipping-board.tsx"
+      ]
+    },
+    {
+      "slug": "text-generate-effect",
+      "guide": "components/text-generate-effect.md",
+      "variants": [
+        "components/text-generate-effect/components/ui/text-generate-effect.tsx"
+      ]
+    },
+    {
+      "slug": "text-hover-effect",
+      "guide": "components/text-hover-effect.md",
+      "variants": [
+        "components/text-hover-effect/components/ui/text-hover-effect.tsx"
+      ]
+    },
+    {
+      "slug": "text-reveal-card",
+      "guide": "components/text-reveal-card.md",
+      "variants": [
+        "components/text-reveal-card/components/ui/text-reveal-card.tsx"
+      ]
+    },
+    {
+      "slug": "timeline",
+      "guide": "components/timeline.md",
+      "variants": [
+        "components/timeline/components/ui/timeline.tsx"
+      ]
+    },
+    {
+      "slug": "tooltip-card",
+      "guide": "components/tooltip-card.md",
+      "variants": [
+        "components/tooltip-card/components/ui/tooltip-card.tsx"
+      ]
+    },
+    {
+      "slug": "tracing-beam",
+      "guide": "components/tracing-beam.md",
+      "variants": [
+        "components/tracing-beam/components/ui/tracing-beam.tsx"
+      ]
+    },
+    {
+      "slug": "typewriter-effect",
+      "guide": "components/typewriter-effect.md",
+      "variants": [
+        "components/typewriter-effect/components/ui/typewriter-effect.tsx"
+      ]
+    },
+    {
+      "slug": "use-outside-click",
+      "guide": "components/use-outside-click.md",
+      "variants": [
+        "components/apple-cards-carousel/hooks/use-outside-click.tsx"
+      ]
+    },
+    {
+      "slug": "vortex",
+      "guide": "components/vortex.md",
+      "variants": [
+        "components/vortex/components/ui/vortex.tsx"
+      ]
+    },
+    {
+      "slug": "wavy-background",
+      "guide": "components/wavy-background.md",
+      "variants": [
+        "components/wavy-background/components/ui/wavy-background.tsx"
+      ]
+    },
+    {
+      "slug": "webcam-pixel-grid",
+      "guide": "components/webcam-pixel-grid.md",
+      "variants": [
+        "components/webcam-pixel-grid/components/ui/webcam-pixel-grid.tsx"
+      ]
+    },
+    {
+      "slug": "wobble-card",
+      "guide": "components/wobble-card.md",
+      "variants": [
+        "components/wobble-card/components/ui/wobble-card.tsx"
+      ]
+    },
+    {
+      "slug": "world-map",
+      "guide": "components/world-map.md",
+      "variants": [
+        "components/world-map/components/ui/world-map.tsx"
+      ]
+    }
+  ]
+}

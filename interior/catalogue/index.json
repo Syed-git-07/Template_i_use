@@ -1,0 +1,1432 @@
+{
+  "checked_at_utc": "2026-11-17T11:05:18.228217+00:00",
+  "site": "https://www.interior.dev",
+  "discovered": 56,
+  "selected": 56,
+  "items": [
+    {
+      "url": "https://www.interior.dev",
+      "path": "",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Software feels cheap in the half-second after a click.",
+      "headings": [
+        "Small things. Finished.",
+        "Loading Button",
+        "Hold to Confirm",
+        "Tooltip Group",
+        "Slider Detents",
+        "Segmented Control",
+        "Like Burst",
+        "One file. Yours.",
+        "A few words back.",
+        "Finish the small things."
+      ],
+      "source_links": [
+        "https://github.com/ddoemonn/interior",
+        "https://github.com/ddoemonn/interior/blob/main/LICENSE",
+        "https://x.com/ozzyxs1a",
+        "https://x.com/ozzyxs1a/status/2082917975141613811"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 2,
+      "documentation_links": [
+        "https://www.interior.dev/docs/copy-button",
+        "https://www.interior.dev/docs/hold-to-confirm",
+        "https://www.interior.dev/docs/like-burst",
+        "https://www.interior.dev/docs/loading-button",
+        "https://www.interior.dev/docs/segmented-control",
+        "https://www.interior.dev/docs/slider-detents",
+        "https://www.interior.dev/docs/tooltip-group"
+      ],
+      "access_signals": [],
+      "html_sha256": "a79422cd42aa40da8b8626dc5cbc32440ac4bfad351fd112dea7b8916498f0a0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs",
+      "path": "/docs",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Why this exists",
+      "headings": [
+        "The three failures",
+        "The button jumps",
+        "The animation cannot be interrupted",
+        "Motion is the only channel",
+        "What you get",
+        "Ten moments"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 0,
+      "documentation_links": [
+        "https://www.interior.dev/docs/accordion",
+        "https://www.interior.dev/docs/blur-up-image",
+        "https://www.interior.dev/docs/collapsible-banner",
+        "https://www.interior.dev/docs/command-palette",
+        "https://www.interior.dev/docs/context-menu",
+        "https://www.interior.dev/docs/copy-button",
+        "https://www.interior.dev/docs/drawer",
+        "https://www.interior.dev/docs/dropdown",
+        "https://www.interior.dev/docs/expanding-search",
+        "https://www.interior.dev/docs/filter-grid",
+        "https://www.interior.dev/docs/floating-label",
+        "https://www.interior.dev/docs/hide-on-scroll",
+        "https://www.interior.dev/docs/hold-to-confirm",
+        "https://www.interior.dev/docs/icon-morph",
+        "https://www.interior.dev/docs/inline-validation",
+        "https://www.interior.dev/docs/lightbox",
+        "https://www.interior.dev/docs/like-burst",
+        "https://www.interior.dev/docs/live-activity",
+        "https://www.interior.dev/docs/load-more",
+        "https://www.interior.dev/docs/loading-button",
+        "https://www.interior.dev/docs/logo-marquee",
+        "https://www.interior.dev/docs/long-press",
+        "https://www.interior.dev/docs/modal",
+        "https://www.interior.dev/docs/new-items-pill",
+        "https://www.interior.dev/docs/otp-input",
+        "https://www.interior.dev/docs/pagination",
+        "https://www.interior.dev/docs/password-strength",
+        "https://www.interior.dev/docs/poll-results",
+        "https://www.interior.dev/docs/popover",
+        "https://www.interior.dev/docs/presence-avatars",
+        "https://www.interior.dev/docs/press-depth",
+        "https://www.interior.dev/docs/progress-bar",
+        "https://www.interior.dev/docs/reading-progress",
+        "https://www.interior.dev/docs/reorder-list",
+        "https://www.interior.dev/docs/ripple",
+        "https://www.interior.dev/docs/scroll-spy",
+        "https://www.interior.dev/docs/segmented-control",
+        "https://www.interior.dev/docs/show-more",
+        "https://www.interior.dev/docs/skeleton-swap",
+        "https://www.interior.dev/docs/slider-detents",
+        "https://www.interior.dev/docs/snap-carousel",
+        "https://www.interior.dev/docs/sortable-table",
+        "https://www.interior.dev/docs/sticky-header",
+        "https://www.interior.dev/docs/streaming-text",
+        "https://www.interior.dev/docs/swipe-deck",
+        "https://www.interior.dev/docs/tabs",
+        "https://www.interior.dev/docs/tag-input",
+        "https://www.interior.dev/docs/task-steps",
+        "https://www.interior.dev/docs/text-reveal",
+        "https://www.interior.dev/docs/tooltip-group",
+        "https://www.interior.dev/docs/tree-view",
+        "https://www.interior.dev/docs/typing-indicator",
+        "https://www.interior.dev/docs/value-flash",
+        "https://www.interior.dev/docs/wizard-steps"
+      ],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "8ac82963fdedb9da94ab436d65e226d786da0ea5f48707eebe264a9c9908402e",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/accordion",
+      "path": "/docs/accordion",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Accordion",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "2c57492d518ffbfce9797a922079be1b9122ca03cfe17138a1a73aeef2cfcc90",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/blur-up-image",
+      "path": "/docs/blur-up-image",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Blur-up Image",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "d4d1713b70fbee807dc743ae0743358143462ec36edb84e59ffb52b5d2a2e5f3",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/collapsible-banner",
+      "path": "/docs/collapsible-banner",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Collapsible Banner",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "565c064759ff534e676b84a22782a27b41b37dcd03303d653fbec90eaca797e0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/command-palette",
+      "path": "/docs/command-palette",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Command Palette",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "fc8f97a3cab1829a35e5643961ed6db1cf29ab09cc43c5b8598902928a3be3a6",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/context-menu",
+      "path": "/docs/context-menu",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Context Menu",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "4d181257d1a0308c5522d6e00caa81e113babf90f012b25fcc7c29885a6f4cf1",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/copy-button",
+      "path": "/docs/copy-button",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Copy Button",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "fa78b23930e72b5ce7011bb5a1b4ac1ba8d12f74697da17d115658a2ea7dd579",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/drawer",
+      "path": "/docs/drawer",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Drawer",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "9dacb180ccd78d9e62a6ed61e0fb2303e988c1fced91935dd508f5dc2cf680d9",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/dropdown",
+      "path": "/docs/dropdown",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Dropdown",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "9e5dc40289e2f753ef191ea0499d135f285e0ba3fe6cc5e4151537f85a6c2407",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/expanding-search",
+      "path": "/docs/expanding-search",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Expanding Search",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "1bf7a77336ad7937376e271d62aba3698ac719326e0a7a9436eebe2f04feeac3",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/filter-grid",
+      "path": "/docs/filter-grid",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Filter Grid",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "40a0f5109bebd4d3b287d73d9130dc8793b76c966128e13da2ccb0a23dd8d7c1",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/floating-label",
+      "path": "/docs/floating-label",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Floating Label",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e190ee859836478379a047a39890bfd8022cce3e7586dad259ee3701c03a0499",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/hide-on-scroll",
+      "path": "/docs/hide-on-scroll",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Hide on Scroll",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "dbb11f5fcab61f211647d303ad2bdac4747dcd691d08e0fb063051478b1a50f0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/hold-to-confirm",
+      "path": "/docs/hold-to-confirm",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Hold to Confirm",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "fc83d03c6ca98f270c1010220845ea6689ec80d26c90d921711c4e76830f65c9",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/icon-morph",
+      "path": "/docs/icon-morph",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Icon Morph",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "b56f93a712ab83594e59890480885265bd07a68c0ae12607c677033d274c1d97",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/inline-validation",
+      "path": "/docs/inline-validation",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Inline Validation",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "f0d2337edf1d1f36ffe2889673ba22d3b57fb26e7f521f0b37c0a8d622b58515",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/lightbox",
+      "path": "/docs/lightbox",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Lightbox",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "a87ac2870640b7f4cf9a2a448e2d6ac8f66aa9c59cec1c9130bf6763ccdfb6e4",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/like-burst",
+      "path": "/docs/like-burst",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Like Burst",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "acad98e7cadf36059a09553a35b9df63ba973f9876ad0c785dba66935734ad98",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/live-activity",
+      "path": "/docs/live-activity",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Live Activity",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "9436c113023e554a5d4239fbf379650b00ee76bccae70c425e9a8bbb11e91514",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/load-more",
+      "path": "/docs/load-more",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Load More",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "84b91bbcfc4ff44cb89e1f4eb75e45a0b571b1e86f69e6112ab2112a94b50068",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/loading-button",
+      "path": "/docs/loading-button",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Loading Button",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e358496dd8b835fd90786613066676bf68b3dc19265ac4e80ad4aafc0b9c7936",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/logo-marquee",
+      "path": "/docs/logo-marquee",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Logo Marquee",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "d18e0c7f3b8e5b32b987036c2dac779063716b36ac2aa385447105701b41d157",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/long-press",
+      "path": "/docs/long-press",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Long Press",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "cde2c8b21c2879c44f40e9797d0238339bab7838a9835c31b50f0f83733aa172",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/modal",
+      "path": "/docs/modal",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Modal",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "3a94b7890091a63f7e3f36fcadce21f46e39b6d08269d679a7b08367427e070f",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/new-items-pill",
+      "path": "/docs/new-items-pill",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "New Items Pill",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "51dd84a85de2e684fa374f88d7751bd924d71b848885eda6a80f5c6ce1e334df",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/otp-input",
+      "path": "/docs/otp-input",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "OTP Input",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "065cd08ae3df73b254d15ed8d94aab2a716b6b654e0dd89a2ae0546cc3ce9479",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/pagination",
+      "path": "/docs/pagination",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Pagination",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "89f417f50a91dedc4ad8e27f26df1da7f9190bdef5a0ff3980794bb8c914cc94",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/password-strength",
+      "path": "/docs/password-strength",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Password Strength",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "346532b6951e92948fd68ae0931c4f2b1526719a279b5cecc8aac9702f7b3977",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/poll-results",
+      "path": "/docs/poll-results",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Poll Results",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "ededd92ef5b1c0c97276e97da604f67fc030b1d173d3066465a25602cd5b44ab",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/popover",
+      "path": "/docs/popover",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Popover",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "489d463158a4bcc2a52a5a951370c511e9f39462990efd2f8cf5f41567b1b3ee",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/presence-avatars",
+      "path": "/docs/presence-avatars",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Presence Avatars",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "fa4bfdd7c4c8742176d95a43865abbcb22baa9f7c9baa12e58dc3bb865020c4f",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/press-depth",
+      "path": "/docs/press-depth",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Press Depth",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "7e45620ca12914656a7fd7e57c38890363fd70222748ad0900ddf793496a370d",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/progress-bar",
+      "path": "/docs/progress-bar",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Progress Bar",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "f3ad52d09fd97e13bdf6ca3751aa73c5299c25ae8d94724e5423222e2e556a81",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/reading-progress",
+      "path": "/docs/reading-progress",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Reading Progress",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "06a9ad5b2af2f1ef405cae971b205b8925f7d256608ce29bc2368951d87a062b",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/reorder-list",
+      "path": "/docs/reorder-list",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Reorder List",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "d08e6b147c80256ecf92b6aba19c0a2dddca1d8f924ed2f8df95158b071f2237",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/ripple",
+      "path": "/docs/ripple",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Ripple",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "6ec1547eca3ef794322cf507654fe4678c477e7132e6934444b7360f6148d2c2",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/scroll-spy",
+      "path": "/docs/scroll-spy",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Scroll Spy",
+      "headings": [
+        "Survey",
+        "Materials",
+        "Light",
+        "Schedule",
+        "Notes",
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "cc5ae946349ee670e718cc7e8459c3af107ade1d056dde0e6cdb0c873dc979db",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/segmented-control",
+      "path": "/docs/segmented-control",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Segmented Control",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "b9871a180ea3e52b39acde6af8af85418437045cfe44026c070737dd2dbe7ba0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/show-more",
+      "path": "/docs/show-more",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Show More",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "5a911cf2a872dfb30ce9bad7757becdd0870efec4aaf89b3928894d27653ee17",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/skeleton-swap",
+      "path": "/docs/skeleton-swap",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Skeleton Swap",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "0a8d93b4860f979fc1b9af8350090a21ae2c398e06277549e6cd3232afa8904b",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/slider-detents",
+      "path": "/docs/slider-detents",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Slider Detents",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "511ab83213032f929c6b750f3c6c278369fb8b6d672cf02db8e8b2fb1200d16e",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/snap-carousel",
+      "path": "/docs/snap-carousel",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Snap Carousel",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "d67aedf99f2d783aeeb72de700cec37e731610bdd19bb116e05de2893cf53ccd",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/sortable-table",
+      "path": "/docs/sortable-table",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Sortable Table",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "65d85706a9601d8fa0edc8036912b7e149965648700ef5d7f6092049af2ef6b4",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/sticky-header",
+      "path": "/docs/sticky-header",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Sticky Header",
+      "headings": [
+        "Inbox",
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e5f1ad34df591cc1199a18d1d10c744d3e3dfb97078d23ee2be1003e510d17ae",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/streaming-text",
+      "path": "/docs/streaming-text",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Streaming Text",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "ae00eceb8bd87a3e6713e4ecfcb1a236ab44b7e3298868499e59c9e2d485f565",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/swipe-deck",
+      "path": "/docs/swipe-deck",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Swipe Deck",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "76e612376694b551dfe54a7ff587e5c5ec32ff04a26f32bcf89e1065bacbdccf",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/tabs",
+      "path": "/docs/tabs",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Tabs",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "ec9f251bad55246800daa977e3a9e2f833b3296e81518b24171fd32245966874",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/tag-input",
+      "path": "/docs/tag-input",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Tag Input",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "8fa72de481f24051f8fdc20ee0b70937f72502fe891f90b115a69a5733e7fe9c",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/task-steps",
+      "path": "/docs/task-steps",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Task Steps",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "6ff7f8f92488219243b7d02ffce50c048d5dd6afce4495580e0a2e2e5b8ec46b",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/text-reveal",
+      "path": "/docs/text-reveal",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Reveal",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "67917fabb552547b9333579e01ca2e4ba76675d2f2208f3b9efc97c775194263",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/tooltip-group",
+      "path": "/docs/tooltip-group",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Tooltip Group",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e2782383679ff245816e8035c6f88db20a15b59936643cb679122c8c462ced36",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/tree-view",
+      "path": "/docs/tree-view",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Tree View",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "16bcf559d2e8611f5635a14db553cb35fd100c053c050eaa5c310aa2a32b1462",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/typing-indicator",
+      "path": "/docs/typing-indicator",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Typing Indicator",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "a3cc9ac8273ec1c21eb3567216be387c395cb9059f8c18637be528bc92739206",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/value-flash",
+      "path": "/docs/value-flash",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Value Flash",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "215b23ca76f0cc20e3200b7b746f3d8020a7fd73d618ebfa96b6f7f380ead04c",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://www.interior.dev/docs/wizard-steps",
+      "path": "/docs/wizard-steps",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Wizard Steps",
+      "headings": [
+        "Install",
+        "Usage",
+        "Source",
+        "Props"
+      ],
+      "source_links": [],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "0390a64b129e66d004881297b6ce2cbc6bee2f5388c7d9316c572f6eea5f0a72",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    }
+  ]
+}

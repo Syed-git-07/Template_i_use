@@ -1,0 +1,42 @@
+{
+  "checked_at_utc": "2026-11-17T11:17:53.729209+00:00",
+  "items": [
+    {
+      "slug": "option-wheel",
+      "url": "https://reactbits.dev/components/option-wheel",
+      "environment": "390x844 mobile/touch emulation with reduced motion; not physical-device certification",
+      "assertions": [
+        "Arrow keys advance and reverse selection under reduced motion"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "voice-pill",
+      "url": "https://reactbits.dev/micro/voice-pill",
+      "environment": "390x844 mobile/touch emulation with reduced motion; not physical-device certification",
+      "assertions": [
+        "Touch tap starts simulated listening; Escape restores idle without microphone access",
+        "Touch drag left beyond cancel distance returns idle"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "stepper",
+      "url": "https://reactbits.dev/components/stepper",
+      "environment": "390x844 mobile/touch emulation with reduced motion; not physical-device certification",
+      "assertions": [
+        "Touch Continue and Back change and restore displayed step"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "hold-button",
+      "url": "https://reactbits.dev/micro/hold-button",
+      "environment": "390x844 mobile/touch emulation with reduced motion; not physical-device certification",
+      "assertions": [
+        "Brief touch does not complete; sustained touch reaches done under reduced motion"
+      ],
+      "status": "passed"
+    }
+  ]
+}

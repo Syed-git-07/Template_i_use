@@ -1,0 +1,15 @@
+{
+  "checked_at_utc": "2026-11-17T11:15:44.761786+00:00",
+  "scope": "Selected desktop public-demo actions; no real data deletion, submission or production guarantee.",
+  "items": [
+    {
+      "slug": "3d-card-effect",
+      "url": "https://ui.aceternity.com/components/3d-card-effect",
+      "assertions": [
+        "Pointer position tilts the card; leaving restores zero rotation"
+      ],
+      "observed_tilt": "rotateY(-9.07223deg) rotateX(-9.06152deg)",
+      "status": "passed"
+    }
+  ]
+}

@@ -1,0 +1,2887 @@
+{
+  "checked_at_utc": "2026-11-17T11:05:18.978531+00:00",
+  "site": "https://motion-primitives.com",
+  "discovered": 35,
+  "selected": 35,
+  "items": [
+    {
+      "url": "https://motion-primitives.com/docs",
+      "path": "/docs",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Motion-Primitives",
+      "headings": [
+        "Vision",
+        "Easy to Use and customize",
+        "Built around Motion",
+        "Open source and community-driven"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 0,
+      "documentation_links": [],
+      "access_signals": [],
+      "html_sha256": "27a26226cb7298f82da53a3471dfddac5e93034b12cd5e2ff73f70db06c4de02",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/accordion",
+      "path": "/docs/accordion",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Accordion",
+      "headings": [
+        "Examples",
+        "Accordion Basic",
+        "Accordion with icons",
+        "Accordion custom variants",
+        "Installation",
+        "Component API",
+        "Accordion",
+        "AccordionItem",
+        "AccordionTrigger",
+        "AccordionContent"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "variants",
+            "{ expanded: Variant; collapsed: Variant }",
+            ""
+          ],
+          [
+            "expandedValue",
+            "React.Key | null",
+            ""
+          ],
+          [
+            "onValueChange",
+            "(value: React.Key | null) => void",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "value",
+            "React.Key",
+            ""
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "38f605a7305194c16d8214edb564fb3ad24f722a48c49c5ac7a844588d22f7a0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-background",
+      "path": "/docs/animated-background",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Animated Background",
+      "headings": [
+        "Examples",
+        "Animated Tabs",
+        "Animated Tabs Hover",
+        "Animated Card Background",
+        "Dialog",
+        "Popover",
+        "Accordion",
+        "Collapsible",
+        "Drag to Reorder",
+        "Swipe to Delete",
+        "Segmented Control",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactElement with 'data-id' string attribute array or single element",
+            ""
+          ],
+          [
+            "defaultValue",
+            "string",
+            ""
+          ],
+          [
+            "onValueChange",
+            "(newActiveId: string | null) => void",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "enableHover",
+            "boolean",
+            "false"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e9af8a48921af59bbbfad8f22e43e9ec6f94b01427ecddf368cca629cc82889a",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-group",
+      "path": "/docs/animated-group",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Animated Group",
+      "headings": [
+        "Examples",
+        "Animated Group with preset",
+        "Animated Group with custom variants",
+        "AnimatedGroup with custom variants",
+        "Installation",
+        "Component API",
+        "AnimatedGroup"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "variants",
+            "{ container?: Variants; item?: Variants; }",
+            "undefined"
+          ],
+          [
+            "preset",
+            "'fade' | 'slide' | 'scale' | 'blur-sm' | 'blur-slide'",
+            "undefined"
+          ],
+          [
+            "as",
+            "React.ElementType",
+            "'div'"
+          ],
+          [
+            "asChild",
+            "React.ElementType",
+            "'div'"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "a87ce723d76967a168db50b7c270cdc2b7959e8582d99887af9a7a79a1dfbc9c",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/animated-number",
+      "path": "/docs/animated-number",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Animated Number",
+      "headings": [
+        "Examples",
+        "Basic",
+        "Basic counter",
+        "With useInView",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "value",
+            "number",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            ""
+          ],
+          [
+            "as",
+            "React.ElementType",
+            "'span'"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "288596e90687d2fec0e1d7e1caa8defc815efb9625981bc04e35a50f49bc38e4",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/border-trail",
+      "path": "/docs/border-trail",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Border Trail",
+      "headings": [
+        "Examples",
+        "Border Trail Card",
+        "Border Trail Loading Card",
+        "Border Trail Textarea",
+        "Installation",
+        "Component API",
+        "Border Trail"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "size",
+            "number",
+            "60"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "onAnimationComplete",
+            "() => void",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "278e5bae25d3be543cf802b0ce4c5f5996fd389a93ea863d1050a56d247f5e27",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/carousel",
+      "path": "/docs/carousel",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Carousel",
+      "headings": [
+        "Examples",
+        "Carousel basic",
+        "Carousel with custom sizes",
+        "Carousel with custom sizes and spacing",
+        "Carousel with custom indicators",
+        "Installation",
+        "Component API",
+        "Carousel",
+        "CarouselNavigation",
+        "CarouselIndicator",
+        "CarouselContent",
+        "CarouselItem",
+        "useCarousel"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "initialIndex",
+            "number",
+            "0"
+          ],
+          [
+            "index",
+            "number",
+            ""
+          ],
+          [
+            "onIndexChange",
+            "(newIndex: number) => void",
+            ""
+          ],
+          [
+            "disableDrag",
+            "boolean",
+            "false"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "classNameButton",
+            "string",
+            ""
+          ],
+          [
+            "alwaysShow",
+            "boolean",
+            "false"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "classNameButton",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Type"
+          ],
+          [
+            "number"
+          ],
+          [
+            "(newIndex: number) => void"
+          ],
+          [
+            "number"
+          ],
+          [
+            "(newItemsCount: number) => void"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "a60aec2237f93fa2ae58520b1acf943328eca9007070db6fe939539fadb8eb80",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/cursor",
+      "path": "/docs/cursor",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Cursor",
+      "headings": [
+        "Examples",
+        "Cursor with image and spring",
+        "Cursor with custom component",
+        "Cursor with image and spring",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "springConfig",
+            "SpringOptions",
+            ""
+          ],
+          [
+            "attachToParent",
+            "boolean",
+            "false"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "variants",
+            "Object (with initial, animated, exit properties)",
+            ""
+          ],
+          [
+            "onPositionChange",
+            "(position: { x: number, y: number }) => void",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "d65ea45dc499e9141f2f0120c3598047835dc2ead5d94e17dab4c6ca7bfecb07",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/dialog",
+      "path": "/docs/dialog",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Dialog",
+      "headings": [
+        "Examples",
+        "Basic Dialog",
+        "Controlled Dialog",
+        "Dialog with custom variants and transition",
+        "Dialog with custom exit animation",
+        "Dialog with custom backdrop",
+        "Installation",
+        "Component API",
+        "Dialog",
+        "DialogTrigger",
+        "DialogContent",
+        "DialogHeader",
+        "DialogTitle",
+        "DialogDescription",
+        "DialogClose"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "variants",
+            "Variants",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "defaultOpen",
+            "boolean",
+            "false"
+          ],
+          [
+            "onOpenChange",
+            "(open: boolean) => void",
+            ""
+          ],
+          [
+            "open",
+            "boolean",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "container",
+            "HTMLElement",
+            "document.body"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            "required"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "disabled",
+            "boolean",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "46ce96ad37deeb9af8448f91ef143592b1409b39e3e0d18a4d0a237766fb4b60",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/disclosure",
+      "path": "/docs/disclosure",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Disclosure",
+      "headings": [
+        "Examples",
+        "Basic Disclosure",
+        "Disclosure with custom animation",
+        "Installation",
+        "Component API",
+        "Disclosure",
+        "DisclosureTrigger",
+        "DisclosureContent"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "open",
+            "boolean",
+            "false"
+          ],
+          [
+            "onOpenChange",
+            "(open: boolean) => void",
+            ""
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "variants",
+            "{ expanded: Variant; collapsed: Variant }",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e7d92742b0251702e2e62524114f37697fe5cdee50100340dd40f798f22174ec",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/dock",
+      "path": "/docs/dock",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Dock",
+      "headings": [
+        "Examples",
+        "Apple style dock",
+        "Installation",
+        "Component API",
+        "Dock",
+        "DockItem",
+        "DockLabel",
+        "DockIcon",
+        "Credits"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://github.com/kashyap20",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "spring",
+            "SpringOptions",
+            "{ mass: 0.1, stiffness: 150, damping: 12 }"
+          ],
+          [
+            "magnification",
+            "number",
+            "80"
+          ],
+          [
+            "distance",
+            "number",
+            "150"
+          ],
+          [
+            "panelHeight",
+            "number",
+            "64"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "onClick",
+            "() => void",
+            "undefined"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "e745d024cedc7f026e7050c7f8fb9d78b3efae62cfb2f757aff16671d0a2a43a",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/glow-effect",
+      "path": "/docs/glow-effect",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Glow Effect",
+      "headings": [
+        "Examples",
+        "Glow effect static background",
+        "Glow effect button",
+        "Glow effect card mode",
+        "Installation",
+        "Component API",
+        "GlowEffect"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            "undefined"
+          ],
+          [
+            "colors",
+            "string[]",
+            "['#FF5733', '#33FF57', '#3357FF', '#F1C40F']"
+          ],
+          [
+            "mode",
+            "'rotate' | 'pulse' | 'breathe' | 'colorShift' | 'flowHorizontal' | 'static'",
+            "'rotate'"
+          ],
+          [
+            "blur",
+            "'number' | 'softest' | 'soft' | 'medium' | 'strong' | 'strong' | 'stronger' | 'strongest' | 'none'",
+            "'medium'"
+          ],
+          [
+            "transition",
+            "Transition",
+            "undefined"
+          ],
+          [
+            "scale",
+            "number",
+            "1"
+          ],
+          [
+            "duration",
+            "number",
+            "5"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "4a575fffda954e91fac3b1c51f17b43276623d915f7267fa2f5d7f4d2e8712f2",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/image-comparison",
+      "path": "/docs/image-comparison",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Image Comparison",
+      "headings": [
+        "Examples",
+        "Image Comparison Basic",
+        "Image Comparison with hover",
+        "Image Comparison with spring options",
+        "Image Comparison with custom slider",
+        "Installation",
+        "Component API",
+        "ImageComparison",
+        "ImageComparisonImage",
+        "ImageComparisonSlider"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "enableHover",
+            "boolean",
+            "false"
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            "{ bounce: 0, duration: 0 }"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "alt",
+            "string",
+            ""
+          ],
+          [
+            "src",
+            "string",
+            ""
+          ],
+          [
+            "position",
+            "'left' | 'right'",
+            "'left'"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "95ada9af40f4e9ca6b7dabae514b2a11ee1285377a7e90d69766f3cfc066d4e0",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/in-view",
+      "path": "/docs/in-view",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "In View",
+      "headings": [
+        "Examples",
+        "Basic in view",
+        "Basic in view with margin option",
+        "In view with images and margin option",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "variants",
+            "{ hidden: Variant; visible: Variant; }",
+            "{ hidden: { opacity: 0 }, visible: { opacity: 1 } }"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "viewOptions",
+            "UseInViewOptions",
+            ""
+          ],
+          [
+            "as",
+            "React.ElementType",
+            "'div'"
+          ],
+          [
+            "once",
+            "Boolean",
+            "undefined (false)"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "2d0a873d634a875beb571309861b3fa5741beabc5f41c0899a30c621d1535412",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/infinite-slider",
+      "path": "/docs/infinite-slider",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Infinite Slider",
+      "headings": [
+        "Example",
+        "Infinite Slider basic",
+        "Infinite Slider hover speed",
+        "Infinite Slider vertical",
+        "Installation",
+        "Component API",
+        "InfiniteSlider"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            ""
+          ],
+          [
+            "gap",
+            "number",
+            "16"
+          ],
+          [
+            "speed",
+            "number",
+            "100"
+          ],
+          [
+            "speedOnHover",
+            "number",
+            ""
+          ],
+          [
+            "direction",
+            "'horizontal' | 'vertical'",
+            "'horizontal'"
+          ],
+          [
+            "reverse",
+            "boolean",
+            "false"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "acdce796a3be19b88615fb8609a1579b621a3172f8c7d5edea290efeadce02f1",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/installation",
+      "path": "/docs/installation",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Installation",
+      "headings": [
+        "Install Tailwind CSS",
+        "Install Motion",
+        "Add the utility helper",
+        "Install icons",
+        "That's it"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 4,
+      "documentation_links": [
+        "https://motion-primitives.com/docs/text-effect",
+        "https://tailwindcss.com/docs/installation"
+      ],
+      "access_signals": [],
+      "html_sha256": "6e0fb90d410d7d84591e6381155a6f7cf17650584d37027cf24fecf7655e0b87",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/magnetic",
+      "path": "/docs/magnetic",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Magnetic",
+      "headings": [
+        "Examples",
+        "Magnetic Basic",
+        "Magnetic Nested",
+        "Installation",
+        "Component API",
+        "Magnetic"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            ""
+          ],
+          [
+            "intensity",
+            "number",
+            "0.6"
+          ],
+          [
+            "range",
+            "number",
+            "100"
+          ],
+          [
+            "actionArea",
+            "'self' | 'parent' | 'global'",
+            "'self'"
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            "SPRING_CONFIG"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "3e76741e7939a68b137f64eef888cb1495b136d92e3cde627cfe544db27ea37b",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/morphing-dialog",
+      "path": "/docs/morphing-dialog",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Morphing Dialog",
+      "headings": [
+        "Examples",
+        "Morphing Dialog Basic",
+        "Morphing Dialog Basic 2",
+        "Morphing Dialog Image",
+        "Installation",
+        "Component API",
+        "MorphingDialog",
+        "MorphingDialogTrigger",
+        "MorphingDialogContent",
+        "MorphingDialogTitle",
+        "MorphingDialogSubtitle",
+        "MorphingDialogDescription",
+        "MorphingDialogImage",
+        "MorphingDialogClose"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            ""
+          ],
+          [
+            "triggerRef",
+            "React.RefObject",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "disableLayoutAnimation",
+            "boolean",
+            "false"
+          ],
+          [
+            "variants",
+            "Object",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "src",
+            "string",
+            ""
+          ],
+          [
+            "alt",
+            "string",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            ""
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactNode",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "variants",
+            "Object",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "01962d1154d586bad862f6a02d601f073e34e13a74222941e690e0b6e6e1cd68",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/morphing-popover",
+      "path": "/docs/morphing-popover",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Morphing Popover",
+      "headings": [
+        "Examples",
+        "Morphing popover basic",
+        "Morphing popover with custom transition variants",
+        "Morphing popover with textarea",
+        "Installation",
+        "Component API",
+        "MorphingPopover",
+        "MorphingPopoverTrigger",
+        "MorphingPopoverContent"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            "Required"
+          ],
+          [
+            "transition",
+            "Transition",
+            "{ type: 'spring', bounce: 0.1, duration: 0.4 }"
+          ],
+          [
+            "defaultOpen",
+            "boolean",
+            "false"
+          ],
+          [
+            "open",
+            "boolean",
+            "undefined"
+          ],
+          [
+            "onOpenChange",
+            "(open: boolean) => void",
+            "undefined"
+          ],
+          [
+            "variants",
+            "Variants",
+            "undefined"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            "Required"
+          ],
+          [
+            "asChild",
+            "boolean",
+            "false"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ],
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            "Required"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "8aceddd0b36954df0fdb8c567513b3a2ab7735001310fed4939be35b83559367",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/progressive-blur",
+      "path": "/docs/progressive-blur",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Progressive blur",
+      "headings": [
+        "Examples",
+        "Progressive blur basic",
+        "Progressive blur with hover",
+        "Progressive blur with slider and different directions",
+        "Installation",
+        "Component API",
+        "ProgressiveBlur"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "direction",
+            "'top' | 'right' | 'bottom' | 'left'",
+            "'top'"
+          ],
+          [
+            "blurLayers",
+            "number",
+            "8"
+          ],
+          [
+            "className",
+            "string",
+            "''"
+          ],
+          [
+            "blurIntensity",
+            "number",
+            "0.25"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "bd9270ac40d890e7abf817cb3b7ccd2a8eeb722ab69603a6c96ad1149cd1d58f",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/scroll-progress",
+      "path": "/docs/scroll-progress",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Scroll Progress",
+      "headings": [
+        "Examples",
+        "Scroll Progress Basic",
+        "Scroll Progress Navigation",
+        "Scroll Progress Gradient",
+        "Installation",
+        "Component API",
+        "ScrollProgress",
+        "Credit"
+      ],
+      "source_links": [
+        "https://github.com/bhataasim1",
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            ""
+          ],
+          [
+            "containerRef",
+            "RefObject",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "73c2c3ef76ae718c64f1ae003ad8d4c9c5310bee3e110ce7e8668ced90c04883",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/sliding-number",
+      "path": "/docs/sliding-number",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Sliding Number",
+      "headings": [
+        "Examples",
+        "Clock",
+        "Sliding number with slider",
+        "Sliding number basic",
+        "Installation",
+        "Component API",
+        "SlidingNumber",
+        "Credits"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "value",
+            "string",
+            ""
+          ],
+          [
+            "padStart",
+            "boolean",
+            "false"
+          ],
+          [
+            "decimalSeparator",
+            "string",
+            "'.'"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "ff76458d2f11087d5c16a3a65681982fd5e8aa994fa8983dc098df6a7c38eaa3",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/spinning-text",
+      "path": "/docs/spinning-text",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Spinning Text",
+      "headings": [
+        "Examples",
+        "Basic Usage",
+        "Custom Transition",
+        "Custom Variants",
+        "Installation",
+        "Component API",
+        "SpinningText",
+        "Credit"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://github.com/ibtihelbs",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "ReactElement",
+            ""
+          ],
+          [
+            "style",
+            "CSSProperties",
+            "{}"
+          ],
+          [
+            "duration",
+            "number",
+            "10"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "reverse",
+            "boolean",
+            "false"
+          ],
+          [
+            "fontSize",
+            "number",
+            "1"
+          ],
+          [
+            "radius",
+            "number",
+            "5"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "variants",
+            "{ container?: Variants; item?: Variants; }",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "574be627e9b5ec1cac20cb5b6747443d49630a6c91fb8d46414c577ba237d6da",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/spotlight",
+      "path": "/docs/spotlight",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Spotlight",
+      "headings": [
+        "Examples",
+        "Spotlight Basic 1",
+        "Spotlight Custom Color",
+        "Spotlight Border",
+        "Installation",
+        "Component API",
+        "Spotlight",
+        "Credit"
+      ],
+      "source_links": [
+        "https://github.com/divyanshu-vashishth",
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            "''"
+          ],
+          [
+            "size",
+            "number",
+            "200"
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            "{ bounce: 0 }"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [
+        "https://tailwindcss.com/docs/gradient-color-stops"
+      ],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "7dcda913eef9e73fc79c1ad4b37d741b2109373c87f8dab6a644383b4429ed8b",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-effect",
+      "path": "/docs/text-effect",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Effect",
+      "headings": [
+        "Examples",
+        "Text Effect per character",
+        "Text Effect per word",
+        "Animate your ideas with motion-primitives Animate your ideas with motion-primitives",
+        "Text Effect with preset",
+        "Animate your ideas with motion-primitives Animate your ideas with motion-primitives",
+        "Text Effect with custom variants",
+        "Text Effect with custom delay",
+        "Text Effect per line",
+        "Text Effect with exit animation",
+        "Text Effect with speed",
+        "Installation",
+        "Component API",
+        "TextEffect"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "string",
+            ""
+          ],
+          [
+            "per",
+            "'word' | 'char' | 'line'",
+            "'word'"
+          ],
+          [
+            "as",
+            "keyof JSX.IntrinsicElements",
+            "'p'"
+          ],
+          [
+            "variants",
+            "{ container?: Variants; item?: Variants; }",
+            "undefined"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "preset",
+            "'blur-sm' | 'fade-in-blur' | 'scale' | 'fade' | 'slide'",
+            "'fade'"
+          ],
+          [
+            "delay",
+            "number",
+            "0"
+          ],
+          [
+            "trigger",
+            "boolean",
+            "true"
+          ],
+          [
+            "onAnimationComplete",
+            "() => void",
+            "undefined"
+          ],
+          [
+            "onAnimationStart",
+            "() => void",
+            "undefined"
+          ],
+          [
+            "segmentWrapperClassName",
+            "string",
+            "undefined"
+          ],
+          [
+            "style",
+            "CSSProperties",
+            "undefined"
+          ],
+          [
+            "containerTransition",
+            "Transition",
+            "undefined"
+          ],
+          [
+            "segmentTransition",
+            "Transition",
+            "undefined"
+          ],
+          [
+            "speedReveal",
+            "number",
+            "1"
+          ],
+          [
+            "speedSegment",
+            "number",
+            "1"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "b0b75ec896a35bd4f203ce83920a7b3791a2d79ca3eec6d5652d75b8dd654086",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-loop",
+      "path": "/docs/text-loop",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Loop",
+      "headings": [
+        "Examples",
+        "Text Loop Basic",
+        "Text Loop with custom variants and transition",
+        "Text Loop with onIndexChange",
+        "Installation",
+        "Component API",
+        "Text Loop"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode[]",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "interval",
+            "number",
+            "2"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "variants",
+            "Variants",
+            ""
+          ],
+          [
+            "onIndexChange",
+            "(index: number) => void",
+            ""
+          ],
+          [
+            "trigger",
+            "boolean",
+            "true"
+          ],
+          [
+            "mode",
+            "AnimatePresenceProps['mode']",
+            "popLayout"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "802e37155fc9d2c514de950d90c275398db58502ba1103fb9a1c0b47825fc0f7",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-morph",
+      "path": "/docs/text-morph",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Morph",
+      "headings": [
+        "Examples",
+        "Text Morph Button",
+        "Text Morph Input",
+        "Installation",
+        "Component API",
+        "TextMorph",
+        "Credits"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "string",
+            ""
+          ],
+          [
+            "as",
+            "keyof JSX.IntrinsicElements",
+            "'p'"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "style",
+            "React.CSSProperties",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "c024f117086ffa1c670b4b4a5b8ead83712bd42e425898292ffdfdce8ca1a86e",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-roll",
+      "path": "/docs/text-roll",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Roll",
+      "headings": [
+        "Examples",
+        "Text Roll basic",
+        "Text Roll custom variants",
+        "Text Roll custom transition delay",
+        "Installation",
+        "Component API",
+        "Text Roll"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode",
+            "-"
+          ],
+          [
+            "className",
+            "string",
+            "-"
+          ],
+          [
+            "duration",
+            "number",
+            "0.5"
+          ],
+          [
+            "getEnterDelay",
+            "(i: number) => number",
+            "(i) => i * 0.1"
+          ],
+          [
+            "getExitDelay",
+            "(i: number) => number",
+            "(i) => i * 0.1 + 0.2"
+          ],
+          [
+            "transition",
+            "Transition",
+            "{ ease: 'easeIn' }"
+          ],
+          [
+            "variants",
+            "Object",
+            "-"
+          ],
+          [
+            "onAnimationComplete",
+            "() => void",
+            "-"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "3619dda7a16a53dd8b243039fbcffbb2392b77b56a239302cb85be8d0b451809",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-scramble",
+      "path": "/docs/text-scramble",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Scramble",
+      "headings": [
+        "Examples",
+        "Text Scramble Basic",
+        "Text Scramble with custom trigger",
+        "Text Scramble with custom character and duration",
+        "Installation",
+        "Component API",
+        "TextScramble"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "string",
+            ""
+          ],
+          [
+            "as",
+            "keyof JSX.IntrinsicElements",
+            "'p'"
+          ],
+          [
+            "duration",
+            "number",
+            "0.8"
+          ],
+          [
+            "speed",
+            "number",
+            "0.04"
+          ],
+          [
+            "characterSet",
+            "string",
+            "ABCDEF...z0123456789"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "trigger",
+            "boolean",
+            "undefined"
+          ],
+          [
+            "onScrambleComplete",
+            "() => void",
+            "undefined"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "47881608f2e9da872f7f17f6c403cb4cb8660f1bea136e9633c9dd186ac6db36",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-shimmer",
+      "path": "/docs/text-shimmer",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Shimmer",
+      "headings": [
+        "Examples",
+        "Text Shimmer Basic",
+        "Text Shimmer Color",
+        "Installation",
+        "Component API",
+        "TextShimmer",
+        "Credits"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick",
+        "https://x.com/JohnPhamous/status/1846963157027508504"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "string",
+            ""
+          ],
+          [
+            "as",
+            "keyof JSX.IntrinsicElements",
+            "'p'"
+          ],
+          [
+            "className",
+            "string",
+            "undefined"
+          ],
+          [
+            "duration",
+            "number",
+            "2"
+          ],
+          [
+            "spread",
+            "number",
+            "2"
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "7607abcec3131fb4cda63c718a14a805be65ae192302ab43bb361b0d30e9fd12",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/text-shimmer-wave",
+      "path": "/docs/text-shimmer-wave",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Text Shimmer Wave",
+      "headings": [
+        "Examples",
+        "Text Shimmer Wave Basic",
+        "Text Shimmer Wave Color",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "string",
+            ""
+          ],
+          [
+            "as",
+            "string",
+            "'p'"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "duration",
+            "number",
+            "1"
+          ],
+          [
+            "zDistance",
+            "number",
+            "10"
+          ],
+          [
+            "xDistance",
+            "number",
+            "2"
+          ],
+          [
+            "yDistance",
+            "number",
+            "-2"
+          ],
+          [
+            "spread",
+            "number",
+            "1"
+          ],
+          [
+            "scaleDistance",
+            "number",
+            "1.1"
+          ],
+          [
+            "rotateYDistance",
+            "number",
+            "10"
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "9af535f7a57f2bffff32b4030ef5e542bc1fa0fc833148cdec246f011a2963ae",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/tilt",
+      "path": "/docs/tilt",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Tilt",
+      "headings": [
+        "Examples",
+        "Basic Tilt Card",
+        "Tilt with Spotlight",
+        "2001: A Space Odyssey",
+        "Installation",
+        "Component API",
+        "Border Trail",
+        "Credits"
+      ],
+      "source_links": [
+        "https://github.com/AFPedreros",
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "style",
+            "MotionStyle",
+            ""
+          ],
+          [
+            "rotationFactor",
+            "number",
+            "15"
+          ],
+          [
+            "isRevese",
+            "boolean",
+            "false"
+          ],
+          [
+            "springOptions",
+            "SpringOptions",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [
+        "https://motion-primitives.com/docs/spotlight"
+      ],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "bdd1e02d16775ebe20dc56bf310c2ed70cb7d83047db68f525a4f1764a0a9919",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/toolbar-dynamic",
+      "path": "/docs/toolbar-dynamic",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Toolbar Dynamic",
+      "headings": [],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://github.com/ibelick/motion-primitives/blob/main/hooks/useClickOutside.tsx",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 0,
+      "documentation_links": [],
+      "access_signals": [],
+      "html_sha256": "f969d45f3e1268c967b1c3b458c2ba87bbf547fa51ff491b8f24806ee5d361d9",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/toolbar-expandable",
+      "path": "/docs/toolbar-expandable",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Toolbar Dynamic",
+      "headings": [],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://github.com/ibelick/motion-primitives/blob/main/hooks/useClickOutside.tsx",
+        "https://github.com/ibelick/motion-primitives/blob/main/lib/utils.ts",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [],
+      "code_blocks": 0,
+      "documentation_links": [],
+      "access_signals": [],
+      "html_sha256": "1fea88be99057ffca68cee2841698975900a972df9adda0b318804edbca14a4e",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    },
+    {
+      "url": "https://motion-primitives.com/docs/transition-panel",
+      "path": "/docs/transition-panel",
+      "status": "indexed",
+      "http_status": 200,
+      "name": "Transition Panel",
+      "headings": [
+        "Examples",
+        "Tabs with Transition Panel",
+        "Refining Visual Harmony",
+        "Card with Transition Panel",
+        "Brand",
+        "Installation",
+        "Component API"
+      ],
+      "source_links": [
+        "https://github.com/ibelick/motion-primitives",
+        "https://twitter.com/Ibelick"
+      ],
+      "media": [],
+      "categories": [],
+      "api_tables": [
+        [
+          [
+            "Prop",
+            "Type",
+            "Default"
+          ],
+          [
+            "children",
+            "React.ReactNode[]",
+            ""
+          ],
+          [
+            "className",
+            "string",
+            ""
+          ],
+          [
+            "transition",
+            "Transition",
+            ""
+          ],
+          [
+            "activeIndex",
+            "number",
+            ""
+          ],
+          [
+            "variants",
+            "Object (with enter, center, exit properties)",
+            ""
+          ],
+          [
+            "...motionProps",
+            "MotionProps",
+            ""
+          ]
+        ]
+      ],
+      "code_blocks": 1,
+      "documentation_links": [],
+      "access_signals": [
+        "Pro"
+      ],
+      "html_sha256": "50177aebfbd83a461ac25e44567339730c149d096744a9d3dd0980824de5e6eb",
+      "limit": "Public page structure only. Navigation may contribute headings/tables. Media and code not republished; behavior not established by HTML."
+    }
+  ]
+}

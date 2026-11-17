@@ -1,0 +1,643 @@
+{
+  "items": [
+    {
+      "slug": "accordion",
+      "guide": "components/accordion.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/accordion.tsx",
+        "apps/v4/registry/bases/base/ui/accordion.tsx",
+        "apps/v4/registry/bases/radix/ui/accordion.tsx",
+        "apps/v4/registry/new-york-v4/ui/accordion.tsx"
+      ]
+    },
+    {
+      "slug": "alert",
+      "guide": "components/alert.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/alert.tsx",
+        "apps/v4/registry/bases/base/ui/alert.tsx",
+        "apps/v4/registry/bases/radix/ui/alert.tsx",
+        "apps/v4/registry/new-york-v4/ui/alert.tsx"
+      ]
+    },
+    {
+      "slug": "alert-dialog",
+      "guide": "components/alert-dialog.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/alert-dialog.tsx",
+        "apps/v4/registry/bases/base/ui/alert-dialog.tsx",
+        "apps/v4/registry/bases/radix/ui/alert-dialog.tsx",
+        "apps/v4/registry/new-york-v4/ui/alert-dialog.tsx"
+      ]
+    },
+    {
+      "slug": "aspect-ratio",
+      "guide": "components/aspect-ratio.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/aspect-ratio.tsx",
+        "apps/v4/registry/bases/base/ui/aspect-ratio.tsx",
+        "apps/v4/registry/bases/radix/ui/aspect-ratio.tsx",
+        "apps/v4/registry/new-york-v4/ui/aspect-ratio.tsx"
+      ]
+    },
+    {
+      "slug": "attachment",
+      "guide": "components/attachment.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/attachment.tsx",
+        "apps/v4/registry/bases/base/ui/attachment.tsx",
+        "apps/v4/registry/bases/radix/ui/attachment.tsx",
+        "apps/v4/registry/new-york-v4/ui/attachment.tsx"
+      ]
+    },
+    {
+      "slug": "avatar",
+      "guide": "components/avatar.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/avatar.tsx",
+        "apps/v4/registry/bases/base/ui/avatar.tsx",
+        "apps/v4/registry/bases/radix/ui/avatar.tsx",
+        "apps/v4/registry/new-york-v4/ui/avatar.tsx"
+      ]
+    },
+    {
+      "slug": "badge",
+      "guide": "components/badge.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/badge.tsx",
+        "apps/v4/registry/bases/base/ui/badge.tsx",
+        "apps/v4/registry/bases/radix/ui/badge.tsx",
+        "apps/v4/registry/new-york-v4/ui/badge.tsx"
+      ]
+    },
+    {
+      "slug": "breadcrumb",
+      "guide": "components/breadcrumb.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/breadcrumb.tsx",
+        "apps/v4/registry/bases/base/ui/breadcrumb.tsx",
+        "apps/v4/registry/bases/radix/ui/breadcrumb.tsx",
+        "apps/v4/registry/new-york-v4/ui/breadcrumb.tsx"
+      ]
+    },
+    {
+      "slug": "bubble",
+      "guide": "components/bubble.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/bubble.tsx",
+        "apps/v4/registry/bases/base/ui/bubble.tsx",
+        "apps/v4/registry/bases/radix/ui/bubble.tsx",
+        "apps/v4/registry/new-york-v4/ui/bubble.tsx"
+      ]
+    },
+    {
+      "slug": "button",
+      "guide": "components/button.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/button.tsx",
+        "apps/v4/registry/bases/base/ui/button.tsx",
+        "apps/v4/registry/bases/radix/ui/button.tsx",
+        "apps/v4/registry/new-york-v4/ui/button.tsx"
+      ]
+    },
+    {
+      "slug": "button-group",
+      "guide": "components/button-group.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/button-group.tsx",
+        "apps/v4/registry/bases/base/ui/button-group.tsx",
+        "apps/v4/registry/bases/radix/ui/button-group.tsx",
+        "apps/v4/registry/new-york-v4/ui/button-group.tsx"
+      ]
+    },
+    {
+      "slug": "calendar",
+      "guide": "components/calendar.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/calendar.tsx",
+        "apps/v4/registry/bases/base/ui/calendar.tsx",
+        "apps/v4/registry/bases/radix/ui/calendar.tsx",
+        "apps/v4/registry/new-york-v4/ui/calendar.tsx"
+      ]
+    },
+    {
+      "slug": "card",
+      "guide": "components/card.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/card.tsx",
+        "apps/v4/registry/bases/base/ui/card.tsx",
+        "apps/v4/registry/bases/radix/ui/card.tsx",
+        "apps/v4/registry/new-york-v4/ui/card.tsx"
+      ]
+    },
+    {
+      "slug": "carousel",
+      "guide": "components/carousel.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/carousel.tsx",
+        "apps/v4/registry/bases/base/ui/carousel.tsx",
+        "apps/v4/registry/bases/radix/ui/carousel.tsx",
+        "apps/v4/registry/new-york-v4/ui/carousel.tsx"
+      ]
+    },
+    {
+      "slug": "chart",
+      "guide": "components/chart.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/chart.tsx",
+        "apps/v4/registry/bases/base/ui/chart.tsx",
+        "apps/v4/registry/bases/radix/ui/chart.tsx",
+        "apps/v4/registry/new-york-v4/ui/chart.tsx"
+      ]
+    },
+    {
+      "slug": "checkbox",
+      "guide": "components/checkbox.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/checkbox.tsx",
+        "apps/v4/registry/bases/base/ui/checkbox.tsx",
+        "apps/v4/registry/bases/radix/ui/checkbox.tsx",
+        "apps/v4/registry/new-york-v4/ui/checkbox.tsx"
+      ]
+    },
+    {
+      "slug": "code-block",
+      "guide": "components/code-block.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/code-block.tsx",
+        "apps/v4/registry/bases/base/ui/code-block.tsx",
+        "apps/v4/registry/bases/radix/ui/code-block.tsx"
+      ]
+    },
+    {
+      "slug": "collapsible",
+      "guide": "components/collapsible.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/collapsible.tsx",
+        "apps/v4/registry/bases/base/ui/collapsible.tsx",
+        "apps/v4/registry/bases/radix/ui/collapsible.tsx",
+        "apps/v4/registry/new-york-v4/ui/collapsible.tsx"
+      ]
+    },
+    {
+      "slug": "combobox",
+      "guide": "components/combobox.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/combobox.tsx",
+        "apps/v4/registry/bases/base/ui/combobox.tsx",
+        "apps/v4/registry/bases/radix/ui/combobox.tsx",
+        "apps/v4/registry/new-york-v4/ui/combobox.tsx"
+      ]
+    },
+    {
+      "slug": "command",
+      "guide": "components/command.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/command.tsx",
+        "apps/v4/registry/bases/base/ui/command.tsx",
+        "apps/v4/registry/bases/radix/ui/command.tsx",
+        "apps/v4/registry/new-york-v4/ui/command.tsx"
+      ]
+    },
+    {
+      "slug": "context-menu",
+      "guide": "components/context-menu.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/context-menu.tsx",
+        "apps/v4/registry/bases/base/ui/context-menu.tsx",
+        "apps/v4/registry/bases/radix/ui/context-menu.tsx",
+        "apps/v4/registry/new-york-v4/ui/context-menu.tsx"
+      ]
+    },
+    {
+      "slug": "dialog",
+      "guide": "components/dialog.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/dialog.tsx",
+        "apps/v4/registry/bases/base/ui/dialog.tsx",
+        "apps/v4/registry/bases/radix/ui/dialog.tsx",
+        "apps/v4/registry/new-york-v4/ui/dialog.tsx"
+      ]
+    },
+    {
+      "slug": "direction",
+      "guide": "components/direction.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/direction.tsx",
+        "apps/v4/registry/bases/base/ui/direction.tsx",
+        "apps/v4/registry/bases/radix/ui/direction.tsx",
+        "apps/v4/registry/new-york-v4/ui/direction.tsx"
+      ]
+    },
+    {
+      "slug": "drawer",
+      "guide": "components/drawer.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/drawer.tsx",
+        "apps/v4/registry/bases/base/ui/drawer.tsx",
+        "apps/v4/registry/bases/radix/ui/drawer.tsx",
+        "apps/v4/registry/new-york-v4/ui/drawer.tsx"
+      ]
+    },
+    {
+      "slug": "dropdown-menu",
+      "guide": "components/dropdown-menu.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/dropdown-menu.tsx",
+        "apps/v4/registry/bases/base/ui/dropdown-menu.tsx",
+        "apps/v4/registry/bases/radix/ui/dropdown-menu.tsx",
+        "apps/v4/registry/new-york-v4/ui/dropdown-menu.tsx"
+      ]
+    },
+    {
+      "slug": "empty",
+      "guide": "components/empty.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/empty.tsx",
+        "apps/v4/registry/bases/base/ui/empty.tsx",
+        "apps/v4/registry/bases/radix/ui/empty.tsx",
+        "apps/v4/registry/new-york-v4/ui/empty.tsx"
+      ]
+    },
+    {
+      "slug": "field",
+      "guide": "components/field.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/field.tsx",
+        "apps/v4/registry/bases/base/ui/field.tsx",
+        "apps/v4/registry/bases/radix/ui/field.tsx",
+        "apps/v4/registry/new-york-v4/ui/field.tsx"
+      ]
+    },
+    {
+      "slug": "form",
+      "guide": "components/form.md",
+      "variants": [
+        "apps/v4/registry/new-york-v4/ui/form.tsx"
+      ]
+    },
+    {
+      "slug": "hover-card",
+      "guide": "components/hover-card.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/hover-card.tsx",
+        "apps/v4/registry/bases/base/ui/hover-card.tsx",
+        "apps/v4/registry/bases/radix/ui/hover-card.tsx",
+        "apps/v4/registry/new-york-v4/ui/hover-card.tsx"
+      ]
+    },
+    {
+      "slug": "input",
+      "guide": "components/input.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/input.tsx",
+        "apps/v4/registry/bases/base/ui/input.tsx",
+        "apps/v4/registry/bases/radix/ui/input.tsx",
+        "apps/v4/registry/new-york-v4/ui/input.tsx"
+      ]
+    },
+    {
+      "slug": "input-group",
+      "guide": "components/input-group.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/input-group.tsx",
+        "apps/v4/registry/bases/base/ui/input-group.tsx",
+        "apps/v4/registry/bases/radix/ui/input-group.tsx",
+        "apps/v4/registry/new-york-v4/ui/input-group.tsx"
+      ]
+    },
+    {
+      "slug": "input-otp",
+      "guide": "components/input-otp.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/input-otp.tsx",
+        "apps/v4/registry/bases/base/ui/input-otp.tsx",
+        "apps/v4/registry/bases/radix/ui/input-otp.tsx",
+        "apps/v4/registry/new-york-v4/ui/input-otp.tsx"
+      ]
+    },
+    {
+      "slug": "item",
+      "guide": "components/item.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/item.tsx",
+        "apps/v4/registry/bases/base/ui/item.tsx",
+        "apps/v4/registry/bases/radix/ui/item.tsx",
+        "apps/v4/registry/new-york-v4/ui/item.tsx"
+      ]
+    },
+    {
+      "slug": "kbd",
+      "guide": "components/kbd.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/kbd.tsx",
+        "apps/v4/registry/bases/base/ui/kbd.tsx",
+        "apps/v4/registry/bases/radix/ui/kbd.tsx",
+        "apps/v4/registry/new-york-v4/ui/kbd.tsx"
+      ]
+    },
+    {
+      "slug": "label",
+      "guide": "components/label.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/label.tsx",
+        "apps/v4/registry/bases/base/ui/label.tsx",
+        "apps/v4/registry/bases/radix/ui/label.tsx",
+        "apps/v4/registry/new-york-v4/ui/label.tsx"
+      ]
+    },
+    {
+      "slug": "marker",
+      "guide": "components/marker.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/marker.tsx",
+        "apps/v4/registry/bases/base/ui/marker.tsx",
+        "apps/v4/registry/bases/radix/ui/marker.tsx",
+        "apps/v4/registry/new-york-v4/ui/marker.tsx"
+      ]
+    },
+    {
+      "slug": "menubar",
+      "guide": "components/menubar.md",
+      "variants": [
+        "apps/v4/registry/bases/base/ui/menubar.tsx",
+        "apps/v4/registry/bases/radix/ui/menubar.tsx",
+        "apps/v4/registry/new-york-v4/ui/menubar.tsx"
+      ]
+    },
+    {
+      "slug": "message",
+      "guide": "components/message.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/message.tsx",
+        "apps/v4/registry/bases/base/ui/message.tsx",
+        "apps/v4/registry/bases/radix/ui/message.tsx",
+        "apps/v4/registry/new-york-v4/ui/message.tsx"
+      ]
+    },
+    {
+      "slug": "message-scroller",
+      "guide": "components/message-scroller.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/message-scroller.tsx",
+        "apps/v4/registry/bases/base/ui/message-scroller.tsx",
+        "apps/v4/registry/bases/radix/ui/message-scroller.tsx",
+        "apps/v4/registry/new-york-v4/ui/message-scroller.tsx"
+      ]
+    },
+    {
+      "slug": "native-select",
+      "guide": "components/native-select.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/native-select.tsx",
+        "apps/v4/registry/bases/base/ui/native-select.tsx",
+        "apps/v4/registry/bases/radix/ui/native-select.tsx",
+        "apps/v4/registry/new-york-v4/ui/native-select.tsx"
+      ]
+    },
+    {
+      "slug": "navigation-menu",
+      "guide": "components/navigation-menu.md",
+      "variants": [
+        "apps/v4/registry/bases/base/ui/navigation-menu.tsx",
+        "apps/v4/registry/bases/radix/ui/navigation-menu.tsx",
+        "apps/v4/registry/new-york-v4/ui/navigation-menu.tsx"
+      ]
+    },
+    {
+      "slug": "pagination",
+      "guide": "components/pagination.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/pagination.tsx",
+        "apps/v4/registry/bases/base/ui/pagination.tsx",
+        "apps/v4/registry/bases/radix/ui/pagination.tsx",
+        "apps/v4/registry/new-york-v4/ui/pagination.tsx"
+      ]
+    },
+    {
+      "slug": "popover",
+      "guide": "components/popover.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/popover.tsx",
+        "apps/v4/registry/bases/base/ui/popover.tsx",
+        "apps/v4/registry/bases/radix/ui/popover.tsx",
+        "apps/v4/registry/new-york-v4/ui/popover.tsx"
+      ]
+    },
+    {
+      "slug": "progress",
+      "guide": "components/progress.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/progress.tsx",
+        "apps/v4/registry/bases/base/ui/progress.tsx",
+        "apps/v4/registry/bases/radix/ui/progress.tsx",
+        "apps/v4/registry/new-york-v4/ui/progress.tsx"
+      ]
+    },
+    {
+      "slug": "questionnaire",
+      "guide": "components/questionnaire.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/questionnaire.tsx",
+        "apps/v4/registry/bases/base/ui/questionnaire.tsx",
+        "apps/v4/registry/bases/radix/ui/questionnaire.tsx"
+      ]
+    },
+    {
+      "slug": "radio-group",
+      "guide": "components/radio-group.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/radio-group.tsx",
+        "apps/v4/registry/bases/base/ui/radio-group.tsx",
+        "apps/v4/registry/bases/radix/ui/radio-group.tsx",
+        "apps/v4/registry/new-york-v4/ui/radio-group.tsx"
+      ]
+    },
+    {
+      "slug": "resizable",
+      "guide": "components/resizable.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/resizable.tsx",
+        "apps/v4/registry/bases/base/ui/resizable.tsx",
+        "apps/v4/registry/bases/radix/ui/resizable.tsx",
+        "apps/v4/registry/new-york-v4/ui/resizable.tsx"
+      ]
+    },
+    {
+      "slug": "scroll-area",
+      "guide": "components/scroll-area.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/scroll-area.tsx",
+        "apps/v4/registry/bases/base/ui/scroll-area.tsx",
+        "apps/v4/registry/bases/radix/ui/scroll-area.tsx",
+        "apps/v4/registry/new-york-v4/ui/scroll-area.tsx"
+      ]
+    },
+    {
+      "slug": "select",
+      "guide": "components/select.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/select.tsx",
+        "apps/v4/registry/bases/base/ui/select.tsx",
+        "apps/v4/registry/bases/radix/ui/select.tsx",
+        "apps/v4/registry/new-york-v4/ui/select.tsx"
+      ]
+    },
+    {
+      "slug": "separator",
+      "guide": "components/separator.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/separator.tsx",
+        "apps/v4/registry/bases/base/ui/separator.tsx",
+        "apps/v4/registry/bases/radix/ui/separator.tsx",
+        "apps/v4/registry/new-york-v4/ui/separator.tsx"
+      ]
+    },
+    {
+      "slug": "sheet",
+      "guide": "components/sheet.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/sheet.tsx",
+        "apps/v4/registry/bases/base/ui/sheet.tsx",
+        "apps/v4/registry/bases/radix/ui/sheet.tsx",
+        "apps/v4/registry/new-york-v4/ui/sheet.tsx"
+      ]
+    },
+    {
+      "slug": "sidebar",
+      "guide": "components/sidebar.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/sidebar.tsx",
+        "apps/v4/registry/bases/base/ui/sidebar.tsx",
+        "apps/v4/registry/bases/radix/ui/sidebar.tsx",
+        "apps/v4/registry/new-york-v4/ui/sidebar.tsx"
+      ]
+    },
+    {
+      "slug": "skeleton",
+      "guide": "components/skeleton.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/skeleton.tsx",
+        "apps/v4/registry/bases/base/ui/skeleton.tsx",
+        "apps/v4/registry/bases/radix/ui/skeleton.tsx",
+        "apps/v4/registry/new-york-v4/ui/skeleton.tsx"
+      ]
+    },
+    {
+      "slug": "slider",
+      "guide": "components/slider.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/slider.tsx",
+        "apps/v4/registry/bases/base/ui/slider.tsx",
+        "apps/v4/registry/bases/radix/ui/slider.tsx",
+        "apps/v4/registry/new-york-v4/ui/slider.tsx"
+      ]
+    },
+    {
+      "slug": "sonner",
+      "guide": "components/sonner.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/sonner.tsx",
+        "apps/v4/registry/bases/base/ui/sonner.tsx",
+        "apps/v4/registry/bases/radix/ui/sonner.tsx",
+        "apps/v4/registry/new-york-v4/ui/sonner.tsx"
+      ]
+    },
+    {
+      "slug": "spinner",
+      "guide": "components/spinner.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/spinner.tsx",
+        "apps/v4/registry/bases/base/ui/spinner.tsx",
+        "apps/v4/registry/bases/radix/ui/spinner.tsx",
+        "apps/v4/registry/new-york-v4/ui/spinner.tsx"
+      ]
+    },
+    {
+      "slug": "switch",
+      "guide": "components/switch.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/switch.tsx",
+        "apps/v4/registry/bases/base/ui/switch.tsx",
+        "apps/v4/registry/bases/radix/ui/switch.tsx",
+        "apps/v4/registry/new-york-v4/ui/switch.tsx"
+      ]
+    },
+    {
+      "slug": "table",
+      "guide": "components/table.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/table.tsx",
+        "apps/v4/registry/bases/base/ui/table.tsx",
+        "apps/v4/registry/bases/radix/ui/table.tsx",
+        "apps/v4/registry/new-york-v4/ui/table.tsx"
+      ]
+    },
+    {
+      "slug": "tabs",
+      "guide": "components/tabs.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/tabs.tsx",
+        "apps/v4/registry/bases/base/ui/tabs.tsx",
+        "apps/v4/registry/bases/radix/ui/tabs.tsx",
+        "apps/v4/registry/new-york-v4/ui/tabs.tsx"
+      ]
+    },
+    {
+      "slug": "textarea",
+      "guide": "components/textarea.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/textarea.tsx",
+        "apps/v4/registry/bases/base/ui/textarea.tsx",
+        "apps/v4/registry/bases/radix/ui/textarea.tsx",
+        "apps/v4/registry/new-york-v4/ui/textarea.tsx"
+      ]
+    },
+    {
+      "slug": "toast",
+      "guide": "components/toast.md",
+      "variants": [
+        "apps/v4/registry/bases/base/ui/toast.tsx"
+      ]
+    },
+    {
+      "slug": "toggle",
+      "guide": "components/toggle.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/toggle.tsx",
+        "apps/v4/registry/bases/base/ui/toggle.tsx",
+        "apps/v4/registry/bases/radix/ui/toggle.tsx",
+        "apps/v4/registry/new-york-v4/ui/toggle.tsx"
+      ]
+    },
+    {
+      "slug": "toggle-group",
+      "guide": "components/toggle-group.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/toggle-group.tsx",
+        "apps/v4/registry/bases/base/ui/toggle-group.tsx",
+        "apps/v4/registry/bases/radix/ui/toggle-group.tsx",
+        "apps/v4/registry/new-york-v4/ui/toggle-group.tsx"
+      ]
+    },
+    {
+      "slug": "tooltip",
+      "guide": "components/tooltip.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/tooltip.tsx",
+        "apps/v4/registry/bases/base/ui/tooltip.tsx",
+        "apps/v4/registry/bases/radix/ui/tooltip.tsx",
+        "apps/v4/registry/new-york-v4/ui/tooltip.tsx"
+      ]
+    },
+    {
+      "slug": "trace",
+      "guide": "components/trace.md",
+      "variants": [
+        "apps/v4/registry/bases/aria/ui/trace.tsx",
+        "apps/v4/registry/bases/base/ui/trace.tsx",
+        "apps/v4/registry/bases/radix/ui/trace.tsx"
+      ]
+    }
+  ]
+}

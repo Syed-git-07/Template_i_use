@@ -1,0 +1,173 @@
+{
+  "checked_at_utc": "2026-11-17T10:46:55.197449+00:00",
+  "items": [
+    {
+      "url": "https://viewportui.com/posts/586-compressing-images",
+      "path": "/posts/586-compressing-images",
+      "name": "Compressing Images",
+      "frames": [
+        {
+          "time": 0.01,
+          "actual_time": 0.01,
+          "file": "586-compressing-images-0.jpg"
+        },
+        {
+          "time": 2.5225000499999997,
+          "actual_time": 2.5225,
+          "file": "586-compressing-images-1.jpg"
+        },
+        {
+          "time": 5.045000099999999,
+          "actual_time": 5.045,
+          "file": "586-compressing-images-2.jpg"
+        },
+        {
+          "time": 7.56750015,
+          "actual_time": 7.5675,
+          "file": "586-compressing-images-3.jpg"
+        },
+        {
+          "time": 10.090000199999999,
+          "actual_time": 10.09,
+          "file": "586-compressing-images-4.jpg"
+        },
+        {
+          "time": 12.61250025,
+          "actual_time": 12.6125,
+          "file": "586-compressing-images-5.jpg"
+        },
+        {
+          "time": 15.1350003,
+          "actual_time": 15.135,
+          "file": "586-compressing-images-6.jpg"
+        },
+        {
+          "time": 16.48033366,
+          "actual_time": 16.480333,
+          "file": "586-compressing-images-7.jpg"
+        }
+      ],
+      "observation_surface": "Original public media in browser video player",
+      "duration": 16.816667,
+      "width": 1080,
+      "height": 1205,
+      "source": "https://viewportui.com/_astro/x.com_92t0zZU5syWWD6XO.post.CUMFuzc8.mp4#t=0.001",
+      "status": "video-sampled",
+      "capture_version": 2,
+      "font_limit": "Fonts visible inside a recording are not identified by DOM styles.",
+      "limit": "Recording samples only. No original application gesture, exact easing/physics, font-file identity or backend behavior certified."
+    },
+    {
+      "url": "https://viewportui.com/posts/598-probably-the-best-contact-form-i-ve-ever-made",
+      "path": "/posts/598-probably-the-best-contact-form-i-ve-ever-made",
+      "name": "Skeuomorphic Contact Form",
+      "frames": [
+        {
+          "time": 0.01,
+          "actual_time": 0.01,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-0.jpg"
+        },
+        {
+          "time": 2.4346121999999997,
+          "actual_time": 2.434612,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-1.jpg"
+        },
+        {
+          "time": 4.869224399999999,
+          "actual_time": 4.869224,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-2.jpg"
+        },
+        {
+          "time": 7.3038365999999995,
+          "actual_time": 7.303836,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-3.jpg"
+        },
+        {
+          "time": 9.738448799999999,
+          "actual_time": 9.738448,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-4.jpg"
+        },
+        {
+          "time": 12.173060999999999,
+          "actual_time": 12.17306,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-5.jpg"
+        },
+        {
+          "time": 14.607673199999999,
+          "actual_time": 14.607673,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-6.jpg"
+        },
+        {
+          "time": 15.906133039999999,
+          "actual_time": 15.906133,
+          "file": "598-probably-the-best-contact-form-i-ve-ever-made-7.jpg"
+        }
+      ],
+      "observation_surface": "Original public media in browser video player",
+      "duration": 16.230748,
+      "width": 1722,
+      "height": 1080,
+      "source": "https://viewportui.com/_astro/x.com_Dxmk9sVNfWISSQ6I.post.C4fnq3qA.mp4#t=0.001",
+      "status": "video-sampled",
+      "capture_version": 2,
+      "font_limit": "Fonts visible inside a recording are not identified by DOM styles.",
+      "limit": "Recording samples only. No original application gesture, exact easing/physics, font-file identity or backend behavior certified."
+    },
+    {
+      "url": "https://viewportui.com/posts/626-shredder-on-the-web",
+      "path": "/posts/626-shredder-on-the-web",
+      "name": "Shredder on the web",
+      "frames": [
+        {
+          "time": 0.01,
+          "actual_time": 0.01,
+          "file": "626-shredder-on-the-web-0.jpg"
+        },
+        {
+          "time": 1.9999999499999999,
+          "actual_time": 1.999999,
+          "file": "626-shredder-on-the-web-1.jpg"
+        },
+        {
+          "time": 3.9999998999999997,
+          "actual_time": 3.999999,
+          "file": "626-shredder-on-the-web-2.jpg"
+        },
+        {
+          "time": 5.99999985,
+          "actual_time": 5.999999,
+          "file": "626-shredder-on-the-web-3.jpg"
+        },
+        {
+          "time": 7.999999799999999,
+          "actual_time": 7.999999,
+          "file": "626-shredder-on-the-web-4.jpg"
+        },
+        {
+          "time": 9.99999975,
+          "actual_time": 9.999999,
+          "file": "626-shredder-on-the-web-5.jpg"
+        },
+        {
+          "time": 11.9999997,
+          "actual_time": 11.999999,
+          "file": "626-shredder-on-the-web-6.jpg"
+        },
+        {
+          "time": 13.06666634,
+          "actual_time": 13.066666,
+          "file": "626-shredder-on-the-web-7.jpg"
+        }
+      ],
+      "observation_surface": "Original public media in browser video player",
+      "duration": 13.333333,
+      "width": 3840,
+      "height": 1928,
+      "source": "https://viewportui.com/_astro/x.com_5MGLKs5kHbOkTuoj.post.DnF-31uT.mp4#t=0.001",
+      "status": "video-sampled",
+      "capture_version": 2,
+      "font_limit": "Fonts visible inside a recording are not identified by DOM styles.",
+      "limit": "Recording samples only. No original application gesture, exact easing/physics, font-file identity or backend behavior certified."
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "items": [
+    {
+      "slug": "accordion",
+      "guide": "components/accordion.md",
+      "variants": [
+        "components/interior/accordion.tsx"
+      ]
+    },
+    {
+      "slug": "blur-up-image",
+      "guide": "components/blur-up-image.md",
+      "variants": [
+        "components/interior/blur-up-image.tsx"
+      ]
+    },
+    {
+      "slug": "collapsible-banner",
+      "guide": "components/collapsible-banner.md",
+      "variants": [
+        "components/interior/collapsible-banner.tsx"
+      ]
+    },
+    {
+      "slug": "command-palette",
+      "guide": "components/command-palette.md",
+      "variants": [
+        "components/interior/command-palette.tsx"
+      ]
+    },
+    {
+      "slug": "context-menu",
+      "guide": "components/context-menu.md",
+      "variants": [
+        "components/interior/context-menu.tsx"
+      ]
+    },
+    {
+      "slug": "copy-button",
+      "guide": "components/copy-button.md",
+      "variants": [
+        "components/interior/copy-button.tsx"
+      ]
+    },
+    {
+      "slug": "drawer",
+      "guide": "components/drawer.md",
+      "variants": [
+        "components/interior/drawer.tsx"
+      ]
+    },
+    {
+      "slug": "dropdown",
+      "guide": "components/dropdown.md",
+      "variants": [
+        "components/interior/dropdown.tsx"
+      ]
+    },
+    {
+      "slug": "expanding-search",
+      "guide": "components/expanding-search.md",
+      "variants": [
+        "components/interior/expanding-search.tsx"
+      ]
+    },
+    {
+      "slug": "filter-grid",
+      "guide": "components/filter-grid.md",
+      "variants": [
+        "components/interior/filter-grid.tsx"
+      ]
+    },
+    {
+      "slug": "floating-label",
+      "guide": "components/floating-label.md",
+      "variants": [
+        "components/interior/floating-label.tsx"
+      ]
+    },
+    {
+      "slug": "hide-on-scroll",
+      "guide": "components/hide-on-scroll.md",
+      "variants": [
+        "components/interior/hide-on-scroll.tsx"
+      ]
+    },
+    {
+      "slug": "hold-to-confirm",
+      "guide": "components/hold-to-confirm.md",
+      "variants": [
+        "components/interior/hold-to-confirm.tsx"
+      ]
+    },
+    {
+      "slug": "icon-morph",
+      "guide": "components/icon-morph.md",
+      "variants": [
+        "components/interior/icon-morph.tsx"
+      ]
+    },
+    {
+      "slug": "inline-validation",
+      "guide": "components/inline-validation.md",
+      "variants": [
+        "components/interior/inline-validation.tsx"
+      ]
+    },
+    {
+      "slug": "lightbox",
+      "guide": "components/lightbox.md",
+      "variants": [
+        "components/interior/lightbox.tsx"
+      ]
+    },
+    {
+      "slug": "like-burst",
+      "guide": "components/like-burst.md",
+      "variants": [
+        "components/interior/like-burst.tsx"
+      ]
+    },
+    {
+      "slug": "live-activity",
+      "guide": "components/live-activity.md",
+      "variants": [
+        "components/interior/live-activity.tsx"
+      ]
+    },
+    {
+      "slug": "load-more",
+      "guide": "components/load-more.md",
+      "variants": [
+        "components/interior/load-more.tsx"
+      ]
+    },
+    {
+      "slug": "loading-button",
+      "guide": "components/loading-button.md",
+      "variants": [
+        "components/interior/loading-button.tsx"
+      ]
+    },
+    {
+      "slug": "logo-marquee",
+      "guide": "components/logo-marquee.md",
+      "variants": [
+        "components/interior/logo-marquee.tsx"
+      ]
+    },
+    {
+      "slug": "long-press",
+      "guide": "components/long-press.md",
+      "variants": [
+        "components/interior/long-press.tsx"
+      ]
+    },
+    {
+      "slug": "modal",
+      "guide": "components/modal.md",
+      "variants": [
+        "components/interior/modal.tsx"
+      ]
+    },
+    {
+      "slug": "new-items-pill",
+      "guide": "components/new-items-pill.md",
+      "variants": [
+        "components/interior/new-items-pill.tsx"
+      ]
+    },
+    {
+      "slug": "otp-input",
+      "guide": "components/otp-input.md",
+      "variants": [
+        "components/interior/otp-input.tsx"
+      ]
+    },
+    {
+      "slug": "pagination",
+      "guide": "components/pagination.md",
+      "variants": [
+        "components/interior/pagination.tsx"
+      ]
+    },
+    {
+      "slug": "password-strength",
+      "guide": "components/password-strength.md",
+      "variants": [
+        "components/interior/password-strength.tsx"
+      ]
+    },
+    {
+      "slug": "poll-results",
+      "guide": "components/poll-results.md",
+      "variants": [
+        "components/interior/poll-results.tsx"
+      ]
+    },
+    {
+      "slug": "popover",
+      "guide": "components/popover.md",
+      "variants": [
+        "components/interior/popover.tsx"
+      ]
+    },
+    {
+      "slug": "presence-avatars",
+      "guide": "components/presence-avatars.md",
+      "variants": [
+        "components/interior/presence-avatars.tsx"
+      ]
+    },
+    {
+      "slug": "press-depth",
+      "guide": "components/press-depth.md",
+      "variants": [
+        "components/interior/press-depth.tsx"
+      ]
+    },
+    {
+      "slug": "progress-bar",
+      "guide": "components/progress-bar.md",
+      "variants": [
+        "components/interior/progress-bar.tsx"
+      ]
+    },
+    {
+      "slug": "reading-progress",
+      "guide": "components/reading-progress.md",
+      "variants": [
+        "components/interior/reading-progress.tsx"
+      ]
+    },
+    {
+      "slug": "reorder-list",
+      "guide": "components/reorder-list.md",
+      "variants": [
+        "components/interior/reorder-list.tsx"
+      ]
+    },
+    {
+      "slug": "ripple",
+      "guide": "components/ripple.md",
+      "variants": [
+        "components/interior/ripple.tsx"
+      ]
+    },
+    {
+      "slug": "scroll-spy",
+      "guide": "components/scroll-spy.md",
+      "variants": [
+        "components/interior/scroll-spy.tsx"
+      ]
+    },
+    {
+      "slug": "segmented-control",
+      "guide": "components/segmented-control.md",
+      "variants": [
+        "components/interior/segmented-control.tsx"
+      ]
+    },
+    {
+      "slug": "show-more",
+      "guide": "components/show-more.md",
+      "variants": [
+        "components/interior/show-more.tsx"
+      ]
+    },
+    {
+      "slug": "skeleton-swap",
+      "guide": "components/skeleton-swap.md",
+      "variants": [
+        "components/interior/skeleton-swap.tsx"
+      ]
+    },
+    {
+      "slug": "slider-detents",
+      "guide": "components/slider-detents.md",
+      "variants": [
+        "components/interior/slider-detents.tsx"
+      ]
+    },
+    {
+      "slug": "snap-carousel",
+      "guide": "components/snap-carousel.md",
+      "variants": [
+        "components/interior/snap-carousel.tsx"
+      ]
+    },
+    {
+      "slug": "sortable-table",
+      "guide": "components/sortable-table.md",
+      "variants": [
+        "components/interior/sortable-table.tsx"
+      ]
+    },
+    {
+      "slug": "sticky-header",
+      "guide": "components/sticky-header.md",
+      "variants": [
+        "components/interior/sticky-header.tsx"
+      ]
+    },
+    {
+      "slug": "streaming-text",
+      "guide": "components/streaming-text.md",
+      "variants": [
+        "components/interior/streaming-text.tsx"
+      ]
+    },
+    {
+      "slug": "swipe-deck",
+      "guide": "components/swipe-deck.md",
+      "variants": [
+        "components/interior/swipe-deck.tsx"
+      ]
+    },
+    {
+      "slug": "tabs",
+      "guide": "components/tabs.md",
+      "variants": [
+        "components/interior/tabs.tsx"
+      ]
+    },
+    {
+      "slug": "tag-input",
+      "guide": "components/tag-input.md",
+      "variants": [
+        "components/interior/tag-input.tsx"
+      ]
+    },
+    {
+      "slug": "task-steps",
+      "guide": "components/task-steps.md",
+      "variants": [
+        "components/interior/task-steps.tsx"
+      ]
+    },
+    {
+      "slug": "text-reveal",
+      "guide": "components/text-reveal.md",
+      "variants": [
+        "components/interior/text-reveal.tsx"
+      ]
+    },
+    {
+      "slug": "tooltip-group",
+      "guide": "components/tooltip-group.md",
+      "variants": [
+        "components/interior/tooltip-group.tsx"
+      ]
+    },
+    {
+      "slug": "tree-view",
+      "guide": "components/tree-view.md",
+      "variants": [
+        "components/interior/tree-view.tsx"
+      ]
+    },
+    {
+      "slug": "typing-indicator",
+      "guide": "components/typing-indicator.md",
+      "variants": [
+        "components/interior/typing-indicator.tsx"
+      ]
+    },
+    {
+      "slug": "value-flash",
+      "guide": "components/value-flash.md",
+      "variants": [
+        "components/interior/value-flash.tsx"
+      ]
+    },
+    {
+      "slug": "wizard-steps",
+      "guide": "components/wizard-steps.md",
+      "variants": [
+        "components/interior/wizard-steps.tsx"
+      ]
+    }
+  ]
+}

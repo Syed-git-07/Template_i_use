@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-11-17T11:15:37.363021+00:00",
+  "scope": "Selected desktop public-demo actions; no real data deletion, submission or production guarantee.",
+  "items": [
+    {
+      "slug": "popover-form",
+      "url": "https://www.cult-ui.com/docs/components/popover-form",
+      "assertions": [
+        "Feedback form expands, accepts text and closes; no submission sent"
+      ],
+      "status": "passed"
+    }
+  ]
+}
