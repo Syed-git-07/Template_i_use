@@ -1,0 +1,23 @@
+{
+  "checked_at_utc": "2026-11-17T10:28:33.170258+00:00",
+  "scope": "Public desktop demos; synthetic code and no real transactions.",
+  "items": [
+    {
+      "slug": "one-time-code",
+      "assertions": [
+        "Non-digit input is removed",
+        "Rejected code enters rejection then clears and restores typing",
+        "Accept completes with reduced-motion preference"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "slide-confirm",
+      "assertions": [
+        "Short slow drag returns handle to origin without confirming",
+        "Full pointer drag reaches confirmed demo state"
+      ],
+      "status": "passed"
+    }
+  ]
+}

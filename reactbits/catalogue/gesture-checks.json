@@ -1,0 +1,72 @@
+{
+  "checked_at_utc": "2026-11-17T10:25:52.581313+00:00",
+  "scope": "Selected desktop public-demo states. No real authentication, deletion, file storage or payments.",
+  "items": [
+    {
+      "slug": "folder",
+      "url": "https://reactbits.dev/components/folder",
+      "assertions": [
+        "Enter opens folder",
+        "Real pointer drag changes paper transform; persistence not asserted",
+        "Escape closes folder"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "elastic-slider",
+      "url": "https://reactbits.dev/components/elastic-slider",
+      "assertions": [
+        "Keyboard End/Home reach bounds; extra Right remains clamped at maximum"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "flip-card",
+      "url": "https://reactbits.dev/micro/flip-card",
+      "assertions": [
+        "Click flips and Enter reverses face"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "swipe-row",
+      "url": "https://reactbits.dev/micro/swipe-row",
+      "assertions": [
+        "Keyboard ArrowLeft reveals actions; Escape closes",
+        "Full swipe commits and removes/collapses demo row; no real deletion"
+      ],
+      "after_full_swipe": "collapsing",
+      "status": "passed"
+    },
+    {
+      "slug": "hold-button",
+      "url": "https://reactbits.dev/micro/hold-button",
+      "assertions": [
+        "Short press returns idle without completing",
+        "Escape cancels a keyboard hold",
+        "Full pointer hold reaches done",
+        "Completion resets to idle"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "card-nav",
+      "url": "https://reactbits.dev/components/card-nav",
+      "assertions": [
+        "Menu click opens and Escape closes cards"
+      ],
+      "status": "passed"
+    },
+    {
+      "slug": "code-slots",
+      "url": "https://reactbits.dev/micro/code-slots",
+      "assertions": [
+        "Non-numeric typed character ignored; 3 numeric slots filled",
+        "Backspace removes one digit",
+        "Six digits produce demo success and lock input",
+        "Reject outcome enters error and drains all digits"
+      ],
+      "status": "passed"
+    }
+  ]
+}

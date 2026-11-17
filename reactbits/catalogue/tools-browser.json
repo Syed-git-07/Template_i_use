@@ -1,0 +1,7077 @@
+{
+  "checked_at_utc": "2026-11-17T10:29:18.900796+00:00",
+  "items": [
+    {
+      "slug": "background-studio",
+      "url": "https://reactbits.dev/tools/background-studio",
+      "headings": [
+        "Topography",
+        "Presets",
+        "Customize",
+        "React Bits Pro November Update"
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Search",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Preferences",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Switch to light mode",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Menu",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Background Studio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Background Studio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Search backgrounds",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Acid Squares",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Aero Shards",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Antigravity",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Aurora",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Balatro",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ballpit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Beams",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Click Spark",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color Bends",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "CRT Warp",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dark Veil",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dither",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot Field",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot Grid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Faulty Terminal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ferrofluid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Floating Lines",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flux Lines",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Galaxy",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ghost Cursor",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ghost Fibers",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gradient ASCII",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gradient Blinds",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gradient Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Grainient",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Grid Distortion",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Grid Motion",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Grid Scan",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Holo MosaicNew",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hyperspeed",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Image Trail",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iridescence",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laser Flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Letter Glitch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light Pillar",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light Rays",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light Tunnel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lightfall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lightning",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Line Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Liquid Chrome",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Liquid Ether",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Magic Rings",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Magnet Lines",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Micro Slats",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Molten Metal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Noise",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orb",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Particles",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pattern Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pixel Blast",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pixel Snow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plasma",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plasma Wave",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Prism",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Prismatic Burst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Radar",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ribbons",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ripple Grid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Scanner",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape Grid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Side Rays",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Silk",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sliced Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Soft Aurora",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Splash Cursor",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Threads",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Topography",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Web Threads",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Background only",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Landing page",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mobile",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Card",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Replay intro",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Save snapshot",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fullscreen",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Copy link",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Export",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Previous background",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Next background",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ridgeline",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sonar",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ember",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Atlas",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Alpenglow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dunes",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mono",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reset",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Undo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Redo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color: #4f7cff",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Color value",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Lines",
+          "type": null,
+          "min": "6",
+          "max": "60"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Line Width",
+          "type": null,
+          "min": "0.5",
+          "max": "3"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Major Lines",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Elevation",
+          "type": null,
+          "min": "0",
+          "max": "2.5"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Foreground",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Scale",
+          "type": null,
+          "min": "0.4",
+          "max": "3"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Detail",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Tilt",
+          "type": null,
+          "min": "15",
+          "max": "90"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Speed",
+          "type": null,
+          "min": "0",
+          "max": "1.5"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Direction",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Morph",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Glow",
+          "type": null,
+          "min": "0",
+          "max": "1.5"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Depth of Field",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Fog",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Brightness",
+          "type": null,
+          "min": "0.2",
+          "max": "2"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Opacity",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Mouse Interaction",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hover Effect",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Mouse Radius",
+          "type": null,
+          "min": "0.3",
+          "max": "2.5"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Mouse Strength",
+          "type": null,
+          "min": "0",
+          "max": "1.5"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Trail",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Parallax",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Click Effect",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Markers",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Glitch",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Intro",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Light Mode",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "17 more",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Close announcement",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Unmute video",
+          "type": "submit",
+          "min": null,
+          "max": null
+        }
+      ],
+      "canvasCount": 0,
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Initial public controls only; no exports, uploads, camera, microphone, listening or exhaustive preset traversal."
+    },
+    {
+      "slug": "center-stage",
+      "url": "https://reactbits.dev/tools/center-stage",
+      "headings": [
+        "Center stage",
+        "Screen",
+        "Background",
+        "Light and shadow",
+        "Finish"
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Search",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Preferences",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Switch to light mode",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Menu",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Center Stage",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "",
+          "type": "file",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Center Stage",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Search presets",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Show",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Center stage",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Paper",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Graphite",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Float",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Window",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Studio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ink",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mist",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Macro",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Focus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Focus pull",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glide",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Grazing",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Miniature",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Keys",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Corner",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Row",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tilt shift",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Left edge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Right edge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Top bar",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Address bar",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Side view",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dutch focus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Low display",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rack down",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Foreground",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Far corner",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Layers",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bokeh",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tower",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Between",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Runway",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reading",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Detail",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Trail",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mirror floor",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orbit focus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Open up",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Open and read",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Open and spin",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night open",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone read",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Page read",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Desk read",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet read",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Screen on",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wake up",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Studio wake",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drop in",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Touch down",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Land and open",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fly in",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pop",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Present",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flip reveal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Assemble",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ring, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone ring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tilted ring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Carousel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wheel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Helix",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Globe",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Globe, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cover flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cover flow, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dial",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ticker",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ticker, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "App ticker",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Columns",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Columns, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Waterfall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone columns",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Film strip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stream",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tunnel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light tunnel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shuffle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone shuffle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Deck",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Card fan",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone fan",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spread",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ripple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone wave",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wall, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Moving wall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone steps",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orbiters",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet ring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone helix",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Halo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laptop",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night shift",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Desk",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Duo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pair",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Trio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Display",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Studio pair",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hero phone",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Top down",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Profile",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Closed lid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Workspace",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lineup",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Back side",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dual display",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laptop and tablet",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet portrait",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wide open",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lens",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Turntable",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sway",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crane",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dolly zoom",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spiral",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Scroll",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Phone scroll",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orbit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rise up",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Parallax",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laptop turntable",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Display turntable",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tablet flip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Push",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Vertigo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spiral trio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drift cards",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rack focus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laptop sway",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Scroll, dark",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lean",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rise",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Isometric",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tabletop",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Turn",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Low angle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dutch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flat lay",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wide angle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Telephoto",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Corner view",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lean out",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Floor view",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Vanishing point",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Skew",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plan view",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "User view",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upshot",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso stack",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso grid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso night",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso columns",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso phones",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso open",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso desk",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso tower",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iso steps",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Headline",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Outline",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Statement",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Poster",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Editorial",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Footnote",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Headline, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Big words",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ring title",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Outline, light",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Launch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Subtitle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spotlight",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ambient",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sky",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mirror",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Slate",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Daylight",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night sky",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cutout",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gloss floor",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Afternoon",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stack",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cascade",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Split",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fan",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gallery",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mosaic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stairs",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upload a screenshot or recording",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Capture a website or an open tab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "16:9",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fullscreen",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Export",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drop, paste or upload your own screenshot, recording or JSON",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Capture a page",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Replay",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Playhead",
+          "type": null,
+          "min": "0",
+          "max": "8"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Loop playback",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Undo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Redo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reset preset",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Turn",
+          "type": null,
+          "min": "-60",
+          "max": "60"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Background: #0b0b0e",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Background value",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Shadow",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Replace Browser screen",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "BrowserAny sizeTall capture, shows the top. Use Scroll to mo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upload Browser screen",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Scene",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Device",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Camera",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Motion",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Text",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Solid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Spotlight",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Gradient",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Soft mesh",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Studio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Ambient",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Photo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "React Bits",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "radio",
+          "label": "Transparent",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Background: #0b0b0e",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Background value",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Second color: #34343f",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Second color value",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "More options",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Shadow",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Softness",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "More options",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Grain",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Vignette",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "0 more",
+          "type": "button",
+          "min": null,
+          "max": null
+        }
+      ],
+      "canvasCount": 1,
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Initial public controls only; no exports, uploads, camera, microphone, listening or exhaustive preset traversal."
+    },
+    {
+      "slug": "shape-magic",
+      "url": "https://reactbits.dev/tools/shape-magic",
+      "headings": [
+        "Layers",
+        "Thermal",
+        "Effects",
+        "Artboard",
+        "Morph"
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Search",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Preferences",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Switch to light mode",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Menu",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape Magic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "",
+          "type": "file",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape Magic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Marks",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Materials",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Search 107 marks",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Latitude",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Diagonal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fade",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Weave",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shift",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Quarter",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pills",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Zed",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Peak",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Zigzag",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Halftone",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot globe",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot fade",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot diamond",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot ring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot burst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bonds",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Trio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Meridian",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flag",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sunburst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Petals",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fan",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hourglass",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Aperture",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sunrise",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Corner",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Arch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hook",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shell",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Eccentric",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ripple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Golden",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Astroid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bite",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Nested",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Quadrants",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Vane",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Chain",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Isometric",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cross",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Trefoil",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Metaball",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Quarter N",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Propeller",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Striped S",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Halftone a",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cut G",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tile y",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Amp",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Split e",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cube",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orbit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spark",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Knot",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Portal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pinwheel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stack",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tile",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Speed",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Split",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bloom",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Laurel",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cairn",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Clover",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sprout",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tidal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lotus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pine",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Twins",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fuse",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Molecule",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cloud",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Splat",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pulse",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bolt",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pin",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sunset",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Iris",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Summit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "North",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flame",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Burst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Verified",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crest",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Medal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ticket",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Charge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Monogram",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wordmark",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Initial",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ampersand",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Serif",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Emblem",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hello",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Globe",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Link",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Octagram",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Coil",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Trinity",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Venn",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Echo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rosette",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upload a logo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Add text",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Snapping",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Keyboard shortcuts",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Export",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drop or paste an SVG or PNG logo to style it",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Undo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Redo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Duplicate",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Delete",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder Circle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide Circle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder Box",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide Box",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Add shape",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Remove a color",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Add a color",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 1: #02010e",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 2: #260c84",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 3: #972a96",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 4: #d86b3c",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 5: #f5e374",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colors 6: #ffffff",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Inner glow",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Outer glow",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Contour",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Angle",
+          "type": null,
+          "min": "0",
+          "max": "360"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Speed",
+          "type": null,
+          "min": "0",
+          "max": "4"
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Outline",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Shadow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Glow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Mark size",
+          "type": null,
+          "min": "0.2",
+          "max": "1.6"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Mark rotation",
+          "type": null,
+          "min": "-180",
+          "max": "180"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shape",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "None",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gradient",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": "switch",
+          "label": "Morph",
+          "type": "button",
+          "min": null,
+          "max": null
+        }
+      ],
+      "canvasCount": 1,
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Initial public controls only; no exports, uploads, camera, microphone, listening or exhaustive preset traversal."
+    },
+    {
+      "slug": "texture-lab",
+      "url": "https://reactbits.dev/tools/texture-lab",
+      "headings": [
+        "Soft type",
+        "Layers"
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Search",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Preferences",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Switch to light mode",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Menu",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Texture Lab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "",
+          "type": "file",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Texture Lab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Styles",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Effects",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Search 160 styles",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Soft type",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Terminal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color type",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rain",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Braille",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Outline type",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Blocks",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot matrix",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Diamonds",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crosses",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Strokes",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Barcode",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Studio",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mixed glyphs",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Typewriter",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Newsprint",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "CMYK",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Riso",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Comic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Banknote",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Zine",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pop art",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pop strip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ukiyo-e",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Prussian",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night print",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crosshatch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sun print",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stipple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color stipple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pointillist",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Seurat",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Velvet",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Color mezzotint",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pixel art",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tiles",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bricks",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Voxels",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Honeycomb",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Home computer",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Handheld",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "1-bit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fantasy console",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Arcade",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "LED wall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Atkinson",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Micro",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Neon dither",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Amber",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Teletext",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ink sketch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Watercolor",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Chalkboard",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Oil paint",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Poster",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pencil",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Charcoal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Colored pencil",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Topographic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spiral etch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bauhaus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Asterisk",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Arcs",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Maze",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Woven",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Basket",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Low poly",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Origami",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Skyline",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Data city",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wireframe",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Synthwave",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Currents",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pen flow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Schematic",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Blueprint",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Circuit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Field notes",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reeded",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wave glass",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pool",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Frosted",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rain window",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hammered",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crystal ball",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shattered",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crackle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stained glass",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rose window",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pressed glass",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glass blocks",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Prism",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Thermal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glitter",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Two tone",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Afterglow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Infrared",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fringe",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mirror ball",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sequins",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stereo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stardust",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fireflies",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Neon edges",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Neon trace",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light burst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Vortex",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Starburst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light sweep",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Light painting",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Chrome",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mercury",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crystal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Gemstone",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pressed metal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Letterpress",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plaster",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Marble",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Molten gold",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Forge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Oil slick",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Soap bubble",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Relief",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tape",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Signal loss",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Broadcast",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Corrupt",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Deep fried",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sliced",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pixel sort",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Forensics",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "RGB split",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Scanlines",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lo-fi",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Super 8",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cinema",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Night glow",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Expired film",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Noir",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bleach bypass",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Golden hour",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Soft focus",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Motion",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Zoom burst",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Miniature",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bokeh",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dream",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Liquid",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mandala",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pixel stretch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Twirl",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pinch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bulge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Little planet",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shear",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Smudge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Zigzag",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ripple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Infinite",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Waves",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upload an image or video",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Neon video",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "100%",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hold to compare",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fullscreen",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Export",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drop, paste or upload your own photo, video or style",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pause",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Playhead",
+          "type": null,
+          "min": "0",
+          "max": "5.68"
+        },
+        {
+          "tag": "SPAN",
+          "role": "slider",
+          "label": "Trim start",
+          "type": null,
+          "min": "0",
+          "max": "5.68"
+        },
+        {
+          "tag": "SPAN",
+          "role": "slider",
+          "label": "Trim end",
+          "type": null,
+          "min": "0",
+          "max": "5.68"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reset style",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Strength",
+          "type": null,
+          "min": "0",
+          "max": "100"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Size",
+          "type": null,
+          "min": "3",
+          "max": "40"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Density",
+          "type": null,
+          "min": "0.05",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Glow",
+          "type": null,
+          "min": "0",
+          "max": "1.5"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Undo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Redo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Add",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder Blur",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide Blur",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder Adjust",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide Adjust",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder ASCII",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide ASCII",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Reorder Grain",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hide Grain",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "0 more",
+          "type": "button",
+          "min": null,
+          "max": null
+        }
+      ],
+      "canvasCount": 1,
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Initial public controls only; no exports, uploads, camera, microphone, listening or exhaustive preset traversal."
+    },
+    {
+      "slug": "sound-lab",
+      "url": "https://reactbits.dev/tools/sound-lab",
+      "headings": [
+        "Pebble",
+        "Tune",
+        "Effects",
+        "Install"
+      ],
+      "controls": [
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Search",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Preferences",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Switch to light mode",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Menu",
+          "type": "submit",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sound Lab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sound Lab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Interface 100",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Video 100",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "INPUT",
+          "role": null,
+          "label": "Search sounds",
+          "type": "text",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Show",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pebble327 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Felt247 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Nib197 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dew376 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Puff193 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plush301 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Boop259 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tink256 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bead523 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Notch145 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Halo690 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pluck463 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dot266 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Petal431 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Marble325 ms",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Clasp",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Unclasp",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Check",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Daylight",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Nightfall",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rocker",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Spring",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bloom",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Crest",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shrug",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Nudge",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Settle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shake",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hint",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Undo",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Chime",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Lantern",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ping",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ripple",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Arrive",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Cue",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Signal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tine",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Swish",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Breeze",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Sweep",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glide",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Flick",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Unfold",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fold",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Drawer",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Keycap",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Chiclet",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Thock",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Enter",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Erase",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Fill",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dawn",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dusk",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Seal",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Release",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Plug",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Unplug",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ember",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Advance",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Retreat",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tab",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Leaf",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dive",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Popover",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pickup",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Place",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Snap",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shuffle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hover",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Rebound",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Stack",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Mark",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Pulse",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Uplink",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Downlink",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Second",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Summit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Orbit",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Dispatch",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Bubble",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Ellipsis",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wink",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Callout",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Receipt",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Huddle",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Roll",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Hold",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Tally",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Wrap",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Shutter",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Skip",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Level",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Coin",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Glimmer",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Upgrade",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Confetti",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Heart",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Streak",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Treasure",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Export",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Play Pebble",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Play",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Play",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Play from",
+          "type": null,
+          "min": "0",
+          "max": "0.33"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Loop playback",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Pitch",
+          "type": null,
+          "min": "-12",
+          "max": "12"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Tone",
+          "type": null,
+          "min": "-1",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Length",
+          "type": null,
+          "min": "0.5",
+          "max": "2"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Space",
+          "type": null,
+          "min": "-1",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Punch",
+          "type": null,
+          "min": "-1",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Variation",
+          "type": null,
+          "min": "0",
+          "max": "1"
+        },
+        {
+          "tag": "DIV",
+          "role": "slider",
+          "label": "Volume",
+          "type": null,
+          "min": "-24",
+          "max": "6"
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Add",
+          "type": "button",
+          "min": null,
+          "max": null
+        },
+        {
+          "tag": "BUTTON",
+          "role": null,
+          "label": "Copy install command",
+          "type": "button",
+          "min": null,
+          "max": null
+        }
+      ],
+      "canvasCount": 101,
+      "status": "page-observed",
+      "page_errors": [],
+      "limit": "Initial public controls only; no exports, uploads, camera, microphone, listening or exhaustive preset traversal."
+    }
+  ]
+}

@@ -10,12 +10,16 @@ blocks={x['slug']:x for x in read('browser-blocks.json')['items']}
 replays={x['slug']:x for x in read('free-replays.json')['items']}
 finds={x['slug']:x for x in read('finds-browser.json')['items']}
 gestures={x['slug']:x for x in read('gesture-checks.json')['items']}
+recovery={x['slug']:x for x in read('recovery-checks.json')['items']}
 ledger=[]
 for item in items:
     row={'kind':item['kind'],'slug':item['slug'],'name':item['name'],'url':item['url'],'public_metadata_checked':item['page_verified'],'complete_motion_verification':False}
     if item['kind']=='block':
         b=blocks.get(item['slug'],{});r=replays.get(item['slug'],{});g=gestures.get(item['slug'],{})
         row.update(panel=b.get('preview','not checked'),source_archived=b.get('upstream_source',False),replay=r.get('status','not applicable'),direct_check=g.get('status','not checked'))
+        if item['slug'] in recovery:row['recovery_check']=recovery[item['slug']]
+        guide=ROOT/'components'/(item['slug']+'.md')
+        if guide.exists():row['component_guide']='components/'+guide.name
         row['remaining']='Exact live/source motion restricted by Pro access' if b.get('preview')=='restricted-static-preview' else 'Exhaustive state/input/device review and real application integration remain project-specific work'
     elif item['kind']=='find':
         f=finds.get(item['slug'],{});row.update(media=f.get('status','not checked'),frames=len(f.get('frames',[])))
@@ -37,6 +41,7 @@ lines=['# Coverage and remaining work','','Snapshot: 17 November 2026. Shared re
        '| Free source | 47 components, 24 synthesised sounds, 170 unchanged upstream files | MIT source snapshot, not production integration |',
        f'| Free demonstrations | {rc.get("replay-sampled",0)} guided replays sampled; Label input exercised directly | Sampling around 0, 1.5 and 4 seconds misses intermediate/longer states |',
        f'| Direct interactions | {gc.get("passed",0)} selected checks passed | Desktop browser, synthetic demo inputs only |',
+       '| Additional recovery checks | OTP rejection/clear and reduced-motion accept; slide short-release/full-confirm passed | Public demos, not real authentication or transactions |',
        f'| Finds | {fc.get("video-frames-sampled",0)} videos sampled; {fc.get("static-image-sampled",0)} static images sampled; {fc.get("error",0)} unresolved media checks | Mostly one midpoint frame; seven named priorities have four frames. Not full playback or original-source verification |',
        '| Sounds | 145 public entries indexed; 24 free sound implementations archived | No listening comparison or paid WAV/source extraction |',
        '| Supporting pages | 13 public pages indexed; Docs, Licence, MCP, pricing and Bench inspected in browser | No account creation, purchase, billing or signed-in workflow tested |',
@@ -46,6 +51,7 @@ lines=['# Coverage and remaining work','','Snapshot: 17 November 2026. Shared re
        '- [Block controls](catalogue/browser-blocks.json), [free replay observations](catalogue/free-replays.json), [direct gesture checks](catalogue/gesture-checks.json).',
        '- [Finds browser observations](catalogue/finds-browser.json): access method, duration and sampled positions where available.',
        '- [Source formulas/events index](catalogue/source-index.json), [file hashes](catalogue/upstream-sha256.json).','',
+       '- [47 free-component guides](components/) and [additional recovery checks](catalogue/recovery-checks.json).','',
        'Screenshots are local observation aids, not redistributed assets. Some early captures caught the panel-opening transition; the media pass was repeated with an explicit settle interval. Do not use a capture without visually checking it. Small contact-sheet inspection is a broad visual pass, not a precision timing measurement.','',
        '## What is still needed for exact fidelity','',
        '1. For the free component selected by a project, start with the archived source and record chosen props. Then verify all relevant pointer/keyboard/touch and interruption states in that project.',

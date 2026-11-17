@@ -11,6 +11,7 @@ Snapshot: 17 November 2026. Shared reference research for all projects.
 | Free source | 47 components, 24 synthesised sounds, 170 unchanged upstream files | MIT source snapshot, not production integration |
 | Free demonstrations | 46 guided replays sampled; Label input exercised directly | Sampling around 0, 1.5 and 4 seconds misses intermediate/longer states |
 | Direct interactions | 8 selected checks passed | Desktop browser, synthetic demo inputs only |
+| Additional recovery checks | OTP rejection/clear and reduced-motion accept; slide short-release/full-confirm passed | Public demos, not real authentication or transactions |
 | Finds | 260 videos sampled; 1 static images sampled; 0 unresolved media checks | Mostly one midpoint frame; seven named priorities have four frames. Not full playback or original-source verification |
 | Sounds | 145 public entries indexed; 24 free sound implementations archived | No listening comparison or paid WAV/source extraction |
 | Supporting pages | 13 public pages indexed; Docs, Licence, MCP, pricing and Bench inspected in browser | No account creation, purchase, billing or signed-in workflow tested |
@@ -22,6 +23,8 @@ Snapshot: 17 November 2026. Shared reference research for all projects.
 - [Block controls](catalogue/browser-blocks.json), [free replay observations](catalogue/free-replays.json), [direct gesture checks](catalogue/gesture-checks.json).
 - [Finds browser observations](catalogue/finds-browser.json): access method, duration and sampled positions where available.
 - [Source formulas/events index](catalogue/source-index.json), [file hashes](catalogue/upstream-sha256.json).
+
+- [47 free-component guides](components/) and [additional recovery checks](catalogue/recovery-checks.json).
 
 Screenshots are local observation aids, not redistributed assets. Some early captures caught the panel-opening transition; the media pass was repeated with an explicit settle interval. Do not use a capture without visually checking it. Small contact-sheet inspection is a broad visual pass, not a precision timing measurement.
 

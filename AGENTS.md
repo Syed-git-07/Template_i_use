@@ -15,3 +15,6 @@ This repository serves all projects, not just the portfolio. The user explicitly
 - Preserve motion while checking keyboard/touch alternatives, reduced motion, contrast and semantics.
 - Keep product copy brief; technical explanation belongs in documentation.
 - Recheck dated source counts and access levels when updating.
+- React Bits is approved across all projects. Include every category, not only the favorites. Backgrounds are catalogued but not selected for the portfolio.
+- React Bits uses MIT + Commons Clause. Keep its implementation under ignored `.local/`; publish authored notes, factual APIs and pinned source links, not a redistributed component/tool/sound library.
+- Start a cross-project handoff from `REUSE-PROMPT.md`; preserve the distinction between full inventory, source indexing, tested gestures and still-unverified states.

@@ -38,6 +38,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/action-node.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -129,6 +130,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/ascii-wake.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -142,6 +144,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/aspect.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -155,6 +158,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/asset-swap.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -168,6 +172,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/picker.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -311,6 +316,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/card-stack.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -324,6 +330,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/card-swap.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -337,6 +344,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/carousel.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -350,6 +358,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/checklist.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -428,6 +437,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/context-meter.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -467,6 +477,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/liq-create.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -558,6 +569,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/drag-ball.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -597,6 +609,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/dynamic-island.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -623,6 +636,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/emoji-reactions.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -636,6 +650,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/escape.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -649,6 +664,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/eye-tracker.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -766,6 +782,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/folding-bill.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -805,6 +822,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/generate.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -831,6 +849,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/glass-bubble.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -870,6 +889,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/heat-word.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -909,6 +929,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/image-accordion.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -922,6 +943,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/image-compare.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1013,6 +1035,7 @@
       "source_archived": true,
       "replay": "no-guided-replay-control",
       "direct_check": "passed",
+      "component_guide": "components/label-input.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1039,6 +1062,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/like.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1078,6 +1102,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/liq-toggle.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1143,6 +1168,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/magnet-select.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1156,6 +1182,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/dock.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1247,6 +1274,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/sound.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1273,6 +1301,16 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "recovery_check": {
+        "slug": "one-time-code",
+        "assertions": [
+          "Non-digit input is removed",
+          "Rejected code enters rejection then clears and restores typing",
+          "Accept completes with reduced-motion preference"
+        ],
+        "status": "passed"
+      },
+      "component_guide": "components/one-time-code.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1338,6 +1376,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/palette.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1351,6 +1390,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/particles.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1546,6 +1586,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/pull.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1650,6 +1691,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/rolling-counter.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1663,6 +1705,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/seek.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1741,6 +1784,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/signature.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1767,6 +1811,15 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "recovery_check": {
+        "slug": "slide-confirm",
+        "assertions": [
+          "Short slow drag returns handle to origin without confirming",
+          "Full pointer drag reaches confirmed demo state"
+        ],
+        "status": "passed"
+      },
+      "component_guide": "components/slide-confirm.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1780,6 +1833,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/slingshot.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1793,6 +1847,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/slosh.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1845,6 +1900,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/stacked-bars.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -1884,6 +1940,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "passed",
+      "component_guide": "components/step-player.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2027,6 +2084,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/tilt.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2040,6 +2098,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/time-scrubber.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2053,6 +2112,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/toast-stack.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2066,6 +2126,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/todo-tower.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2105,6 +2166,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/upload-dropzone.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2131,6 +2193,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/voice-note.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
@@ -2144,6 +2207,7 @@
       "source_archived": true,
       "replay": "replay-sampled",
       "direct_check": "not checked",
+      "component_guide": "components/wake-slider.md",
       "remaining": "Exhaustive state/input/device review and real application integration remain project-specific work"
     },
     {
